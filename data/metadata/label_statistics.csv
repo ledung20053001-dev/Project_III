@@ -1,0 +1,94 @@
+﻿primary_label,total_cases,total_images,avg_label_weight
+Eczema,135,306,0.9864444444444443
+Urticaria,91,176,0.9881318681318682
+Allergic Contact Dermatitis,43,84,0.9941860465116279
+Folliculitis,41,82,0.9804878048780489
+Insect Bite,31,71,0.9793548387096774
+"Acute dermatitis, NOS",27,54,1.0
+O/E - ecchymoses present,20,40,1.0
+Herpes Zoster,19,33,0.988421052631579
+Psoriasis,19,39,0.9868421052631579
+Acne,18,35,0.9555555555555555
+Herpes Simplex,17,32,1.0
+Tinea,14,31,0.9635714285714286
+Tinea Versicolor,13,24,0.9830769230769231
+"Chronic dermatitis, NOS",12,19,1.0
+Pigmented purpuric eruption,11,25,0.9872727272727272
+Irritant Contact Dermatitis,11,18,1.0
+Leukocytoclastic Vasculitis,11,21,1.0
+Acute and chronic dermatitis,10,19,1.0
+CD - Contact dermatitis,10,23,1.0
+Rosacea,9,18,0.9666666666666666
+Purpura,9,10,1.0
+Granuloma annulare,9,15,1.0
+Impetigo,7,13,1.0
+Molluscum Contagiosum,7,10,1.0
+Scar Condition,6,14,1.0
+Stasis Dermatitis,6,18,1.0
+Perioral Dermatitis,6,13,0.9516666666666667
+Verruca vulgaris,5,11,1.0
+Seborrheic Dermatitis,5,11,1.0
+Keratosis pilaris,5,14,0.942
+Hidradenitis,4,8,0.95
+Lichen Simplex Chronicus,4,6,0.9275
+Confluent and reticulate papillomatosis,4,5,1.0
+Actinic Keratosis,4,6,1.0
+Abscess,4,6,1.0
+Erythema multiforme,4,8,1.0
+Pityriasis rosea,4,6,0.9275
+Prurigo nodularis,4,10,1.0
+Erythema ab igne,3,6,1.0
+Venous Stasis Ulcer,2,4,1.0
+Miliaria,2,5,1.0
+Lichen planus/lichenoid eruption,2,6,1.0
+Idiopathic guttate hypomelanosis,2,2,1.0
+Hemangioma,2,3,1.0
+Cutaneous larva migrans,2,3,1.0
+Drug Rash,2,4,1.0
+Photodermatitis,2,2,1.0
+Xerosis,2,2,1.0
+SCC/SCCIS,2,6,1.0
+Paronychia,2,3,1.0
+Inflicted skin lesions,2,4,1.0
+Contact dermatitis caused by Rhus diversiloba,1,3,1.0
+Cheilitis,1,1,1.0
+Candida intertrigo,1,1,1.0
+Annular erythema,1,1,1.0
+Acanthosis nigricans,1,3,1.0
+Acute-on-chronic dyshidrotic eczema of hands,1,3,1.0
+Agminate folliculitis,1,3,1.0
+Bullous Pemphigoid,1,3,1.0
+Arsenical keratosis,1,2,1.0
+Cutaneous lupus,1,1,1.0
+Elephantiasis nostras,1,1,1.0
+Epidermal nevus,1,1,1.0
+Dermatofibroma,1,3,0.75
+Deep fungal infection,1,2,1.0
+Chicken pox exanthem,1,1,1.0
+Lichenified eczema,1,1,1.0
+Melanin pigmentation due to exogenous substance,1,2,1.0
+Milia,1,3,1.0
+Knuckle pads,1,1,1.0
+Lichen striatus,1,3,1.0
+Hypersensitivity,1,1,1.0
+Ichthyosis,1,2,1.0
+Hemosiderin pigmentation of skin due to venous insufficiency,1,3,1.0
+Foreign body reaction of the skin,1,3,1.0
+Lichenified eczematous dermatitis,1,3,1.0
+Local infection of wound,1,3,1.0
+O/E - petechiae present,1,1,1.0
+O/E - petechiae on skin,1,1,1.0
+Melasma,1,3,1.0
+SK/ISK,1,1,1.0
+O/E - vesicles present,1,1,1.0
+Prurigo,1,3,1.0
+O/E - pustules,1,3,1.0
+Pincer nail deformity,1,2,1.0
+Traumatic ulcer,1,1,1.0
+Traumatic blister,1,1,1.0
+Skin ulcer,1,1,1.0
+Vasculitis of the skin,1,1,1.0
+Varicose veins of lower extremity,1,1,1.0
+Viral Exanthem,1,3,1.0
+Vitiligo,1,3,0.71
+varicose vein,1,3,1.0

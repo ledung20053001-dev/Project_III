@@ -1,0 +1,652 @@
+﻿case_id,image_path,source_path,label_en,label_vi,label_weight
+-1033431645373513522,data\images\Urticaria\-1033431645373513522_1.jpg,dataset/images/-1677898261371801194.png,Urticaria,Mề đay,1.0
+-1033431645373513522,data\images\Urticaria\-1033431645373513522_2.jpg,dataset/images/2587768503558995392.png,Urticaria,Mề đay,1.0
+-1033431645373513522,data\images\Urticaria\-1033431645373513522_3.jpg,dataset/images/5836170508263925618.png,Urticaria,Mề đay,1.0
+-1073544188024944010,data\images\Urticaria\-1073544188024944010_1.jpg,dataset/images/-1542787778564695920.png,Urticaria,Mề đay,1.0
+-1073544188024944010,data\images\Urticaria\-1073544188024944010_2.jpg,dataset/images/-3253987854671575512.png,Urticaria,Mề đay,1.0
+-1073544188024944010,data\images\Urticaria\-1073544188024944010_3.jpg,dataset/images/108462233489916244.png,Urticaria,Mề đay,1.0
+-1079717215777778516,data\images\Eczema\-1079717215777778516_1.jpg,dataset/images/-3060870142909393201.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1120481478267460560,data\images\Eczema\-1120481478267460560_1.jpg,dataset/images/-3933475004882152757.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1120481478267460560,data\images\Eczema\-1120481478267460560_2.jpg,dataset/images/-6233451743223829948.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1120481478267460560,data\images\Eczema\-1120481478267460560_3.jpg,dataset/images/-764324206369620251.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-114959561601268372,data\images\Folliculitis\-114959561601268372_1.jpg,dataset/images/-106355051564979815.png,Folliculitis,Viêm nang lông,1.0
+-114959561601268372,data\images\Folliculitis\-114959561601268372_2.jpg,dataset/images/2429059167940207604.png,Folliculitis,Viêm nang lông,1.0
+-114959561601268372,data\images\Folliculitis\-114959561601268372_3.jpg,dataset/images/5920067063852620456.png,Folliculitis,Viêm nang lông,1.0
+-1176139745215707994,data\images\Eczema\-1176139745215707994_1.jpg,dataset/images/-3829216436875682288.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1176139745215707994,data\images\Eczema\-1176139745215707994_2.jpg,dataset/images/527530180092854973.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1176139745215707994,data\images\Eczema\-1176139745215707994_3.jpg,dataset/images/8198029069118414622.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1214152415217842430,data\images\Psoriasis\-1214152415217842430_1.jpg,dataset/images/8992004962400932960.png,Psoriasis,Vảy nến,1.0
+-130215202506383973,data\images\Eczema\-130215202506383973_1.jpg,dataset/images/-8383531997336683331.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-130215202506383973,data\images\Eczema\-130215202506383973_2.jpg,dataset/images/6319795661728367224.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-130215202506383973,data\images\Eczema\-130215202506383973_3.jpg,dataset/images/7903520447837776507.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1306019410543480387,data\images\Urticaria\-1306019410543480387_1.jpg,dataset/images/1323541714731364649.png,Urticaria,Mề đay,1.0
+-1306019410543480387,data\images\Urticaria\-1306019410543480387_2.jpg,dataset/images/4761491203812701728.png,Urticaria,Mề đay,1.0
+-1306019410543480387,data\images\Urticaria\-1306019410543480387_3.jpg,dataset/images/8775618016429057914.png,Urticaria,Mề đay,1.0
+-141393122114413977,data\images\Acne\-141393122114413977_1.jpg,dataset/images/-2641434887280849554.png,Acne,Mụn trứng cá,1.0
+-1440607007617551864,data\images\Eczema\-1440607007617551864_1.jpg,dataset/images/-2367385470888041402.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1489554259511957542,data\images\Eczema\-1489554259511957542_1.jpg,dataset/images/325464533153467313.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1542593210179870498,data\images\Impetigo\-1542593210179870498_1.jpg,dataset/images/5904657460937594916.png,Impetigo,Chốc lở,1.0
+-158089738637053724,data\images\Urticaria\-158089738637053724_1.jpg,dataset/images/2983323875335943836.png,Urticaria,Mề đay,1.0
+-1659559780402537085,data\images\Urticaria\-1659559780402537085_1.jpg,dataset/images/-2490625174049341192.png,Urticaria,Mề đay,1.0
+-1659559780402537085,data\images\Urticaria\-1659559780402537085_2.jpg,dataset/images/3563635796867698533.png,Urticaria,Mề đay,1.0
+-1704513895095613963,data\images\Urticaria\-1704513895095613963_1.jpg,dataset/images/-1593304767852217140.png,Urticaria,Mề đay,1.0
+-1704513895095613963,data\images\Urticaria\-1704513895095613963_2.jpg,dataset/images/-4513712309826648872.png,Urticaria,Mề đay,1.0
+-1800345024210002541,data\images\Urticaria\-1800345024210002541_1.jpg,dataset/images/-3613755685489918074.png,Urticaria,Mề đay,1.0
+-1800345024210002541,data\images\Urticaria\-1800345024210002541_2.jpg,dataset/images/-7055715688837979632.png,Urticaria,Mề đay,1.0
+-1800345024210002541,data\images\Urticaria\-1800345024210002541_3.jpg,dataset/images/1646975859985316850.png,Urticaria,Mề đay,1.0
+-1867477807071653688,data\images\Eczema\-1867477807071653688_1.jpg,dataset/images/-6241573689775323734.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1867477807071653688,data\images\Eczema\-1867477807071653688_2.jpg,dataset/images/-8295744562871956484.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1867477807071653688,data\images\Eczema\-1867477807071653688_3.jpg,dataset/images/494985385299361772.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-1964801097019886136,data\images\Psoriasis\-1964801097019886136_1.jpg,dataset/images/-1771453055734416513.png,Psoriasis,Vảy nến,1.0
+-1964801097019886136,data\images\Psoriasis\-1964801097019886136_2.jpg,dataset/images/-4764318591436160244.png,Psoriasis,Vảy nến,1.0
+-1964801097019886136,data\images\Psoriasis\-1964801097019886136_3.jpg,dataset/images/8252971736179589032.png,Psoriasis,Vảy nến,1.0
+-1965995104253518640,data\images\Acne\-1965995104253518640_1.jpg,dataset/images/-1013370714954869987.png,Acne,Mụn trứng cá,0.7
+-1965995104253518640,data\images\Acne\-1965995104253518640_2.jpg,dataset/images/4658720815127979704.png,Acne,Mụn trứng cá,0.7
+-2079383910052664228,data\images\Eczema\-2079383910052664228_1.jpg,dataset/images/-8001825271725063018.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2109737640141340092,data\images\Eczema\-2109737640141340092_1.jpg,dataset/images/6069491081672095270.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2110024220741452514,data\images\Folliculitis\-2110024220741452514_1.jpg,dataset/images/-8484522439451719694.png,Folliculitis,Viêm nang lông,1.0
+-2110024220741452514,data\images\Folliculitis\-2110024220741452514_2.jpg,dataset/images/3116486262777899251.png,Folliculitis,Viêm nang lông,1.0
+-2110024220741452514,data\images\Folliculitis\-2110024220741452514_3.jpg,dataset/images/4418925407835564825.png,Folliculitis,Viêm nang lông,1.0
+-2281932453725824253,data\images\Folliculitis\-2281932453725824253_1.jpg,dataset/images/-6843967392046779482.png,Folliculitis,Viêm nang lông,1.0
+-2281932453725824253,data\images\Folliculitis\-2281932453725824253_2.jpg,dataset/images/8398658738836518286.png,Folliculitis,Viêm nang lông,1.0
+-2288801710625587400,data\images\Impetigo\-2288801710625587400_1.jpg,dataset/images/5495915177571105531.png,Impetigo,Chốc lở,1.0
+-2494478177641295044,data\images\Eczema\-2494478177641295044_1.jpg,dataset/images/-3075979742684785566.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2494478177641295044,data\images\Eczema\-2494478177641295044_2.jpg,dataset/images/-3392381039030885615.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2494478177641295044,data\images\Eczema\-2494478177641295044_3.jpg,dataset/images/-8694897122406900841.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2568835947642432686,data\images\Eczema\-2568835947642432686_1.jpg,dataset/images/-112918541630908439.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-2568835947642432686,data\images\Eczema\-2568835947642432686_2.jpg,dataset/images/7872231196341073090.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-2568835947642432686,data\images\Eczema\-2568835947642432686_3.jpg,dataset/images/8847994436268462446.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-2615067672343817892,data\images\Eczema\-2615067672343817892_1.jpg,dataset/images/-3019194824877098187.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2615067672343817892,data\images\Eczema\-2615067672343817892_2.jpg,dataset/images/3354898735789892138.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2642926552616181779,data\images\Urticaria\-2642926552616181779_1.jpg,dataset/images/-1714274861495761199.png,Urticaria,Mề đay,1.0
+-2642926552616181779,data\images\Urticaria\-2642926552616181779_2.jpg,dataset/images/-4476732323363532196.png,Urticaria,Mề đay,1.0
+-2694778364670578365,data\images\Eczema\-2694778364670578365_1.jpg,dataset/images/-6176512643852086349.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2758674668179597959,data\images\Folliculitis\-2758674668179597959_1.jpg,dataset/images/-405278788109911439.png,Folliculitis,Viêm nang lông,1.0
+-2758674668179597959,data\images\Folliculitis\-2758674668179597959_2.jpg,dataset/images/2565931963377388.png,Folliculitis,Viêm nang lông,1.0
+-2758674668179597959,data\images\Folliculitis\-2758674668179597959_3.jpg,dataset/images/5688718810079875620.png,Folliculitis,Viêm nang lông,1.0
+-2890762660858104434,data\images\Urticaria\-2890762660858104434_1.jpg,dataset/images/-7929111754093486633.png,Urticaria,Mề đay,1.0
+-2929036763099166629,data\images\Eczema\-2929036763099166629_1.jpg,dataset/images/-6125741516004773114.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2929036763099166629,data\images\Eczema\-2929036763099166629_2.jpg,dataset/images/-8925807443490894111.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-2929036763099166629,data\images\Eczema\-2929036763099166629_3.jpg,dataset/images/4241713435905392635.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3059654233454543811,data\images\Eczema\-3059654233454543811_1.jpg,dataset/images/-8739886638448089494.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3059654233454543811,data\images\Eczema\-3059654233454543811_2.jpg,dataset/images/2677523027699127867.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3059654233454543811,data\images\Eczema\-3059654233454543811_3.jpg,dataset/images/4532011298358929616.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3106778686281302656,data\images\Acne\-3106778686281302656_1.jpg,dataset/images/3720678921295897597.png,Acne,Mụn trứng cá,1.0
+-3106778686281302656,data\images\Acne\-3106778686281302656_2.jpg,dataset/images/4357305008686989401.png,Acne,Mụn trứng cá,1.0
+-3106778686281302656,data\images\Acne\-3106778686281302656_3.jpg,dataset/images/4633807012697720167.png,Acne,Mụn trứng cá,1.0
+-3239313504364543357,data\images\Urticaria\-3239313504364543357_1.jpg,dataset/images/-6815104299099118193.png,Urticaria,Mề đay,1.0
+-3313654553366162946,data\images\Folliculitis\-3313654553366162946_1.jpg,dataset/images/-2845520797762628017.png,Folliculitis,Viêm nang lông,1.0
+-3321349411813362669,data\images\Urticaria\-3321349411813362669_1.jpg,dataset/images/-5899215175530827021.png,Urticaria,Mề đay,1.0
+-3321349411813362669,data\images\Urticaria\-3321349411813362669_2.jpg,dataset/images/-7290536339273016519.png,Urticaria,Mề đay,1.0
+-3321349411813362669,data\images\Urticaria\-3321349411813362669_3.jpg,dataset/images/-828006515596471195.png,Urticaria,Mề đay,1.0
+-3334867013813268088,data\images\Eczema\-3334867013813268088_1.jpg,dataset/images/102143902120424355.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3334867013813268088,data\images\Eczema\-3334867013813268088_2.jpg,dataset/images/1346388411578596618.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3334867013813268088,data\images\Eczema\-3334867013813268088_3.jpg,dataset/images/1648002750642308480.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-334225504013808742,data\images\Folliculitis\-334225504013808742_1.jpg,dataset/images/383418029847586202.png,Folliculitis,Viêm nang lông,1.0
+-3674218230973070176,data\images\Urticaria\-3674218230973070176_1.jpg,dataset/images/-4055387610466540879.png,Urticaria,Mề đay,1.0
+-3729405817702330277,data\images\Eczema\-3729405817702330277_1.jpg,dataset/images/-4496469068484871833.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3729405817702330277,data\images\Eczema\-3729405817702330277_2.jpg,dataset/images/-8141952024667250088.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3768594983498155183,data\images\Urticaria\-3768594983498155183_1.jpg,dataset/images/9030372736485025618.png,Urticaria,Mề đay,1.0
+-3837747594652952379,data\images\Urticaria\-3837747594652952379_1.jpg,dataset/images/-1340597856042135006.png,Urticaria,Mề đay,1.0
+-3837747594652952379,data\images\Urticaria\-3837747594652952379_2.jpg,dataset/images/8598709142834861630.png,Urticaria,Mề đay,1.0
+-3837747594652952379,data\images\Urticaria\-3837747594652952379_3.jpg,dataset/images/8867130140277486382.png,Urticaria,Mề đay,1.0
+-388844336225584167,data\images\Urticaria\-388844336225584167_1.jpg,dataset/images/-4813138192071438695.png,Urticaria,Mề đay,1.0
+-3902972343084754168,data\images\Eczema\-3902972343084754168_1.jpg,dataset/images/-1923721324804991114.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3902972343084754168,data\images\Eczema\-3902972343084754168_2.jpg,dataset/images/2276772204019115957.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3902972343084754168,data\images\Eczema\-3902972343084754168_3.jpg,dataset/images/3870864391545738942.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-3932945708986814119,data\images\Psoriasis\-3932945708986814119_1.jpg,dataset/images/-5896619613088824953.png,Psoriasis,Vảy nến,1.0
+-3932945708986814119,data\images\Psoriasis\-3932945708986814119_2.jpg,dataset/images/-7847308518165789474.png,Psoriasis,Vảy nến,1.0
+-3932945708986814119,data\images\Psoriasis\-3932945708986814119_3.jpg,dataset/images/8071861076323429989.png,Psoriasis,Vảy nến,1.0
+-3944824307861448611,data\images\Urticaria\-3944824307861448611_1.jpg,dataset/images/-8614320058673555741.png,Urticaria,Mề đay,1.0
+-4075310940141929102,data\images\Eczema\-4075310940141929102_1.jpg,dataset/images/-2101790873047080311.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4076782359054286063,data\images\Eczema\-4076782359054286063_1.jpg,dataset/images/-3274490469223825387.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4076782359054286063,data\images\Eczema\-4076782359054286063_2.jpg,dataset/images/-839789444645696145.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4113364670973148735,data\images\Eczema\-4113364670973148735_1.jpg,dataset/images/754932103317031965.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4113364670973148735,data\images\Eczema\-4113364670973148735_2.jpg,dataset/images/9133875180658987395.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4232149005208991014,data\images\Folliculitis\-4232149005208991014_1.jpg,dataset/images/5730797698644603292.png,Folliculitis,Viêm nang lông,1.0
+-429900437128686382,data\images\Eczema\-429900437128686382_1.jpg,dataset/images/4708050091267005435.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4584149572849454443,data\images\Urticaria\-4584149572849454443_1.jpg,dataset/images/-3781183398515014808.png,Urticaria,Mề đay,1.0
+-4584149572849454443,data\images\Urticaria\-4584149572849454443_2.jpg,dataset/images/-6794302539622686927.png,Urticaria,Mề đay,1.0
+-4584149572849454443,data\images\Urticaria\-4584149572849454443_3.jpg,dataset/images/5586836237752037790.png,Urticaria,Mề đay,1.0
+-4603590259708776060,data\images\Eczema\-4603590259708776060_1.jpg,dataset/images/-6051243062560795476.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4603590259708776060,data\images\Eczema\-4603590259708776060_2.jpg,dataset/images/6654209008390333607.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4603590259708776060,data\images\Eczema\-4603590259708776060_3.jpg,dataset/images/8452214547612078314.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4653273001465848884,data\images\Urticaria\-4653273001465848884_1.jpg,dataset/images/3649560684285356145.png,Urticaria,Mề đay,1.0
+-4662194556963063742,data\images\Eczema\-4662194556963063742_1.jpg,dataset/images/3087583442204718089.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4681186898904271014,data\images\Folliculitis\-4681186898904271014_1.jpg,dataset/images/2432074176479085493.png,Folliculitis,Viêm nang lông,1.0
+-4695767486983535562,data\images\Folliculitis\-4695767486983535562_1.jpg,dataset/images/-3290459357811788031.png,Folliculitis,Viêm nang lông,1.0
+-4695767486983535562,data\images\Folliculitis\-4695767486983535562_2.jpg,dataset/images/-5844628081699285197.png,Folliculitis,Viêm nang lông,1.0
+-4695767486983535562,data\images\Folliculitis\-4695767486983535562_3.jpg,dataset/images/8894388069855097864.png,Folliculitis,Viêm nang lông,1.0
+-4696067359335613302,data\images\Psoriasis\-4696067359335613302_1.jpg,dataset/images/-2023528583731486939.png,Psoriasis,Vảy nến,1.0
+-4696067359335613302,data\images\Psoriasis\-4696067359335613302_2.jpg,dataset/images/-7904108032805815368.png,Psoriasis,Vảy nến,1.0
+-4696067359335613302,data\images\Psoriasis\-4696067359335613302_3.jpg,dataset/images/2899853049574441942.png,Psoriasis,Vảy nến,1.0
+-4717786449227921352,data\images\Eczema\-4717786449227921352_1.jpg,dataset/images/-5620151857030818891.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4717786449227921352,data\images\Eczema\-4717786449227921352_2.jpg,dataset/images/4453049113724733585.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4717786449227921352,data\images\Eczema\-4717786449227921352_3.jpg,dataset/images/7664588475626098247.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4767504724286041742,data\images\Eczema\-4767504724286041742_1.jpg,dataset/images/-1167977922987061432.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-4816190827733499113,data\images\Urticaria\-4816190827733499113_1.jpg,dataset/images/4488336665965591796.png,Urticaria,Mề đay,0.78
+-4816190827733499113,data\images\Urticaria\-4816190827733499113_2.jpg,dataset/images/7868276118592753353.png,Urticaria,Mề đay,0.78
+-4816190827733499113,data\images\Urticaria\-4816190827733499113_3.jpg,dataset/images/9183825973764207748.png,Urticaria,Mề đay,0.78
+-4871463085330828436,data\images\Urticaria\-4871463085330828436_1.jpg,dataset/images/-5695938389232193781.png,Urticaria,Mề đay,1.0
+-4871463085330828436,data\images\Urticaria\-4871463085330828436_2.jpg,dataset/images/6814928394427948818.png,Urticaria,Mề đay,1.0
+-4887066468139767481,data\images\Urticaria\-4887066468139767481_1.jpg,dataset/images/-5014875360395902914.png,Urticaria,Mề đay,1.0
+-4887066468139767481,data\images\Urticaria\-4887066468139767481_2.jpg,dataset/images/46701840322694455.png,Urticaria,Mề đay,1.0
+-4961646511590674396,data\images\Urticaria\-4961646511590674396_1.jpg,dataset/images/-1611841910156196691.png,Urticaria,Mề đay,1.0
+-500789885194928068,data\images\Psoriasis\-500789885194928068_1.jpg,dataset/images/-1578285749986829241.png,Psoriasis,Vảy nến,1.0
+-5037214955734403674,data\images\Eczema\-5037214955734403674_1.jpg,dataset/images/-8331236734361407077.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5037214955734403674,data\images\Eczema\-5037214955734403674_2.jpg,dataset/images/399339567283993612.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5037214955734403674,data\images\Eczema\-5037214955734403674_3.jpg,dataset/images/8088293622745090444.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5106794152421526192,data\images\Folliculitis\-5106794152421526192_1.jpg,dataset/images/-2160150570103980686.png,Folliculitis,Viêm nang lông,1.0
+-5113427845298536558,data\images\Eczema\-5113427845298536558_1.jpg,dataset/images/-2949233165118597916.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5113427845298536558,data\images\Eczema\-5113427845298536558_2.jpg,dataset/images/6475997498668233825.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5116461847734141400,data\images\Eczema\-5116461847734141400_1.jpg,dataset/images/-3846279000500284888.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5116461847734141400,data\images\Eczema\-5116461847734141400_2.jpg,dataset/images/-7937865557030767709.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5116461847734141400,data\images\Eczema\-5116461847734141400_3.jpg,dataset/images/3590489756829695100.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5133268150886787662,data\images\Eczema\-5133268150886787662_1.jpg,dataset/images/-7898601135031950692.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5133268150886787662,data\images\Eczema\-5133268150886787662_2.jpg,dataset/images/7655633247694126433.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5242570046602320422,data\images\Urticaria\-5242570046602320422_1.jpg,dataset/images/4025099453268867179.png,Urticaria,Mề đay,1.0
+-5256429932634187395,data\images\Eczema\-5256429932634187395_1.jpg,dataset/images/-6869963886668373235.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5256429932634187395,data\images\Eczema\-5256429932634187395_2.jpg,dataset/images/3364079806087643651.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5256429932634187395,data\images\Eczema\-5256429932634187395_3.jpg,dataset/images/4995323676833943296.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5259460570876140361,data\images\Eczema\-5259460570876140361_1.jpg,dataset/images/1657919391725224335.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5259460570876140361,data\images\Eczema\-5259460570876140361_2.jpg,dataset/images/2656129314589493558.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5299077080131243213,data\images\Urticaria\-5299077080131243213_1.jpg,dataset/images/-4986256408299251030.png,Urticaria,Mề đay,1.0
+-5299077080131243213,data\images\Urticaria\-5299077080131243213_2.jpg,dataset/images/-704548144798955620.png,Urticaria,Mề đay,1.0
+-5350220404862050225,data\images\Impetigo\-5350220404862050225_1.jpg,dataset/images/-2288434622033194477.png,Impetigo,Chốc lở,1.0
+-5409557810550060682,data\images\Eczema\-5409557810550060682_1.jpg,dataset/images/8663459152968105626.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5424985950276316702,data\images\Urticaria\-5424985950276316702_1.jpg,dataset/images/4793777024686540807.png,Urticaria,Mề đay,1.0
+-5436299448948641231,data\images\Folliculitis\-5436299448948641231_1.jpg,dataset/images/3268110611825003651.png,Folliculitis,Viêm nang lông,1.0
+-5473654302560810311,data\images\Eczema\-5473654302560810311_1.jpg,dataset/images/1881484952385338081.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5482041191223063337,data\images\Acne\-5482041191223063337_1.jpg,dataset/images/-7049015325438921007.png,Acne,Mụn trứng cá,1.0
+-5482041191223063337,data\images\Acne\-5482041191223063337_2.jpg,dataset/images/2943367903477162427.png,Acne,Mụn trứng cá,1.0
+-5482041191223063337,data\images\Acne\-5482041191223063337_3.jpg,dataset/images/7903578211640293426.png,Acne,Mụn trứng cá,1.0
+-5514159851754006416,data\images\Eczema\-5514159851754006416_1.jpg,dataset/images/-5509163907473104731.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5524949942134680196,data\images\Folliculitis\-5524949942134680196_1.jpg,dataset/images/6299681551118606672.png,Folliculitis,Viêm nang lông,1.0
+-5551577784945548161,data\images\Eczema\-5551577784945548161_1.jpg,dataset/images/-3131182156160569830.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5551577784945548161,data\images\Eczema\-5551577784945548161_2.jpg,dataset/images/-4140668389295807345.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5551577784945548161,data\images\Eczema\-5551577784945548161_3.jpg,dataset/images/2216797838786195119.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5675058813348276029,data\images\Folliculitis\-5675058813348276029_1.jpg,dataset/images/-1096173923758281940.png,Folliculitis,Viêm nang lông,1.0
+-5675058813348276029,data\images\Folliculitis\-5675058813348276029_2.jpg,dataset/images/-3203114283035232770.png,Folliculitis,Viêm nang lông,1.0
+-5675058813348276029,data\images\Folliculitis\-5675058813348276029_3.jpg,dataset/images/-8413673986529017090.png,Folliculitis,Viêm nang lông,1.0
+-568386322973258434,data\images\Psoriasis\-568386322973258434_1.jpg,dataset/images/-5026570001652617553.png,Psoriasis,Vảy nến,1.0
+-568386322973258434,data\images\Psoriasis\-568386322973258434_2.jpg,dataset/images/1289677945134827265.png,Psoriasis,Vảy nến,1.0
+-568386322973258434,data\images\Psoriasis\-568386322973258434_3.jpg,dataset/images/8500148894712667970.png,Psoriasis,Vảy nến,1.0
+-5732857245539407305,data\images\Eczema\-5732857245539407305_1.jpg,dataset/images/-2492813239341820608.png,Eczema,Chàm (viêm da dạng chàm),0.7
+-5732857245539407305,data\images\Eczema\-5732857245539407305_2.jpg,dataset/images/-4616753435096520897.png,Eczema,Chàm (viêm da dạng chàm),0.7
+-5732857245539407305,data\images\Eczema\-5732857245539407305_3.jpg,dataset/images/5775990779869281049.png,Eczema,Chàm (viêm da dạng chàm),0.7
+-577186913707847828,data\images\Urticaria\-577186913707847828_1.jpg,dataset/images/-8077199062814861533.png,Urticaria,Mề đay,1.0
+-577186913707847828,data\images\Urticaria\-577186913707847828_2.jpg,dataset/images/623880352509161282.png,Urticaria,Mề đay,1.0
+-577186913707847828,data\images\Urticaria\-577186913707847828_3.jpg,dataset/images/9174777259557508779.png,Urticaria,Mề đay,1.0
+-5786766637950420055,data\images\Eczema\-5786766637950420055_1.jpg,dataset/images/-1466847537458498864.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-5786766637950420055,data\images\Eczema\-5786766637950420055_2.jpg,dataset/images/-6038785440501793558.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6039007012923042838,data\images\Urticaria\-6039007012923042838_1.jpg,dataset/images/9111397928834127422.png,Urticaria,Mề đay,1.0
+-6108620396561569682,data\images\Eczema\-6108620396561569682_1.jpg,dataset/images/-8503022643743511724.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6108620396561569682,data\images\Eczema\-6108620396561569682_2.jpg,dataset/images/6742355207405930185.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6124289799481016838,data\images\Urticaria\-6124289799481016838_1.jpg,dataset/images/-3749637390051796787.png,Urticaria,Mề đay,1.0
+-63753751533757188,data\images\Acne\-63753751533757188_1.jpg,dataset/images/-2431769699504014881.png,Acne,Mụn trứng cá,0.7
+-63753751533757188,data\images\Acne\-63753751533757188_2.jpg,dataset/images/-394268303794637073.png,Acne,Mụn trứng cá,0.7
+-63753751533757188,data\images\Acne\-63753751533757188_3.jpg,dataset/images/-7528154962745771642.png,Acne,Mụn trứng cá,0.7
+-6387971651752188617,data\images\Folliculitis\-6387971651752188617_1.jpg,dataset/images/-1624415441092446149.png,Folliculitis,Viêm nang lông,1.0
+-6387971651752188617,data\images\Folliculitis\-6387971651752188617_2.jpg,dataset/images/2861479942276825836.png,Folliculitis,Viêm nang lông,1.0
+-6387971651752188617,data\images\Folliculitis\-6387971651752188617_3.jpg,dataset/images/5092072349779526314.png,Folliculitis,Viêm nang lông,1.0
+-6400490417142716553,data\images\Urticaria\-6400490417142716553_1.jpg,dataset/images/-6072775268057522072.png,Urticaria,Mề đay,1.0
+-6400490417142716553,data\images\Urticaria\-6400490417142716553_2.jpg,dataset/images/1673074396119320666.png,Urticaria,Mề đay,1.0
+-6400490417142716553,data\images\Urticaria\-6400490417142716553_3.jpg,dataset/images/8537517516691706278.png,Urticaria,Mề đay,1.0
+-6428053927743852697,data\images\Eczema\-6428053927743852697_1.jpg,dataset/images/-7197702636067718462.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6459276838597422812,data\images\Urticaria\-6459276838597422812_1.jpg,dataset/images/-8828598390077094829.png,Urticaria,Mề đay,1.0
+-6526281835697499699,data\images\Urticaria\-6526281835697499699_1.jpg,dataset/images/-1748896230395277993.png,Urticaria,Mề đay,1.0
+-6526281835697499699,data\images\Urticaria\-6526281835697499699_2.jpg,dataset/images/-3775959267246996938.png,Urticaria,Mề đay,1.0
+-6531452483260873921,data\images\Urticaria\-6531452483260873921_1.jpg,dataset/images/-235854603152207056.png,Urticaria,Mề đay,1.0
+-6531452483260873921,data\images\Urticaria\-6531452483260873921_2.jpg,dataset/images/-6277661587403796000.png,Urticaria,Mề đay,1.0
+-6531452483260873921,data\images\Urticaria\-6531452483260873921_3.jpg,dataset/images/-7093028211250856474.png,Urticaria,Mề đay,1.0
+-6561484724818123004,data\images\Eczema\-6561484724818123004_1.jpg,dataset/images/-1763889179252826896.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6561484724818123004,data\images\Eczema\-6561484724818123004_2.jpg,dataset/images/-2943413650732655098.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6561484724818123004,data\images\Eczema\-6561484724818123004_3.jpg,dataset/images/-6647050650728287843.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6652789889835035446,data\images\Urticaria\-6652789889835035446_1.jpg,dataset/images/-8351813133673411713.png,Urticaria,Mề đay,1.0
+-665925579901995648,data\images\Psoriasis\-665925579901995648_1.jpg,dataset/images/8274826488534529432.png,Psoriasis,Vảy nến,1.0
+-6734422466158182964,data\images\Eczema\-6734422466158182964_1.jpg,dataset/images/-7611889478784556944.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6772369724422737325,data\images\Urticaria\-6772369724422737325_1.jpg,dataset/images/-4844217374961134554.png,Urticaria,Mề đay,1.0
+-6772369724422737325,data\images\Urticaria\-6772369724422737325_2.jpg,dataset/images/-6693717299617694085.png,Urticaria,Mề đay,1.0
+-6772369724422737325,data\images\Urticaria\-6772369724422737325_3.jpg,dataset/images/5871876348246844415.png,Urticaria,Mề đay,1.0
+-6903160896710638127,data\images\Urticaria\-6903160896710638127_1.jpg,dataset/images/6276334615397287053.png,Urticaria,Mề đay,1.0
+-6942748361873582458,data\images\Urticaria\-6942748361873582458_1.jpg,dataset/images/-3226347482816131449.png,Urticaria,Mề đay,1.0
+-6942748361873582458,data\images\Urticaria\-6942748361873582458_2.jpg,dataset/images/-6420737363430525625.png,Urticaria,Mề đay,1.0
+-6942748361873582458,data\images\Urticaria\-6942748361873582458_3.jpg,dataset/images/8584606393278903338.png,Urticaria,Mề đay,1.0
+-6969933999634072117,data\images\Eczema\-6969933999634072117_1.jpg,dataset/images/-6662505251950850558.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6969933999634072117,data\images\Eczema\-6969933999634072117_2.jpg,dataset/images/5185832649883764936.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-6969933999634072117,data\images\Eczema\-6969933999634072117_3.jpg,dataset/images/5913450542768440681.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7014916626922853190,data\images\Psoriasis\-7014916626922853190_1.jpg,dataset/images/-5027449927739449608.png,Psoriasis,Vảy nến,1.0
+-7110334037625264755,data\images\Eczema\-7110334037625264755_1.jpg,dataset/images/-2611898318932465514.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7110334037625264755,data\images\Eczema\-7110334037625264755_2.jpg,dataset/images/-4580373974243004851.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7110334037625264755,data\images\Eczema\-7110334037625264755_3.jpg,dataset/images/-8715046487528210051.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7127148813102728120,data\images\Folliculitis\-7127148813102728120_1.jpg,dataset/images/1088819642810705043.png,Folliculitis,Viêm nang lông,1.0
+-7140426751919971254,data\images\Folliculitis\-7140426751919971254_1.jpg,dataset/images/-2015687071469050277.png,Folliculitis,Viêm nang lông,1.0
+-7140426751919971254,data\images\Folliculitis\-7140426751919971254_2.jpg,dataset/images/6995067255500000911.png,Folliculitis,Viêm nang lông,1.0
+-7140426751919971254,data\images\Folliculitis\-7140426751919971254_3.jpg,dataset/images/6995529438930624151.png,Folliculitis,Viêm nang lông,1.0
+-7214942537525659338,data\images\Acne\-7214942537525659338_1.jpg,dataset/images/-7582953284537277597.png,Acne,Mụn trứng cá,1.0
+-7288421822363632426,data\images\Urticaria\-7288421822363632426_1.jpg,dataset/images/7174346215026338343.png,Urticaria,Mề đay,1.0
+-7350637768936675559,data\images\Urticaria\-7350637768936675559_1.jpg,dataset/images/-7897770316150176474.png,Urticaria,Mề đay,1.0
+-7432151961683759568,data\images\Folliculitis\-7432151961683759568_1.jpg,dataset/images/1603224747391777244.png,Folliculitis,Viêm nang lông,1.0
+-7432151961683759568,data\images\Folliculitis\-7432151961683759568_2.jpg,dataset/images/1633175637881662694.png,Folliculitis,Viêm nang lông,1.0
+-7432151961683759568,data\images\Folliculitis\-7432151961683759568_3.jpg,dataset/images/5397545970881234398.png,Folliculitis,Viêm nang lông,1.0
+-7437139104859070712,data\images\Urticaria\-7437139104859070712_1.jpg,dataset/images/-2315153994676436271.png,Urticaria,Mề đay,1.0
+-7437139104859070712,data\images\Urticaria\-7437139104859070712_2.jpg,dataset/images/-7643477876542349995.png,Urticaria,Mề đay,1.0
+-7437139104859070712,data\images\Urticaria\-7437139104859070712_3.jpg,dataset/images/8187403870754700072.png,Urticaria,Mề đay,1.0
+-7467584756618193499,data\images\Urticaria\-7467584756618193499_1.jpg,dataset/images/-3463926055561590672.png,Urticaria,Mề đay,1.0
+-7467584756618193499,data\images\Urticaria\-7467584756618193499_2.jpg,dataset/images/-6205304523937843609.png,Urticaria,Mề đay,1.0
+-7526888085066357479,data\images\Folliculitis\-7526888085066357479_1.jpg,dataset/images/6879109050107281109.png,Folliculitis,Viêm nang lông,1.0
+-7532348811139560177,data\images\Eczema\-7532348811139560177_1.jpg,dataset/images/-5385363078483571059.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7532348811139560177,data\images\Eczema\-7532348811139560177_2.jpg,dataset/images/2194676804291575959.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7532348811139560177,data\images\Eczema\-7532348811139560177_3.jpg,dataset/images/8818467866023834874.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-756566842397164193,data\images\Urticaria\-756566842397164193_1.jpg,dataset/images/-220596390347988661.png,Urticaria,Mề đay,0.86
+-756566842397164193,data\images\Urticaria\-756566842397164193_2.jpg,dataset/images/6074901752419710835.png,Urticaria,Mề đay,0.86
+-756566842397164193,data\images\Urticaria\-756566842397164193_3.jpg,dataset/images/8319395838391234201.png,Urticaria,Mề đay,0.86
+-7620086397502131808,data\images\Urticaria\-7620086397502131808_1.jpg,dataset/images/-3788838385720706381.png,Urticaria,Mề đay,1.0
+-7620086397502131808,data\images\Urticaria\-7620086397502131808_2.jpg,dataset/images/-407217371461491400.png,Urticaria,Mề đay,1.0
+-7620086397502131808,data\images\Urticaria\-7620086397502131808_3.jpg,dataset/images/-8804964571197729235.png,Urticaria,Mề đay,1.0
+-7625656626952816481,data\images\Eczema\-7625656626952816481_1.jpg,dataset/images/-445431345310956881.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7625656626952816481,data\images\Eczema\-7625656626952816481_2.jpg,dataset/images/511979391207585843.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7625656626952816481,data\images\Eczema\-7625656626952816481_3.jpg,dataset/images/9191549774883693634.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7657236532842762375,data\images\Acne\-7657236532842762375_1.jpg,dataset/images/-535405253019946720.png,Acne,Mụn trứng cá,1.0
+-7657236532842762375,data\images\Acne\-7657236532842762375_2.jpg,dataset/images/4541897029327248920.png,Acne,Mụn trứng cá,1.0
+-7657236532842762375,data\images\Acne\-7657236532842762375_3.jpg,dataset/images/7604747975671865575.png,Acne,Mụn trứng cá,1.0
+-7675297277521429765,data\images\Eczema\-7675297277521429765_1.jpg,dataset/images/-2511190403996726038.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7706133768652999375,data\images\Eczema\-7706133768652999375_1.jpg,dataset/images/-2282445446815047427.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7706133768652999375,data\images\Eczema\-7706133768652999375_2.jpg,dataset/images/-4635752284842277070.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7706133768652999375,data\images\Eczema\-7706133768652999375_3.jpg,dataset/images/5959129552905070493.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7721876733224782628,data\images\Eczema\-7721876733224782628_1.jpg,dataset/images/-5436801439030306050.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7721876733224782628,data\images\Eczema\-7721876733224782628_2.jpg,dataset/images/-7455302269080614532.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7721876733224782628,data\images\Eczema\-7721876733224782628_3.jpg,dataset/images/1235468610727528349.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7743291557587090042,data\images\Eczema\-7743291557587090042_1.jpg,dataset/images/5891698126195273673.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7743291557587090042,data\images\Eczema\-7743291557587090042_2.jpg,dataset/images/7825713579418650669.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7743291557587090042,data\images\Eczema\-7743291557587090042_3.jpg,dataset/images/8122831941418372905.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7776857652459777696,data\images\Eczema\-7776857652459777696_1.jpg,dataset/images/-4395003336872160138.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7776857652459777696,data\images\Eczema\-7776857652459777696_2.jpg,dataset/images/1533523366399098473.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7776857652459777696,data\images\Eczema\-7776857652459777696_3.jpg,dataset/images/1686781530006487268.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-7820093713010813140,data\images\Urticaria\-7820093713010813140_1.jpg,dataset/images/-1389929707845299281.png,Urticaria,Mề đay,1.0
+-7820093713010813140,data\images\Urticaria\-7820093713010813140_2.jpg,dataset/images/-1948544142865843096.png,Urticaria,Mề đay,1.0
+-7820093713010813140,data\images\Urticaria\-7820093713010813140_3.jpg,dataset/images/-767497572576132176.png,Urticaria,Mề đay,1.0
+-7901710788064822966,data\images\Urticaria\-7901710788064822966_1.jpg,dataset/images/-4640880077120320715.png,Urticaria,Mề đay,1.0
+-7901710788064822966,data\images\Urticaria\-7901710788064822966_2.jpg,dataset/images/1204879450422885052.png,Urticaria,Mề đay,1.0
+-7901710788064822966,data\images\Urticaria\-7901710788064822966_3.jpg,dataset/images/5080787448935373443.png,Urticaria,Mề đay,1.0
+-7916510062591897740,data\images\Urticaria\-7916510062591897740_1.jpg,dataset/images/-724880412393084270.png,Urticaria,Mề đay,1.0
+-7916510062591897740,data\images\Urticaria\-7916510062591897740_2.jpg,dataset/images/7576219887292331130.png,Urticaria,Mề đay,1.0
+-7916510062591897740,data\images\Urticaria\-7916510062591897740_3.jpg,dataset/images/7865526732320898776.png,Urticaria,Mề đay,1.0
+-7986800110786369520,data\images\Urticaria\-7986800110786369520_1.jpg,dataset/images/-7228030522436577946.png,Urticaria,Mề đay,1.0
+-7986800110786369520,data\images\Urticaria\-7986800110786369520_2.jpg,dataset/images/1313006089116357612.png,Urticaria,Mề đay,1.0
+-809338751368705429,data\images\Folliculitis\-809338751368705429_1.jpg,dataset/images/-9083783061425600360.png,Folliculitis,Viêm nang lông,1.0
+-809338751368705429,data\images\Folliculitis\-809338751368705429_2.jpg,dataset/images/5782906621323618567.png,Folliculitis,Viêm nang lông,1.0
+-809338751368705429,data\images\Folliculitis\-809338751368705429_3.jpg,dataset/images/8222365765137910640.png,Folliculitis,Viêm nang lông,1.0
+-8111125152560753978,data\images\Eczema\-8111125152560753978_1.jpg,dataset/images/-1581537315113127005.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8111125152560753978,data\images\Eczema\-8111125152560753978_2.jpg,dataset/images/-285631126590371691.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8111125152560753978,data\images\Eczema\-8111125152560753978_3.jpg,dataset/images/5849280946771132884.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8299809889773574040,data\images\Eczema\-8299809889773574040_1.jpg,dataset/images/5206975118959031057.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8352699628138095738,data\images\Urticaria\-8352699628138095738_1.jpg,dataset/images/8977765022181205065.png,Urticaria,Mề đay,1.0
+-8360085615277782265,data\images\Psoriasis\-8360085615277782265_1.jpg,dataset/images/-8794719700664225806.png,Psoriasis,Vảy nến,1.0
+-8365497190205778707,data\images\Urticaria\-8365497190205778707_1.jpg,dataset/images/-3245445355390336573.png,Urticaria,Mề đay,0.78
+-8365497190205778707,data\images\Urticaria\-8365497190205778707_2.jpg,dataset/images/-8687750677002784717.png,Urticaria,Mề đay,0.78
+-8365497190205778707,data\images\Urticaria\-8365497190205778707_3.jpg,dataset/images/498586996347865042.png,Urticaria,Mề đay,0.78
+-8425235422393845300,data\images\Urticaria\-8425235422393845300_1.jpg,dataset/images/2773237399413524337.png,Urticaria,Mề đay,1.0
+-845380407717415265,data\images\Eczema\-845380407717415265_1.jpg,dataset/images/-1487279598764450262.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-845380407717415265,data\images\Eczema\-845380407717415265_2.jpg,dataset/images/348648893331376928.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8617284865077803152,data\images\Eczema\-8617284865077803152_1.jpg,dataset/images/-4742989259054484128.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8617284865077803152,data\images\Eczema\-8617284865077803152_2.jpg,dataset/images/2998645838084696092.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-8617284865077803152,data\images\Eczema\-8617284865077803152_3.jpg,dataset/images/389566394183282454.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-863918809910216521,data\images\Acne\-863918809910216521_1.jpg,dataset/images/-1264081098973340492.png,Acne,Mụn trứng cá,0.8
+-863918809910216521,data\images\Acne\-863918809910216521_2.jpg,dataset/images/1400015652681005446.png,Acne,Mụn trứng cá,0.8
+-863918809910216521,data\images\Acne\-863918809910216521_3.jpg,dataset/images/2550882427135902833.png,Acne,Mụn trứng cá,0.8
+-8754678083190860015,data\images\Urticaria\-8754678083190860015_1.jpg,dataset/images/-1622773719949394822.png,Urticaria,Mề đay,1.0
+-8859705766164733610,data\images\Urticaria\-8859705766164733610_1.jpg,dataset/images/-8926425952664189068.png,Urticaria,Mề đay,1.0
+-89247052115172663,data\images\Eczema\-89247052115172663_1.jpg,dataset/images/-230777178099675336.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-89247052115172663,data\images\Eczema\-89247052115172663_2.jpg,dataset/images/2183602146179526374.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-89247052115172663,data\images\Eczema\-89247052115172663_3.jpg,dataset/images/5121576933846739335.png,Eczema,Chàm (viêm da dạng chàm),0.71
+-8941823298969324677,data\images\Eczema\-8941823298969324677_1.jpg,dataset/images/-4561420992326988947.png,Eczema,Chàm (viêm da dạng chàm),1.0
+-906582537993925966,data\images\Acne\-906582537993925966_1.jpg,dataset/images/-369547900571553814.png,Acne,Mụn trứng cá,1.0
+-919660371744832007,data\images\Eczema\-919660371744832007_1.jpg,dataset/images/-3785790046103474945.png,Eczema,Chàm (viêm da dạng chàm),0.86
+-919660371744832007,data\images\Eczema\-919660371744832007_2.jpg,dataset/images/-6444413657519105784.png,Eczema,Chàm (viêm da dạng chàm),0.86
+-919660371744832007,data\images\Eczema\-919660371744832007_3.jpg,dataset/images/8318508107131814352.png,Eczema,Chàm (viêm da dạng chàm),0.86
+-925898841639418610,data\images\Urticaria\-925898841639418610_1.jpg,dataset/images/347108597815692432.png,Urticaria,Mề đay,1.0
+-962251279953702051,data\images\Folliculitis\-962251279953702051_1.jpg,dataset/images/-2805054034077058173.png,Folliculitis,Viêm nang lông,1.0
+-962251279953702051,data\images\Folliculitis\-962251279953702051_2.jpg,dataset/images/-8696744820413574401.png,Folliculitis,Viêm nang lông,1.0
+-962251279953702051,data\images\Folliculitis\-962251279953702051_3.jpg,dataset/images/6040966471554410144.png,Folliculitis,Viêm nang lông,1.0
+1163726335913083043,data\images\Acne\1163726335913083043_1.jpg,dataset/images/8311285227978855700.png,Acne,Mụn trứng cá,1.0
+1180361584407188093,data\images\Eczema\1180361584407188093_1.jpg,dataset/images/-4716936240491422448.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1180361584407188093,data\images\Eczema\1180361584407188093_2.jpg,dataset/images/2815368110591186010.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1180361584407188093,data\images\Eczema\1180361584407188093_3.jpg,dataset/images/7606490649624430751.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1182601550504235386,data\images\Eczema\1182601550504235386_1.jpg,dataset/images/7518962439947022924.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1217802956545325355,data\images\Folliculitis\1217802956545325355_1.jpg,dataset/images/-926532300017414757.png,Folliculitis,Viêm nang lông,1.0
+1315451198768282216,data\images\Eczema\1315451198768282216_1.jpg,dataset/images/-7379123563084274195.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1315451198768282216,data\images\Eczema\1315451198768282216_2.jpg,dataset/images/-945081762432530764.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1315451198768282216,data\images\Eczema\1315451198768282216_3.jpg,dataset/images/801456210967792864.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1351366389751078004,data\images\Impetigo\1351366389751078004_1.jpg,dataset/images/-126472922177297480.png,Impetigo,Chốc lở,1.0
+1351366389751078004,data\images\Impetigo\1351366389751078004_2.jpg,dataset/images/-2416169274258013471.png,Impetigo,Chốc lở,1.0
+1351366389751078004,data\images\Impetigo\1351366389751078004_3.jpg,dataset/images/-5634352531389871116.png,Impetigo,Chốc lở,1.0
+1394308459147109933,data\images\Acne\1394308459147109933_1.jpg,dataset/images/-4660809346441849874.png,Acne,Mụn trứng cá,1.0
+1405292427261128343,data\images\Eczema\1405292427261128343_1.jpg,dataset/images/-7108487947733237222.png,Eczema,Chàm (viêm da dạng chàm),1.0
+159823969875349519,data\images\Psoriasis\159823969875349519_1.jpg,dataset/images/-1241231354355375740.png,Psoriasis,Vảy nến,1.0
+159823969875349519,data\images\Psoriasis\159823969875349519_2.jpg,dataset/images/-7477774196570076290.png,Psoriasis,Vảy nến,1.0
+159823969875349519,data\images\Psoriasis\159823969875349519_3.jpg,dataset/images/-8486169656718173466.png,Psoriasis,Vảy nến,1.0
+1610643527361135382,data\images\Urticaria\1610643527361135382_1.jpg,dataset/images/-7782995076528179992.png,Urticaria,Mề đay,1.0
+1610643527361135382,data\images\Urticaria\1610643527361135382_2.jpg,dataset/images/-8607337421690466021.png,Urticaria,Mề đay,1.0
+1610643527361135382,data\images\Urticaria\1610643527361135382_3.jpg,dataset/images/6017419714070511748.png,Urticaria,Mề đay,1.0
+1678281205783001740,data\images\Eczema\1678281205783001740_1.jpg,dataset/images/5727127474578129172.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1713680792880426853,data\images\Psoriasis\1713680792880426853_1.jpg,dataset/images/-4387878168031721243.png,Psoriasis,Vảy nến,0.75
+1713680792880426853,data\images\Psoriasis\1713680792880426853_2.jpg,dataset/images/-8914122025340168726.png,Psoriasis,Vảy nến,0.75
+1713680792880426853,data\images\Psoriasis\1713680792880426853_3.jpg,dataset/images/7916549527449276941.png,Psoriasis,Vảy nến,0.75
+1779309246996751578,data\images\Eczema\1779309246996751578_1.jpg,dataset/images/2866454509532808925.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1839729635120428582,data\images\Urticaria\1839729635120428582_1.jpg,dataset/images/-3982407291216078553.png,Urticaria,Mề đay,1.0
+1839729635120428582,data\images\Urticaria\1839729635120428582_2.jpg,dataset/images/3791922687139899943.png,Urticaria,Mề đay,1.0
+1839729635120428582,data\images\Urticaria\1839729635120428582_3.jpg,dataset/images/8806903249731668808.png,Urticaria,Mề đay,1.0
+1850198155303184343,data\images\Eczema\1850198155303184343_1.jpg,dataset/images/1610053035993761930.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1850198155303184343,data\images\Eczema\1850198155303184343_2.jpg,dataset/images/2739221591362066725.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1850198155303184343,data\images\Eczema\1850198155303184343_3.jpg,dataset/images/5072948937501682640.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1907862242724374121,data\images\Eczema\1907862242724374121_1.jpg,dataset/images/-4451978821374422197.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1969398346152019890,data\images\Eczema\1969398346152019890_1.jpg,dataset/images/-1175551177819230857.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1969398346152019890,data\images\Eczema\1969398346152019890_2.jpg,dataset/images/-4567055625026121193.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1969398346152019890,data\images\Eczema\1969398346152019890_3.jpg,dataset/images/5630154352066704313.png,Eczema,Chàm (viêm da dạng chàm),1.0
+1974095114082906999,data\images\Urticaria\1974095114082906999_1.jpg,dataset/images/-1766001610638052673.png,Urticaria,Mề đay,1.0
+2042799682642232358,data\images\Eczema\2042799682642232358_1.jpg,dataset/images/-2878474127311295238.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2042799682642232358,data\images\Eczema\2042799682642232358_2.jpg,dataset/images/-3648334090821527895.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2042799682642232358,data\images\Eczema\2042799682642232358_3.jpg,dataset/images/1889659819031460775.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2093973831515705574,data\images\Eczema\2093973831515705574_1.jpg,dataset/images/-4198059543114772260.png,Eczema,Chàm (viêm da dạng chàm),0.75
+2093973831515705574,data\images\Eczema\2093973831515705574_2.jpg,dataset/images/-5024124268061831957.png,Eczema,Chàm (viêm da dạng chàm),0.75
+2093973831515705574,data\images\Eczema\2093973831515705574_3.jpg,dataset/images/2189940629688040208.png,Eczema,Chàm (viêm da dạng chàm),0.75
+2279889461199857040,data\images\Eczema\2279889461199857040_1.jpg,dataset/images/-6979261091584192334.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2279889461199857040,data\images\Eczema\2279889461199857040_2.jpg,dataset/images/1918021157952556881.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2279889461199857040,data\images\Eczema\2279889461199857040_3.jpg,dataset/images/7169847981402215980.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2292467831205685850,data\images\Impetigo\2292467831205685850_1.jpg,dataset/images/-6210468418251952437.png,Impetigo,Chốc lở,1.0
+2311974363421871372,data\images\Acne\2311974363421871372_1.jpg,dataset/images/-9111307368692396870.png,Acne,Mụn trứng cá,1.0
+2346463657328001892,data\images\Folliculitis\2346463657328001892_1.jpg,dataset/images/7980844269689605309.png,Folliculitis,Viêm nang lông,1.0
+2361040866611378852,data\images\Acne\2361040866611378852_1.jpg,dataset/images/8501610783927049928.png,Acne,Mụn trứng cá,1.0
+2370389030234448496,data\images\Folliculitis\2370389030234448496_1.jpg,dataset/images/1343985150496825534.png,Folliculitis,Viêm nang lông,1.0
+2383547606705121100,data\images\Folliculitis\2383547606705121100_1.jpg,dataset/images/-3460750178802262972.png,Folliculitis,Viêm nang lông,0.7
+2383547606705121100,data\images\Folliculitis\2383547606705121100_2.jpg,dataset/images/-8573019154460137531.png,Folliculitis,Viêm nang lông,0.7
+2383547606705121100,data\images\Folliculitis\2383547606705121100_3.jpg,dataset/images/7778648677953523329.png,Folliculitis,Viêm nang lông,0.7
+2402315738072109658,data\images\Eczema\2402315738072109658_1.jpg,dataset/images/807217658582074180.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2503643940677084425,data\images\Urticaria\2503643940677084425_1.jpg,dataset/images/3808734830131524150.png,Urticaria,Mề đay,1.0
+2544728617164619888,data\images\Folliculitis\2544728617164619888_1.jpg,dataset/images/-7671530939179836923.png,Folliculitis,Viêm nang lông,0.78
+2544728617164619888,data\images\Folliculitis\2544728617164619888_2.jpg,dataset/images/5143791702735053749.png,Folliculitis,Viêm nang lông,0.78
+2555493844930773537,data\images\Folliculitis\2555493844930773537_1.jpg,dataset/images/3639583944950649714.png,Folliculitis,Viêm nang lông,1.0
+2555493844930773537,data\images\Folliculitis\2555493844930773537_2.jpg,dataset/images/4315054829457195524.png,Folliculitis,Viêm nang lông,1.0
+2555493844930773537,data\images\Folliculitis\2555493844930773537_3.jpg,dataset/images/8566741698855191136.png,Folliculitis,Viêm nang lông,1.0
+2562611754724897853,data\images\Eczema\2562611754724897853_1.jpg,dataset/images/-2104207421034301034.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2620539304203771862,data\images\Urticaria\2620539304203771862_1.jpg,dataset/images/-2663645243653633022.png,Urticaria,Mề đay,1.0
+2620539304203771862,data\images\Urticaria\2620539304203771862_2.jpg,dataset/images/-3666012059912959193.png,Urticaria,Mề đay,1.0
+2620539304203771862,data\images\Urticaria\2620539304203771862_3.jpg,dataset/images/4363067165804706375.png,Urticaria,Mề đay,1.0
+2634903212622073763,data\images\Eczema\2634903212622073763_1.jpg,dataset/images/-1069484016159142426.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2634903212622073763,data\images\Eczema\2634903212622073763_2.jpg,dataset/images/-6881306606271270675.png,Eczema,Chàm (viêm da dạng chàm),1.0
+2911542453433068160,data\images\Psoriasis\2911542453433068160_1.jpg,dataset/images/-5607893322162480323.png,Psoriasis,Vảy nến,1.0
+2911542453433068160,data\images\Psoriasis\2911542453433068160_2.jpg,dataset/images/-8228301967158120072.png,Psoriasis,Vảy nến,1.0
+2911542453433068160,data\images\Psoriasis\2911542453433068160_3.jpg,dataset/images/6650766704427195915.png,Psoriasis,Vảy nến,1.0
+2999814188741662326,data\images\Psoriasis\2999814188741662326_1.jpg,dataset/images/-3278401981209346612.png,Psoriasis,Vảy nến,1.0
+2999814188741662326,data\images\Psoriasis\2999814188741662326_2.jpg,dataset/images/5685712008093049790.png,Psoriasis,Vảy nến,1.0
+2999814188741662326,data\images\Psoriasis\2999814188741662326_3.jpg,dataset/images/9155458225824028738.png,Psoriasis,Vảy nến,1.0
+3001411411444146079,data\images\Urticaria\3001411411444146079_1.jpg,dataset/images/-2874221601641289316.png,Urticaria,Mề đay,1.0
+3001411411444146079,data\images\Urticaria\3001411411444146079_2.jpg,dataset/images/-4990509508828259244.png,Urticaria,Mề đay,1.0
+3001411411444146079,data\images\Urticaria\3001411411444146079_3.jpg,dataset/images/8943452377015009675.png,Urticaria,Mề đay,1.0
+3083550471820565612,data\images\Eczema\3083550471820565612_1.jpg,dataset/images/-1407390912570679008.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3083550471820565612,data\images\Eczema\3083550471820565612_2.jpg,dataset/images/-9025828418294532416.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3083550471820565612,data\images\Eczema\3083550471820565612_3.jpg,dataset/images/472616098324417235.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3131320081296493845,data\images\Eczema\3131320081296493845_1.jpg,dataset/images/7810546855565179160.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3131320081296493845,data\images\Eczema\3131320081296493845_2.jpg,dataset/images/9190556274702426550.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3151112408724701096,data\images\Urticaria\3151112408724701096_1.jpg,dataset/images/152035477957158422.png,Urticaria,Mề đay,0.86
+3151112408724701096,data\images\Urticaria\3151112408724701096_2.jpg,dataset/images/5939852074592267639.png,Urticaria,Mề đay,0.86
+3265629636014353715,data\images\Acne\3265629636014353715_1.jpg,dataset/images/-6544442737462623993.png,Acne,Mụn trứng cá,1.0
+3301384018375137286,data\images\Psoriasis\3301384018375137286_1.jpg,dataset/images/-6323838407357716508.png,Psoriasis,Vảy nến,1.0
+3318646782389326114,data\images\Eczema\3318646782389326114_1.jpg,dataset/images/-8743640083543794574.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3325626530902480169,data\images\Impetigo\3325626530902480169_1.jpg,dataset/images/-2238709944412086899.png,Impetigo,Chốc lở,1.0
+3325626530902480169,data\images\Impetigo\3325626530902480169_2.jpg,dataset/images/-6850719340439338958.png,Impetigo,Chốc lở,1.0
+3325626530902480169,data\images\Impetigo\3325626530902480169_3.jpg,dataset/images/1742789116047806951.png,Impetigo,Chốc lở,1.0
+3338941119938065346,data\images\Eczema\3338941119938065346_1.jpg,dataset/images/-3300838075406312078.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3338941119938065346,data\images\Eczema\3338941119938065346_2.jpg,dataset/images/1348128985059204469.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3338941119938065346,data\images\Eczema\3338941119938065346_3.jpg,dataset/images/8989852283896041210.png,Eczema,Chàm (viêm da dạng chàm),1.0
+334358841782839450,data\images\Eczema\334358841782839450_1.jpg,dataset/images/2508530986946553819.png,Eczema,Chàm (viêm da dạng chàm),1.0
+335846587626430311,data\images\Eczema\335846587626430311_1.jpg,dataset/images/-9071217807268156605.png,Eczema,Chàm (viêm da dạng chàm),1.0
+335846587626430311,data\images\Eczema\335846587626430311_2.jpg,dataset/images/5391964744419129670.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3377584127732041409,data\images\Eczema\3377584127732041409_1.jpg,dataset/images/7525075577501273064.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3377584127732041409,data\images\Eczema\3377584127732041409_2.jpg,dataset/images/8957756375389077445.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3489401261164777258,data\images\Eczema\3489401261164777258_1.jpg,dataset/images/-2030903409484078916.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3508096970709139981,data\images\Eczema\3508096970709139981_1.jpg,dataset/images/-4949999685137541063.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3508096970709139981,data\images\Eczema\3508096970709139981_2.jpg,dataset/images/-8128088941856389814.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3508096970709139981,data\images\Eczema\3508096970709139981_3.jpg,dataset/images/6843050150521456073.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3590305844647871469,data\images\Urticaria\3590305844647871469_1.jpg,dataset/images/-6821875351174050947.png,Urticaria,Mề đay,1.0
+3590305844647871469,data\images\Urticaria\3590305844647871469_2.jpg,dataset/images/-7555000542646639886.png,Urticaria,Mề đay,1.0
+3592193595988016117,data\images\Eczema\3592193595988016117_1.jpg,dataset/images/-3599312611917901231.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3592193595988016117,data\images\Eczema\3592193595988016117_2.jpg,dataset/images/-3765058596330547811.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3592193595988016117,data\images\Eczema\3592193595988016117_3.jpg,dataset/images/2337702317933991192.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3593913499071005849,data\images\Eczema\3593913499071005849_1.jpg,dataset/images/-1017539609637625871.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3593913499071005849,data\images\Eczema\3593913499071005849_2.jpg,dataset/images/758933555673505056.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3596099349781140328,data\images\Psoriasis\3596099349781140328_1.jpg,dataset/images/-869349880437476994.png,Psoriasis,Vảy nến,1.0
+3664056088050397807,data\images\Eczema\3664056088050397807_1.jpg,dataset/images/-2036739924048402981.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3689862615752795245,data\images\Folliculitis\3689862615752795245_1.jpg,dataset/images/-6112700142679995455.png,Folliculitis,Viêm nang lông,1.0
+3689862615752795245,data\images\Folliculitis\3689862615752795245_2.jpg,dataset/images/7736574786625363736.png,Folliculitis,Viêm nang lông,1.0
+3703025959306724787,data\images\Folliculitis\3703025959306724787_1.jpg,dataset/images/-6397185843011730649.png,Folliculitis,Viêm nang lông,1.0
+37685811519680675,data\images\Folliculitis\37685811519680675_1.jpg,dataset/images/-1706950757168903345.png,Folliculitis,Viêm nang lông,1.0
+37685811519680675,data\images\Folliculitis\37685811519680675_2.jpg,dataset/images/5932207891466934177.png,Folliculitis,Viêm nang lông,1.0
+3846988567346853286,data\images\Eczema\3846988567346853286_1.jpg,dataset/images/8516416641470676717.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3871578790621255671,data\images\Eczema\3871578790621255671_1.jpg,dataset/images/-1425041139336616640.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3871578790621255671,data\images\Eczema\3871578790621255671_2.jpg,dataset/images/-2751561763710874373.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3871578790621255671,data\images\Eczema\3871578790621255671_3.jpg,dataset/images/-7802197383705746007.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3905100936130110268,data\images\Folliculitis\3905100936130110268_1.jpg,dataset/images/-2183262704807807048.png,Folliculitis,Viêm nang lông,1.0
+3905100936130110268,data\images\Folliculitis\3905100936130110268_2.jpg,dataset/images/-4075546209736040297.png,Folliculitis,Viêm nang lông,1.0
+3905100936130110268,data\images\Folliculitis\3905100936130110268_3.jpg,dataset/images/-487619432479533708.png,Folliculitis,Viêm nang lông,1.0
+3907804873656496630,data\images\Folliculitis\3907804873656496630_1.jpg,dataset/images/6698561070990105178.png,Folliculitis,Viêm nang lông,1.0
+3950839687124807995,data\images\Eczema\3950839687124807995_1.jpg,dataset/images/-5945889357765410205.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3950839687124807995,data\images\Eczema\3950839687124807995_2.jpg,dataset/images/3222392825370085097.png,Eczema,Chàm (viêm da dạng chàm),1.0
+3950839687124807995,data\images\Eczema\3950839687124807995_3.jpg,dataset/images/5982168678275476092.png,Eczema,Chàm (viêm da dạng chàm),1.0
+395621552216449334,data\images\Eczema\395621552216449334_1.jpg,dataset/images/-4313679202199817035.png,Eczema,Chàm (viêm da dạng chàm),1.0
+395621552216449334,data\images\Eczema\395621552216449334_2.jpg,dataset/images/183167050226033603.png,Eczema,Chàm (viêm da dạng chàm),1.0
+395621552216449334,data\images\Eczema\395621552216449334_3.jpg,dataset/images/7335571060941227177.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4012985561197329565,data\images\Urticaria\4012985561197329565_1.jpg,dataset/images/3614097266056290592.png,Urticaria,Mề đay,1.0
+4118932128019747471,data\images\Urticaria\4118932128019747471_1.jpg,dataset/images/-2997460016579568441.png,Urticaria,Mề đay,1.0
+4118932128019747471,data\images\Urticaria\4118932128019747471_2.jpg,dataset/images/-7553196319522858797.png,Urticaria,Mề đay,1.0
+4118932128019747471,data\images\Urticaria\4118932128019747471_3.jpg,dataset/images/5005877801756373638.png,Urticaria,Mề đay,1.0
+4133668967666016070,data\images\Eczema\4133668967666016070_1.jpg,dataset/images/-2681567092049907766.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4133668967666016070,data\images\Eczema\4133668967666016070_2.jpg,dataset/images/-4246056758123609265.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4133668967666016070,data\images\Eczema\4133668967666016070_3.jpg,dataset/images/5699857118582020569.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4140410826185492876,data\images\Folliculitis\4140410826185492876_1.jpg,dataset/images/-3232676345267998411.png,Folliculitis,Viêm nang lông,1.0
+4140410826185492876,data\images\Folliculitis\4140410826185492876_2.jpg,dataset/images/2332669576438744871.png,Folliculitis,Viêm nang lông,1.0
+4150814201378985637,data\images\Eczema\4150814201378985637_1.jpg,dataset/images/-2586434783203273300.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4150814201378985637,data\images\Eczema\4150814201378985637_2.jpg,dataset/images/-7358627726010271489.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4150814201378985637,data\images\Eczema\4150814201378985637_3.jpg,dataset/images/4127654605376625453.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4308656549168040797,data\images\Eczema\4308656549168040797_1.jpg,dataset/images/-1552485516831343050.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4308656549168040797,data\images\Eczema\4308656549168040797_2.jpg,dataset/images/2305782266588201159.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4308656549168040797,data\images\Eczema\4308656549168040797_3.jpg,dataset/images/8224859598218783812.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4328837998610979078,data\images\Eczema\4328837998610979078_1.jpg,dataset/images/-2919962940384238401.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4328837998610979078,data\images\Eczema\4328837998610979078_2.jpg,dataset/images/6392970153223976603.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4328837998610979078,data\images\Eczema\4328837998610979078_3.jpg,dataset/images/7137165278055001552.png,Eczema,Chàm (viêm da dạng chàm),1.0
+436139237363385762,data\images\Eczema\436139237363385762_1.jpg,dataset/images/5131985435524652892.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4401153446611786293,data\images\Eczema\4401153446611786293_1.jpg,dataset/images/-5630704089937919902.png,Eczema,Chàm (viêm da dạng chàm),0.78
+4401153446611786293,data\images\Eczema\4401153446611786293_2.jpg,dataset/images/-6810923840893710642.png,Eczema,Chàm (viêm da dạng chàm),0.78
+4401153446611786293,data\images\Eczema\4401153446611786293_3.jpg,dataset/images/1579396880321775959.png,Eczema,Chàm (viêm da dạng chàm),0.78
+4612431587689030172,data\images\Urticaria\4612431587689030172_1.jpg,dataset/images/-2626461613356440527.png,Urticaria,Mề đay,1.0
+4612431587689030172,data\images\Urticaria\4612431587689030172_2.jpg,dataset/images/-618317689357141248.png,Urticaria,Mề đay,1.0
+4612431587689030172,data\images\Urticaria\4612431587689030172_3.jpg,dataset/images/-6345510726872426467.png,Urticaria,Mề đay,1.0
+4639578100401351922,data\images\Eczema\4639578100401351922_1.jpg,dataset/images/-4922007870089187294.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4639578100401351922,data\images\Eczema\4639578100401351922_2.jpg,dataset/images/-6398673021678288452.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4639578100401351922,data\images\Eczema\4639578100401351922_3.jpg,dataset/images/-8200043395306173259.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4794328114598571570,data\images\Urticaria\4794328114598571570_1.jpg,dataset/images/-2240571180590354799.png,Urticaria,Mề đay,1.0
+4847767520813607841,data\images\Eczema\4847767520813607841_1.jpg,dataset/images/-5628845147796714125.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4847767520813607841,data\images\Eczema\4847767520813607841_2.jpg,dataset/images/1918072958699636555.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4847767520813607841,data\images\Eczema\4847767520813607841_3.jpg,dataset/images/5106363969165991761.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4851798629512515375,data\images\Eczema\4851798629512515375_1.jpg,dataset/images/-4652669248078342739.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4851798629512515375,data\images\Eczema\4851798629512515375_2.jpg,dataset/images/-5969510922365783502.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4851798629512515375,data\images\Eczema\4851798629512515375_3.jpg,dataset/images/6969064320357607396.png,Eczema,Chàm (viêm da dạng chàm),1.0
+4981924219389224217,data\images\Urticaria\4981924219389224217_1.jpg,dataset/images/-3960609428407610178.png,Urticaria,Mề đay,1.0
+4981924219389224217,data\images\Urticaria\4981924219389224217_2.jpg,dataset/images/-8019240739148978384.png,Urticaria,Mề đay,1.0
+4981924219389224217,data\images\Urticaria\4981924219389224217_3.jpg,dataset/images/1294349117406034719.png,Urticaria,Mề đay,1.0
+4991921582782573817,data\images\Urticaria\4991921582782573817_1.jpg,dataset/images/-9205655818768804525.png,Urticaria,Mề đay,0.86
+4991921582782573817,data\images\Urticaria\4991921582782573817_2.jpg,dataset/images/6499157171501229818.png,Urticaria,Mề đay,0.86
+4991921582782573817,data\images\Urticaria\4991921582782573817_3.jpg,dataset/images/9078489816104938811.png,Urticaria,Mề đay,0.86
+5066409661869400714,data\images\Urticaria\5066409661869400714_1.jpg,dataset/images/7846235618886945562.png,Urticaria,Mề đay,1.0
+507936192112363600,data\images\Folliculitis\507936192112363600_1.jpg,dataset/images/-6267939346252962600.png,Folliculitis,Viêm nang lông,1.0
+507936192112363600,data\images\Folliculitis\507936192112363600_2.jpg,dataset/images/3768000086218908353.png,Folliculitis,Viêm nang lông,1.0
+507936192112363600,data\images\Folliculitis\507936192112363600_3.jpg,dataset/images/7656458232116458862.png,Folliculitis,Viêm nang lông,1.0
+5100815424449862591,data\images\Eczema\5100815424449862591_1.jpg,dataset/images/-4784154530386898261.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5100815424449862591,data\images\Eczema\5100815424449862591_2.jpg,dataset/images/366175157908296648.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5100815424449862591,data\images\Eczema\5100815424449862591_3.jpg,dataset/images/6107566356691589122.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5106560956638041339,data\images\Impetigo\5106560956638041339_1.jpg,dataset/images/-671812747914036997.png,Impetigo,Chốc lở,1.0
+5106560956638041339,data\images\Impetigo\5106560956638041339_2.jpg,dataset/images/-8682618672042721592.png,Impetigo,Chốc lở,1.0
+5106560956638041339,data\images\Impetigo\5106560956638041339_3.jpg,dataset/images/8332977600118621893.png,Impetigo,Chốc lở,1.0
+5134227833320335008,data\images\Eczema\5134227833320335008_1.jpg,dataset/images/4274197151964109412.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5134227833320335008,data\images\Eczema\5134227833320335008_2.jpg,dataset/images/5651883680984446257.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5134227833320335008,data\images\Eczema\5134227833320335008_3.jpg,dataset/images/6681086769182693542.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5218632832342500942,data\images\Urticaria\5218632832342500942_1.jpg,dataset/images/-7772969854782631285.png,Urticaria,Mề đay,1.0
+5275181661240813075,data\images\Eczema\5275181661240813075_1.jpg,dataset/images/-1651927693770727765.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5275181661240813075,data\images\Eczema\5275181661240813075_2.jpg,dataset/images/-1793399078708447490.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5275181661240813075,data\images\Eczema\5275181661240813075_3.jpg,dataset/images/-6580313417741941158.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5307689170346550364,data\images\Eczema\5307689170346550364_1.jpg,dataset/images/-4596787619832414799.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5307689170346550364,data\images\Eczema\5307689170346550364_2.jpg,dataset/images/-4776585734244061924.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5307689170346550364,data\images\Eczema\5307689170346550364_3.jpg,dataset/images/793148669191501739.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5429197013372191565,data\images\Eczema\5429197013372191565_1.jpg,dataset/images/-8289424844938182188.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5429197013372191565,data\images\Eczema\5429197013372191565_2.jpg,dataset/images/-9170015725324326381.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5429197013372191565,data\images\Eczema\5429197013372191565_3.jpg,dataset/images/7761413688965416721.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5475014386524307360,data\images\Eczema\5475014386524307360_1.jpg,dataset/images/6945764380486174282.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5483324975095927683,data\images\Folliculitis\5483324975095927683_1.jpg,dataset/images/-3113172764515247289.png,Folliculitis,Viêm nang lông,1.0
+5483324975095927683,data\images\Folliculitis\5483324975095927683_2.jpg,dataset/images/-6858651023645001782.png,Folliculitis,Viêm nang lông,1.0
+5483324975095927683,data\images\Folliculitis\5483324975095927683_3.jpg,dataset/images/851134735662845592.png,Folliculitis,Viêm nang lông,1.0
+5604714673774290686,data\images\Eczema\5604714673774290686_1.jpg,dataset/images/-9174558387716579919.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5632157492123174629,data\images\Eczema\5632157492123174629_1.jpg,dataset/images/-1067701776636141108.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5632157492123174629,data\images\Eczema\5632157492123174629_2.jpg,dataset/images/-8777387090414987749.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5632157492123174629,data\images\Eczema\5632157492123174629_3.jpg,dataset/images/840490466332246453.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5648339779171772545,data\images\Urticaria\5648339779171772545_1.jpg,dataset/images/5981588154275979091.png,Urticaria,Mề đay,1.0
+5655540960364786102,data\images\Eczema\5655540960364786102_1.jpg,dataset/images/-172643478809679819.png,Eczema,Chàm (viêm da dạng chàm),1.0
+5655540960364786102,data\images\Eczema\5655540960364786102_2.jpg,dataset/images/-7209296773340789622.png,Eczema,Chàm (viêm da dạng chàm),1.0
+573388956415217169,data\images\Psoriasis\573388956415217169_1.jpg,dataset/images/-5128272363659154502.png,Psoriasis,Vảy nến,1.0
+573388956415217169,data\images\Psoriasis\573388956415217169_2.jpg,dataset/images/4980430657099470077.png,Psoriasis,Vảy nến,1.0
+573388956415217169,data\images\Psoriasis\573388956415217169_3.jpg,dataset/images/7256791506881970559.png,Psoriasis,Vảy nến,1.0
+5752777419426160078,data\images\Psoriasis\5752777419426160078_1.jpg,dataset/images/-2538731880524128360.png,Psoriasis,Vảy nến,1.0
+5752777419426160078,data\images\Psoriasis\5752777419426160078_2.jpg,dataset/images/3567983899605382882.png,Psoriasis,Vảy nến,1.0
+5752777419426160078,data\images\Psoriasis\5752777419426160078_3.jpg,dataset/images/8927569442973267153.png,Psoriasis,Vảy nến,1.0
+5909966583908308949,data\images\Folliculitis\5909966583908308949_1.jpg,dataset/images/-3200564452857795637.png,Folliculitis,Viêm nang lông,1.0
+597372832999055528,data\images\Folliculitis\597372832999055528_1.jpg,dataset/images/-3334185101988508211.png,Folliculitis,Viêm nang lông,1.0
+6004414865791148221,data\images\Acne\6004414865791148221_1.jpg,dataset/images/-3970639053250352440.png,Acne,Mụn trứng cá,1.0
+6090377301690995036,data\images\Eczema\6090377301690995036_1.jpg,dataset/images/-5665949552425967322.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6090377301690995036,data\images\Eczema\6090377301690995036_2.jpg,dataset/images/-8378561516321812076.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6090377301690995036,data\images\Eczema\6090377301690995036_3.jpg,dataset/images/5387719994505219906.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6122442396049697329,data\images\Psoriasis\6122442396049697329_1.jpg,dataset/images/3129243513709030690.png,Psoriasis,Vảy nến,1.0
+6148765009257671062,data\images\Eczema\6148765009257671062_1.jpg,dataset/images/-7727984772540059761.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6148765009257671062,data\images\Eczema\6148765009257671062_2.jpg,dataset/images/3912076217540155034.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6171313367386993843,data\images\Eczema\6171313367386993843_1.jpg,dataset/images/-8841534478189887460.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6273424339491271562,data\images\Urticaria\6273424339491271562_1.jpg,dataset/images/-8297415963972830482.png,Urticaria,Mề đay,1.0
+631699876057844098,data\images\Urticaria\631699876057844098_1.jpg,dataset/images/-6831188936842345579.png,Urticaria,Mề đay,1.0
+631699876057844098,data\images\Urticaria\631699876057844098_2.jpg,dataset/images/-7095480808013941929.png,Urticaria,Mề đay,1.0
+631699876057844098,data\images\Urticaria\631699876057844098_3.jpg,dataset/images/379608455450956816.png,Urticaria,Mề đay,1.0
+6435209656777242644,data\images\Folliculitis\6435209656777242644_1.jpg,dataset/images/4693019165715133744.png,Folliculitis,Viêm nang lông,1.0
+6435209656777242644,data\images\Folliculitis\6435209656777242644_2.jpg,dataset/images/5949299162057951216.png,Folliculitis,Viêm nang lông,1.0
+6435209656777242644,data\images\Folliculitis\6435209656777242644_3.jpg,dataset/images/7786702252827405283.png,Folliculitis,Viêm nang lông,1.0
+646799631681990962,data\images\Urticaria\646799631681990962_1.jpg,dataset/images/5244444480130909722.png,Urticaria,Mề đay,1.0
+6477963367939070379,data\images\Eczema\6477963367939070379_1.jpg,dataset/images/-446114786730635224.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6493256759329924144,data\images\Urticaria\6493256759329924144_1.jpg,dataset/images/-4510716316709881959.png,Urticaria,Mề đay,1.0
+6493256759329924144,data\images\Urticaria\6493256759329924144_2.jpg,dataset/images/-4852970400573238570.png,Urticaria,Mề đay,1.0
+6493256759329924144,data\images\Urticaria\6493256759329924144_3.jpg,dataset/images/5711853361076460602.png,Urticaria,Mề đay,1.0
+6564125194979270985,data\images\Folliculitis\6564125194979270985_1.jpg,dataset/images/3921497474486328983.png,Folliculitis,Viêm nang lông,0.72
+6564125194979270985,data\images\Folliculitis\6564125194979270985_2.jpg,dataset/images/4566268063076135080.png,Folliculitis,Viêm nang lông,0.72
+6564125194979270985,data\images\Folliculitis\6564125194979270985_3.jpg,dataset/images/7258016161452223207.png,Folliculitis,Viêm nang lông,0.72
+6628616317931292707,data\images\Eczema\6628616317931292707_1.jpg,dataset/images/-2909501836418885572.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6628616317931292707,data\images\Eczema\6628616317931292707_2.jpg,dataset/images/2077227542000751032.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6628616317931292707,data\images\Eczema\6628616317931292707_3.jpg,dataset/images/7173140932140975848.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6659219792759639831,data\images\Eczema\6659219792759639831_1.jpg,dataset/images/-8579367048811032343.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6659219792759639831,data\images\Eczema\6659219792759639831_2.jpg,dataset/images/5402257362374132444.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6659219792759639831,data\images\Eczema\6659219792759639831_3.jpg,dataset/images/7256666608950418798.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6811082803205502222,data\images\Eczema\6811082803205502222_1.jpg,dataset/images/-5948592183169529123.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6811082803205502222,data\images\Eczema\6811082803205502222_2.jpg,dataset/images/2941299394318978879.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6811082803205502222,data\images\Eczema\6811082803205502222_3.jpg,dataset/images/2965383283706324138.png,Eczema,Chàm (viêm da dạng chàm),1.0
+6816620786682316431,data\images\Urticaria\6816620786682316431_1.jpg,dataset/images/-3454742488172101921.png,Urticaria,Mề đay,1.0
+6816620786682316431,data\images\Urticaria\6816620786682316431_2.jpg,dataset/images/112251036825846427.png,Urticaria,Mề đay,1.0
+6857595741723301953,data\images\Acne\6857595741723301953_1.jpg,dataset/images/-149370159562489829.png,Acne,Mụn trứng cá,1.0
+6857595741723301953,data\images\Acne\6857595741723301953_2.jpg,dataset/images/-6883370563107027349.png,Acne,Mụn trứng cá,1.0
+6857595741723301953,data\images\Acne\6857595741723301953_3.jpg,dataset/images/-8509651194925877853.png,Acne,Mụn trứng cá,1.0
+6886983180384047204,data\images\Acne\6886983180384047204_1.jpg,dataset/images/-927797147009397266.png,Acne,Mụn trứng cá,1.0
+6886983180384047204,data\images\Acne\6886983180384047204_2.jpg,dataset/images/1098419093876234729.png,Acne,Mụn trứng cá,1.0
+6886983180384047204,data\images\Acne\6886983180384047204_3.jpg,dataset/images/4590945578252772634.png,Acne,Mụn trứng cá,1.0
+7002508655843923344,data\images\Eczema\7002508655843923344_1.jpg,dataset/images/-6241322428464148939.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7016150648147062029,data\images\Eczema\7016150648147062029_1.jpg,dataset/images/-174517438571435365.png,Eczema,Chàm (viêm da dạng chàm),0.8
+7016150648147062029,data\images\Eczema\7016150648147062029_2.jpg,dataset/images/3587455938778990436.png,Eczema,Chàm (viêm da dạng chàm),0.8
+7016150648147062029,data\images\Eczema\7016150648147062029_3.jpg,dataset/images/6528753051314794706.png,Eczema,Chàm (viêm da dạng chàm),0.8
+7120026547390926334,data\images\Eczema\7120026547390926334_1.jpg,dataset/images/-3074087608497358223.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7120026547390926334,data\images\Eczema\7120026547390926334_2.jpg,dataset/images/-4729391210454558330.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7120026547390926334,data\images\Eczema\7120026547390926334_3.jpg,dataset/images/6939226168274245608.png,Eczema,Chàm (viêm da dạng chàm),1.0
+717659986857882997,data\images\Urticaria\717659986857882997_1.jpg,dataset/images/-1639533999116789945.png,Urticaria,Mề đay,1.0
+728144289746942042,data\images\Urticaria\728144289746942042_1.jpg,dataset/images/-5276695531059008727.png,Urticaria,Mề đay,1.0
+728144289746942042,data\images\Urticaria\728144289746942042_2.jpg,dataset/images/-9161563488770372425.png,Urticaria,Mề đay,1.0
+728144289746942042,data\images\Urticaria\728144289746942042_3.jpg,dataset/images/7253297709579205656.png,Urticaria,Mề đay,1.0
+7470478986187106035,data\images\Eczema\7470478986187106035_1.jpg,dataset/images/-2312269268642848632.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7470478986187106035,data\images\Eczema\7470478986187106035_2.jpg,dataset/images/-5131260086122156503.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7470478986187106035,data\images\Eczema\7470478986187106035_3.jpg,dataset/images/2680174793289567413.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7510144370582011689,data\images\Eczema\7510144370582011689_1.jpg,dataset/images/-506159417569762918.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7510144370582011689,data\images\Eczema\7510144370582011689_2.jpg,dataset/images/5996099570106289355.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7510144370582011689,data\images\Eczema\7510144370582011689_3.jpg,dataset/images/8973726898890590210.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7518955504313873550,data\images\Urticaria\7518955504313873550_1.jpg,dataset/images/139073546012313918.png,Urticaria,Mề đay,1.0
+7518955504313873550,data\images\Urticaria\7518955504313873550_2.jpg,dataset/images/2575487238866216554.png,Urticaria,Mề đay,1.0
+7518955504313873550,data\images\Urticaria\7518955504313873550_3.jpg,dataset/images/7051800646857177598.png,Urticaria,Mề đay,1.0
+7530181678510252673,data\images\Eczema\7530181678510252673_1.jpg,dataset/images/-3210481923987744829.png,Eczema,Chàm (viêm da dạng chàm),0.86
+7530181678510252673,data\images\Eczema\7530181678510252673_2.jpg,dataset/images/168988750279084140.png,Eczema,Chàm (viêm da dạng chàm),0.86
+7530181678510252673,data\images\Eczema\7530181678510252673_3.jpg,dataset/images/244714197365103165.png,Eczema,Chàm (viêm da dạng chàm),0.86
+7555277930479653112,data\images\Urticaria\7555277930479653112_1.jpg,dataset/images/-298848235389824552.png,Urticaria,Mề đay,1.0
+7555277930479653112,data\images\Urticaria\7555277930479653112_2.jpg,dataset/images/1614121879822245593.png,Urticaria,Mề đay,1.0
+7555277930479653112,data\images\Urticaria\7555277930479653112_3.jpg,dataset/images/4350191739905653689.png,Urticaria,Mề đay,1.0
+7589120847935248859,data\images\Urticaria\7589120847935248859_1.jpg,dataset/images/2110931859396807510.png,Urticaria,Mề đay,1.0
+7589120847935248859,data\images\Urticaria\7589120847935248859_2.jpg,dataset/images/511111053716796506.png,Urticaria,Mề đay,1.0
+7589120847935248859,data\images\Urticaria\7589120847935248859_3.jpg,dataset/images/7632827780740870146.png,Urticaria,Mề đay,1.0
+7595933408474634117,data\images\Urticaria\7595933408474634117_1.jpg,dataset/images/-7147666990248749019.png,Urticaria,Mề đay,1.0
+7595933408474634117,data\images\Urticaria\7595933408474634117_2.jpg,dataset/images/3268414439129063224.png,Urticaria,Mề đay,1.0
+7607709554728180063,data\images\Urticaria\7607709554728180063_1.jpg,dataset/images/1330127670452249089.png,Urticaria,Mề đay,1.0
+7701107720886548973,data\images\Eczema\7701107720886548973_1.jpg,dataset/images/-1532677556392562109.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7701107720886548973,data\images\Eczema\7701107720886548973_2.jpg,dataset/images/-6821109628029629416.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7701107720886548973,data\images\Eczema\7701107720886548973_3.jpg,dataset/images/1615221607668977325.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7722204000693864047,data\images\Eczema\7722204000693864047_1.jpg,dataset/images/-2629468652453847563.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7722204000693864047,data\images\Eczema\7722204000693864047_2.jpg,dataset/images/-5641816789447349255.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7722204000693864047,data\images\Eczema\7722204000693864047_3.jpg,dataset/images/8498057360565521850.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7750207607646915521,data\images\Urticaria\7750207607646915521_1.jpg,dataset/images/-6199778995948821319.png,Urticaria,Mề đay,1.0
+7823386482115222997,data\images\Folliculitis\7823386482115222997_1.jpg,dataset/images/-1172407312662107729.png,Folliculitis,Viêm nang lông,1.0
+7823386482115222997,data\images\Folliculitis\7823386482115222997_2.jpg,dataset/images/-4174491605367355580.png,Folliculitis,Viêm nang lông,1.0
+7823386482115222997,data\images\Folliculitis\7823386482115222997_3.jpg,dataset/images/2345398137409505013.png,Folliculitis,Viêm nang lông,1.0
+782573551119636259,data\images\Urticaria\782573551119636259_1.jpg,dataset/images/-4633922104605272438.png,Urticaria,Mề đay,1.0
+782573551119636259,data\images\Urticaria\782573551119636259_2.jpg,dataset/images/514978455832830064.png,Urticaria,Mề đay,1.0
+7852465164599698161,data\images\Eczema\7852465164599698161_1.jpg,dataset/images/-687709163764861757.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7870109801780410868,data\images\Eczema\7870109801780410868_1.jpg,dataset/images/2661853004663829775.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7900792660563069769,data\images\Eczema\7900792660563069769_1.jpg,dataset/images/-284320352049367340.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7900792660563069769,data\images\Eczema\7900792660563069769_2.jpg,dataset/images/-7768632674370440453.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7900792660563069769,data\images\Eczema\7900792660563069769_3.jpg,dataset/images/460997004871874341.png,Eczema,Chàm (viêm da dạng chàm),1.0
+7925347571055295954,data\images\Eczema\7925347571055295954_1.jpg,dataset/images/34131928669282508.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8013060069192910653,data\images\Eczema\8013060069192910653_1.jpg,dataset/images/-1001492676369731180.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8013060069192910653,data\images\Eczema\8013060069192910653_2.jpg,dataset/images/-2392484099983809741.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8013060069192910653,data\images\Eczema\8013060069192910653_3.jpg,dataset/images/2237253417025008607.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8044743903952045480,data\images\Urticaria\8044743903952045480_1.jpg,dataset/images/1851736223985307611.png,Urticaria,Mề đay,1.0
+8097381513172060282,data\images\Urticaria\8097381513172060282_1.jpg,dataset/images/-1472634170162667338.png,Urticaria,Mề đay,0.78
+8097381513172060282,data\images\Urticaria\8097381513172060282_2.jpg,dataset/images/4602883654994047075.png,Urticaria,Mề đay,0.78
+8112259532965094414,data\images\Eczema\8112259532965094414_1.jpg,dataset/images/-7145522751271663250.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8112259532965094414,data\images\Eczema\8112259532965094414_2.jpg,dataset/images/-826384814862631144.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8112259532965094414,data\images\Eczema\8112259532965094414_3.jpg,dataset/images/7333789641537553254.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8128164574096404797,data\images\Urticaria\8128164574096404797_1.jpg,dataset/images/-7729431579580044113.png,Urticaria,Mề đay,1.0
+8182366432507098658,data\images\Urticaria\8182366432507098658_1.jpg,dataset/images/8582391068867846874.png,Urticaria,Mề đay,1.0
+8190999976849585619,data\images\Eczema\8190999976849585619_1.jpg,dataset/images/-6547459727768908706.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8190999976849585619,data\images\Eczema\8190999976849585619_2.jpg,dataset/images/4442880037205290719.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8435198682736521622,data\images\Urticaria\8435198682736521622_1.jpg,dataset/images/-4203166728954341030.png,Urticaria,Mề đay,1.0
+8456203113692217308,data\images\Urticaria\8456203113692217308_1.jpg,dataset/images/-9087326729811666680.png,Urticaria,Mề đay,1.0
+8496458793428452573,data\images\Acne\8496458793428452573_1.jpg,dataset/images/-6514128282467648092.png,Acne,Mụn trứng cá,1.0
+8496458793428452573,data\images\Acne\8496458793428452573_2.jpg,dataset/images/-8879980108612236447.png,Acne,Mụn trứng cá,1.0
+8496458793428452573,data\images\Acne\8496458793428452573_3.jpg,dataset/images/7027428812908666402.png,Acne,Mụn trứng cá,1.0
+8516158991056796103,data\images\Urticaria\8516158991056796103_1.jpg,dataset/images/-16753410666317731.png,Urticaria,Mề đay,1.0
+8516158991056796103,data\images\Urticaria\8516158991056796103_2.jpg,dataset/images/-5807825109361471758.png,Urticaria,Mề đay,1.0
+8516158991056796103,data\images\Urticaria\8516158991056796103_3.jpg,dataset/images/-8591174633182809752.png,Urticaria,Mề đay,1.0
+8534614443021283236,data\images\Eczema\8534614443021283236_1.jpg,dataset/images/-1306970786638528151.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8534614443021283236,data\images\Eczema\8534614443021283236_2.jpg,dataset/images/4436712181442105412.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8534614443021283236,data\images\Eczema\8534614443021283236_3.jpg,dataset/images/8576258398425923001.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8657244537639924785,data\images\Folliculitis\8657244537639924785_1.jpg,dataset/images/6292696424741890887.png,Folliculitis,Viêm nang lông,1.0
+8787441570285298487,data\images\Eczema\8787441570285298487_1.jpg,dataset/images/6266104663802047097.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8875069263151459186,data\images\Eczema\8875069263151459186_1.jpg,dataset/images/-7461895286563712603.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8875069263151459186,data\images\Eczema\8875069263151459186_2.jpg,dataset/images/1826477474008192497.png,Eczema,Chàm (viêm da dạng chàm),1.0
+8921106678900434918,data\images\Urticaria\8921106678900434918_1.jpg,dataset/images/1281951106283171619.png,Urticaria,Mề đay,1.0
+9055010458301656007,data\images\Eczema\9055010458301656007_1.jpg,dataset/images/-862558295135857219.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9055010458301656007,data\images\Eczema\9055010458301656007_2.jpg,dataset/images/6837737674648343890.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9055010458301656007,data\images\Eczema\9055010458301656007_3.jpg,dataset/images/8795885615476833533.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9079077127826406933,data\images\Eczema\9079077127826406933_1.jpg,dataset/images/-5432546180216775741.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9079077127826406933,data\images\Eczema\9079077127826406933_2.jpg,dataset/images/-7343000754918930454.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9079077127826406933,data\images\Eczema\9079077127826406933_3.jpg,dataset/images/2021255960758992412.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9105346707210308949,data\images\Eczema\9105346707210308949_1.jpg,dataset/images/-3238683302029267521.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9105346707210308949,data\images\Eczema\9105346707210308949_2.jpg,dataset/images/-7141594063372177636.png,Eczema,Chàm (viêm da dạng chàm),1.0
+9105346707210308949,data\images\Eczema\9105346707210308949_3.jpg,dataset/images/-8970062608215251005.png,Eczema,Chàm (viêm da dạng chàm),1.0
+935346003160692168,data\images\Psoriasis\935346003160692168_1.jpg,dataset/images/-8779903138873713227.png,Psoriasis,Vảy nến,1.0
+998890198757718998,data\images\Folliculitis\998890198757718998_1.jpg,dataset/images/8953015289412905592.png,Folliculitis,Viêm nang lông,1.0
