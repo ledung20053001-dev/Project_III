@@ -1,0 +1,12 @@
+# Downloaded SCIN image datasets
+data/images/
+data/images_all/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local environments and caches
+.venv/
+venv/
+.pytest_cache/
