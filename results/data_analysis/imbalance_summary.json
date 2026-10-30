@@ -1,0 +1,19 @@
+{
+  "total_classes": 8,
+  "total_cases": 1046,
+  "total_images": 2214,
+  "total_unique_content_images": 2207,
+  "duplicate_content_images": 7,
+  "max_case_count": 319,
+  "min_case_count": 51,
+  "case_imbalance_ratio": 6.2549,
+  "max_image_count": 695,
+  "min_image_count": 99,
+  "image_imbalance_ratio": 7.0202,
+  "majority_class_by_cases": "Eczema",
+  "minority_class_by_cases": "Herpes Simplex",
+  "majority_class_by_images": "Eczema",
+  "minority_class_by_images": "Herpes Simplex",
+  "majority_class_image_baseline_accuracy_percent": 31.3911,
+  "decision": "Sau Task 4, tính class weights chỉ từ số ảnh train theo đúng thứ tự class_id. So sánh CrossEntropyLoss không trọng số và có trọng số trên cùng bộ chia bằng validation Macro F1 và Recall từng lớp. Không cân bằng validation/test và không dùng test để chọn phương pháp."
+}

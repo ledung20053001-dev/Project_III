@@ -35,8 +35,9 @@ Phần dưới đây mô tả các trường trong những tệp CSV khác nhau.
     * `OTHER_OR_UNSPECIFIED`: Khác hoặc không xác định.
   * Giao diện SCIN cũng có các lựa chọn `OTHER` và `PREFER_NOT_TO_SAY`. Do không có đủ câu trả lời trong hai nhóm này để công bố riêng, các ca đó được gộp vào nhóm `OTHER_OR_UNSPECIFIED`.
 
-* **fitzpatrick_skin_type** (`enum`, đôi khi có): Loại da do người dùng tự khai báo.
+* **fitzpatrick_skin_type** (`enum`, đôi khi có): Loại da do người dùng tự khai báo. Nhãn phân loại của thang Fitzpatrick Skin Type.
   * Các giá trị có thể có: `FST1`–`FST6`, `NONE_SELECTED`.
+  * Lý do: tránh bị hiểu nhầm thành các giá trị như trọng số, thứ tự,.. 
   * Trong ứng dụng, người dùng được hỏi da phản ứng như thế nào khi tiếp xúc với ánh nắng. Các câu trả lời sau được ánh xạ sang giá trị FST:
     * `NEVER_TANS`: Không bao giờ rám nắng.
     * `TANS_MINIMALLY`: Rám nắng rất ít.

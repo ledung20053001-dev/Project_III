@@ -1,0 +1,1047 @@
+﻿case_id,class_id,label_en,label_vi,group_id,group_size,split,total_images
+-101827005996397499,0,Eczema,Chàm (viêm da dạng chàm),G_60d9dbd87cdbc730,1,train,2
+-1031911667791094656,0,Eczema,Chàm (viêm da dạng chàm),G_4d4051167e765820,1,train,3
+-1079717215777778516,0,Eczema,Chàm (viêm da dạng chàm),G_1d9731ec6c6d7961,1,train,1
+-1120481478267460560,0,Eczema,Chàm (viêm da dạng chàm),G_ec3b157f44b20f25,1,train,3
+-1160477743339353280,0,Eczema,Chàm (viêm da dạng chàm),G_d6021b4465a399e4,1,train,2
+-1175252715545111648,0,Eczema,Chàm (viêm da dạng chàm),G_c2a0125e6c506f2b,1,train,1
+-1176139745215707994,0,Eczema,Chàm (viêm da dạng chàm),G_bd6ecc8543662486,1,train,3
+-1212770266425026516,0,Eczema,Chàm (viêm da dạng chàm),G_609988c25cc3271e,1,train,1
+-1287537139414408239,0,Eczema,Chàm (viêm da dạng chàm),G_b296ce464243d326,1,train,1
+-130215202506383973,0,Eczema,Chàm (viêm da dạng chàm),G_66bb200a6aa0af2f,1,val,3
+-13131843686168963,0,Eczema,Chàm (viêm da dạng chàm),G_4c6711ddda72aea1,1,train,3
+-1440607007617551864,0,Eczema,Chàm (viêm da dạng chàm),G_6f3bcc81580d0f00,1,train,1
+-1489554259511957542,0,Eczema,Chàm (viêm da dạng chàm),G_fa7a0e49dd40a3e3,1,train,1
+-1634812113032318983,0,Eczema,Chàm (viêm da dạng chàm),G_ea5d8d49c0895c2c,1,train,1
+-1687786499395222413,0,Eczema,Chàm (viêm da dạng chàm),G_616d7ef22f7cbd98,1,train,3
+-177741761654665523,0,Eczema,Chàm (viêm da dạng chàm),G_7b454176715d738e,1,train,1
+-1867477807071653688,0,Eczema,Chàm (viêm da dạng chàm),G_e5ff86c9dcff7ae8,1,train,3
+-2079383910052664228,0,Eczema,Chàm (viêm da dạng chàm),G_c9e29990303fc52b,1,train,1
+-2109737640141340092,0,Eczema,Chàm (viêm da dạng chàm),G_bb27027791c01a24,1,train,1
+-2264019987022902025,0,Eczema,Chàm (viêm da dạng chàm),G_bb7a9c0bf76813e9,1,train,3
+-2305175233838037269,0,Eczema,Chàm (viêm da dạng chàm),G_6cc430ee855b597d,1,train,2
+-2398859378888320661,0,Eczema,Chàm (viêm da dạng chàm),G_75d685fe0068ae54,1,test,3
+-2476666525066355593,0,Eczema,Chàm (viêm da dạng chàm),G_57657fa24e279dd6,1,train,2
+-2489398836625963530,0,Eczema,Chàm (viêm da dạng chàm),G_15c9f14d2e5fa0e7,1,val,1
+-2494478177641295044,0,Eczema,Chàm (viêm da dạng chàm),G_92c8f186007417bb,1,test,3
+-2497369499064387207,0,Eczema,Chàm (viêm da dạng chàm),G_8986ff3277cf1745,1,train,1
+-2568835947642432686,0,Eczema,Chàm (viêm da dạng chàm),G_32fa6c494502c992,1,val,3
+-2615067672343817892,0,Eczema,Chàm (viêm da dạng chàm),G_a63837fa80c76d1d,1,train,2
+-2694778364670578365,0,Eczema,Chàm (viêm da dạng chàm),G_9db5b275e5244efd,1,train,1
+-2720193912587488455,0,Eczema,Chàm (viêm da dạng chàm),G_c4219ca952ff3f60,1,test,1
+-2771384970277456203,0,Eczema,Chàm (viêm da dạng chàm),G_fe4ba7e290abeeb1,1,train,1
+-2929036763099166629,0,Eczema,Chàm (viêm da dạng chàm),G_53105547bee19d79,1,test,3
+-3059654233454543811,0,Eczema,Chàm (viêm da dạng chàm),G_5ece2c0b36ab766b,1,train,3
+-3240044829540479265,0,Eczema,Chàm (viêm da dạng chàm),G_087693bf66d3a425,1,test,3
+-3322391844184846931,0,Eczema,Chàm (viêm da dạng chàm),G_e6891333f12c27ce,1,train,3
+-3334867013813268088,0,Eczema,Chàm (viêm da dạng chàm),G_e1227a43159f3b2f,1,train,3
+-3342777860023762750,0,Eczema,Chàm (viêm da dạng chàm),G_0f2e53e65e04c10e,1,train,1
+-3368700702387238612,0,Eczema,Chàm (viêm da dạng chàm),G_b8d3d07db0261931,1,test,3
+-3472013078354125372,0,Eczema,Chàm (viêm da dạng chàm),G_0c4a4c834f382fc7,1,train,3
+-3481793704947608790,0,Eczema,Chàm (viêm da dạng chàm),G_b4fa23f66dac02db,1,test,3
+-3578549284921191146,0,Eczema,Chàm (viêm da dạng chàm),G_247c6db89215772e,1,train,1
+-358285866955788405,0,Eczema,Chàm (viêm da dạng chàm),G_4397d442619c537a,1,train,2
+-3729405817702330277,0,Eczema,Chàm (viêm da dạng chàm),G_def9241798978211,1,val,2
+-3836665857980310045,0,Eczema,Chàm (viêm da dạng chàm),G_12d6b1fa1116cbf4,1,train,1
+-3841091253724337986,0,Eczema,Chàm (viêm da dạng chàm),G_53881a3d4acf1f1f,1,train,3
+-3902972343084754168,0,Eczema,Chàm (viêm da dạng chàm),G_18f43c8dfe300cbc,1,val,3
+-3940816727290109028,0,Eczema,Chàm (viêm da dạng chàm),G_aa167058d8bccefb,1,train,3
+-3986748508757622431,0,Eczema,Chàm (viêm da dạng chàm),G_02c50409f990d72d,1,train,2
+-4071768868495766495,0,Eczema,Chàm (viêm da dạng chàm),G_da178e2dafca1443,1,train,1
+-4075310940141929102,0,Eczema,Chàm (viêm da dạng chàm),G_bcb3590ecadbd8b9,1,train,1
+-4076782359054286063,0,Eczema,Chàm (viêm da dạng chàm),G_5d5092498351072f,1,val,2
+-4113364670973148735,0,Eczema,Chàm (viêm da dạng chàm),G_0cd7e336683da352,1,test,2
+-4119328652026046199,0,Eczema,Chàm (viêm da dạng chàm),G_3826a7e2b239d441,1,test,1
+-429900437128686382,0,Eczema,Chàm (viêm da dạng chàm),G_1767b40df63e739d,1,train,1
+-4573383150487721045,0,Eczema,Chàm (viêm da dạng chàm),G_7a795ecc52b1e770,1,val,3
+-4574517859891367319,0,Eczema,Chàm (viêm da dạng chàm),G_ccfbac58317b7578,1,train,1
+-4603590259708776060,0,Eczema,Chàm (viêm da dạng chàm),G_cb623d6472edef94,1,train,3
+-4662194556963063742,0,Eczema,Chàm (viêm da dạng chàm),G_78d57120f18a09b3,1,test,1
+-4716082422192681275,0,Eczema,Chàm (viêm da dạng chàm),G_9fbb16a43ac8a71d,1,train,2
+-4717786449227921352,0,Eczema,Chàm (viêm da dạng chàm),G_58dd6eab5ed0ffb8,1,test,3
+-4767504724286041742,0,Eczema,Chàm (viêm da dạng chàm),G_0409bc26a2dbf893,1,train,1
+-4931676201516783432,0,Eczema,Chàm (viêm da dạng chàm),G_a3a06d5d295f452b,1,train,1
+-4949778095225877346,0,Eczema,Chàm (viêm da dạng chàm),G_40e3ab288acfc1dc,1,val,1
+-5007684126286758763,0,Eczema,Chàm (viêm da dạng chàm),G_0c18aba02073f27a,1,train,2
+-5037214955734403674,0,Eczema,Chàm (viêm da dạng chàm),G_3fdcb3f08d7f2f51,1,test,3
+-5053547823727699517,0,Eczema,Chàm (viêm da dạng chàm),G_735210ec87c186c5,1,train,2
+-5110480118605969654,0,Eczema,Chàm (viêm da dạng chàm),G_59836927d9b4434e,1,train,3
+-5113427845298536558,0,Eczema,Chàm (viêm da dạng chàm),G_99b4e08f7fc4c942,1,train,2
+-5116461847734141400,0,Eczema,Chàm (viêm da dạng chàm),G_6028ea2546d2ed90,1,train,3
+-5122446773279036270,0,Eczema,Chàm (viêm da dạng chàm),G_3cfb53165e655c16,1,train,1
+-5133268150886787662,0,Eczema,Chàm (viêm da dạng chàm),G_181f87020ffe11b4,1,train,2
+-5188110530184167935,0,Eczema,Chàm (viêm da dạng chàm),G_71c168a6deabac11,1,train,3
+-5256429932634187395,0,Eczema,Chàm (viêm da dạng chàm),G_fad05939caed6eed,1,test,3
+-5259460570876140361,0,Eczema,Chàm (viêm da dạng chàm),G_10f92d6b522c684a,1,train,2
+-5311088105871258453,0,Eczema,Chàm (viêm da dạng chàm),G_12f543549dfbfd40,1,train,3
+-5314922026795305282,0,Eczema,Chàm (viêm da dạng chàm),G_532e64980b591e50,1,test,1
+-5382881724534486828,0,Eczema,Chàm (viêm da dạng chàm),G_6b48e0faefdb18b1,1,test,3
+-5386001319667999365,0,Eczema,Chàm (viêm da dạng chàm),G_ab01cd9bd83358b8,1,val,3
+-5390403732124632941,0,Eczema,Chàm (viêm da dạng chàm),G_efbcde5b7187589a,1,val,1
+-5409557810550060682,0,Eczema,Chàm (viêm da dạng chàm),G_70efe45bf257edd9,1,train,1
+-5473654302560810311,0,Eczema,Chàm (viêm da dạng chàm),G_63bb1d0ee2145a55,1,val,1
+-5514159851754006416,0,Eczema,Chàm (viêm da dạng chàm),G_58ec59905059ca9c,1,train,1
+-5551577784945548161,0,Eczema,Chàm (viêm da dạng chàm),G_7f6bf13498f86051,1,val,3
+-5586973041467401195,0,Eczema,Chàm (viêm da dạng chàm),G_e105f09bd5cfbc88,1,train,3
+-560232169955476365,0,Eczema,Chàm (viêm da dạng chàm),G_1174cfee55fd1b44,1,train,2
+-5699778175892675344,0,Eczema,Chàm (viêm da dạng chàm),G_a700f2dd32ddb1f8,1,train,1
+-5732857245539407305,0,Eczema,Chàm (viêm da dạng chàm),G_6efc22a274444252,1,val,3
+-5786766637950420055,0,Eczema,Chàm (viêm da dạng chàm),G_0cf2cd93f7eb23e0,1,train,2
+-5950615716792877384,0,Eczema,Chàm (viêm da dạng chàm),G_caf4368573871c44,1,train,1
+-6003166513555222439,0,Eczema,Chàm (viêm da dạng chàm),G_e2bba03d75f0f2af,1,train,2
+-6079599096718517393,0,Eczema,Chàm (viêm da dạng chàm),G_b627a7ad154bb8c3,1,train,3
+-6108620396561569682,0,Eczema,Chàm (viêm da dạng chàm),G_833430be623cf35a,1,train,2
+-611262731968854358,0,Eczema,Chàm (viêm da dạng chàm),G_c5d63420ecad749d,1,train,3
+-6289833455905228029,0,Eczema,Chàm (viêm da dạng chàm),G_f1ba309658499a01,1,train,3
+-6297664799169832787,0,Eczema,Chàm (viêm da dạng chàm),G_e2fed7a571b9e0f7,1,test,1
+-6339271426910265089,0,Eczema,Chàm (viêm da dạng chàm),G_cc193cfbaba12ffe,1,val,1
+-6428053927743852697,0,Eczema,Chàm (viêm da dạng chàm),G_4ac9c9a775638adf,1,val,1
+-6445954516415456798,0,Eczema,Chàm (viêm da dạng chàm),G_905e3e1a1793f1ff,1,train,3
+-6512147186058965264,0,Eczema,Chàm (viêm da dạng chàm),G_0b0c488542e9f72c,1,test,3
+-6561484724818123004,0,Eczema,Chàm (viêm da dạng chàm),G_fc41654ca8f59c13,1,train,3
+-6597839206640248226,0,Eczema,Chàm (viêm da dạng chàm),G_b35a9a5299aad5ce,1,train,3
+-6706328135925294711,0,Eczema,Chàm (viêm da dạng chàm),G_66e834aa500bb333,1,test,3
+-6715006302962078444,0,Eczema,Chàm (viêm da dạng chàm),G_c798e096fe4bc62a,1,train,2
+-6734422466158182964,0,Eczema,Chàm (viêm da dạng chàm),G_bfb7b50ffee65fce,1,val,1
+-6882671634270429823,0,Eczema,Chàm (viêm da dạng chàm),G_f6edef3e04c96d50,1,train,3
+-6969050153229908945,0,Eczema,Chàm (viêm da dạng chàm),G_0a576caa82c68091,1,train,1
+-6969933999634072117,0,Eczema,Chàm (viêm da dạng chàm),G_cd9ec31bcbbf705c,1,train,3
+-7110334037625264755,0,Eczema,Chàm (viêm da dạng chàm),G_fe2e82b0e1b34937,1,train,3
+-7196750938559076046,0,Eczema,Chàm (viêm da dạng chàm),G_60c4579938954a67,1,train,3
+-7277514071091705587,0,Eczema,Chàm (viêm da dạng chàm),G_15b15b8fe11c9c9b,1,test,3
+-736839246514769800,0,Eczema,Chàm (viêm da dạng chàm),G_6d5dc43c29ecce76,1,train,1
+-7445662782263265515,0,Eczema,Chàm (viêm da dạng chàm),G_0e87e7488189bd68,1,train,1
+-7508592580409408491,0,Eczema,Chàm (viêm da dạng chàm),G_ac1c65f1e8c4f9ec,1,train,3
+-7532348811139560177,0,Eczema,Chàm (viêm da dạng chàm),G_af4f219a5a85ac6e,1,train,3
+-756461656416054762,0,Eczema,Chàm (viêm da dạng chàm),G_92aa93347e44265a,1,test,1
+-7609697586211899286,0,Eczema,Chàm (viêm da dạng chàm),G_3412763b1d3d14f3,1,train,3
+-7625656626952816481,0,Eczema,Chàm (viêm da dạng chàm),G_ca566344c7bb7af5,1,val,3
+-7675297277521429765,0,Eczema,Chàm (viêm da dạng chàm),G_e23ad44378778c42,1,train,1
+-7706133768652999375,0,Eczema,Chàm (viêm da dạng chàm),G_7334ab6feaf90d38,1,train,3
+-7721876733224782628,0,Eczema,Chàm (viêm da dạng chàm),G_7ffcbfdc98179b5f,1,train,3
+-7743291557587090042,0,Eczema,Chàm (viêm da dạng chàm),G_79d0d8aca5e79e7f,1,test,3
+-7776857652459777696,0,Eczema,Chàm (viêm da dạng chàm),G_75c0300290df47f7,1,train,3
+-7848471858286366472,0,Eczema,Chàm (viêm da dạng chàm),G_2702c3f160983a83,1,val,3
+-7851195646036204419,0,Eczema,Chàm (viêm da dạng chàm),G_a134cef51957de38,1,train,2
+-7888514233246015969,0,Eczema,Chàm (viêm da dạng chàm),G_bc0f5d760bbb9072,1,test,3
+-790136595695714665,0,Eczema,Chàm (viêm da dạng chàm),G_36c73af1dcda8985,1,train,3
+-7955175484125975778,0,Eczema,Chàm (viêm da dạng chàm),G_b113127024286ea6,1,train,1
+-8045978879867751489,0,Eczema,Chàm (viêm da dạng chàm),G_56d366503f412fb8,1,train,3
+-8054001866397330447,0,Eczema,Chàm (viêm da dạng chàm),G_b37889b1f59891a4,1,train,3
+-8100602937335660438,0,Eczema,Chàm (viêm da dạng chàm),G_54658a3e7859f5a4,1,val,3
+-8111125152560753978,0,Eczema,Chàm (viêm da dạng chàm),G_1f207514884c9d76,1,train,3
+-8239529408406365093,0,Eczema,Chàm (viêm da dạng chàm),G_4d7ab3cacec724e7,1,val,1
+-8299809889773574040,0,Eczema,Chàm (viêm da dạng chàm),G_2208f80bc2a3ed54,1,test,1
+-8309061698872621287,0,Eczema,Chàm (viêm da dạng chàm),G_c11374844a28421a,1,train,3
+-845380407717415265,0,Eczema,Chàm (viêm da dạng chàm),G_661055e7b0ed1055,1,train,2
+-8545507601606408653,0,Eczema,Chàm (viêm da dạng chàm),G_0317e0b78bb13dda,1,train,3
+-8617284865077803152,0,Eczema,Chàm (viêm da dạng chàm),G_5f9df9e4f06880e6,1,train,3
+-8808510258616563225,0,Eczema,Chàm (viêm da dạng chàm),G_036d288f58036f11,1,test,3
+-8839332483113442176,0,Eczema,Chàm (viêm da dạng chàm),G_b10ebdba30aebf40,1,train,3
+-887349597372827539,0,Eczema,Chàm (viêm da dạng chàm),G_6f0b627367c700f2,1,train,1
+-89247052115172663,0,Eczema,Chàm (viêm da dạng chàm),G_e4f37275d70bd800,1,train,3
+-8941823298969324677,0,Eczema,Chàm (viêm da dạng chàm),G_22e837bdb0ffda7d,1,train,1
+-9109824565676367958,0,Eczema,Chàm (viêm da dạng chàm),G_fda0fe22bdd7fac1,1,train,3
+-9186663381072946606,0,Eczema,Chàm (viêm da dạng chàm),G_d052a436d6156180,1,val,1
+-919660371744832007,0,Eczema,Chàm (viêm da dạng chàm),G_e983012ad254e1ef,1,val,3
+1180361584407188093,0,Eczema,Chàm (viêm da dạng chàm),G_6fcb6507ac22455e,1,train,3
+1182601550504235386,0,Eczema,Chàm (viêm da dạng chàm),G_3043f366b7da7c1b,1,val,1
+1315451198768282216,0,Eczema,Chàm (viêm da dạng chàm),G_e6aea6fc4f361e72,1,train,3
+1405292427261128343,0,Eczema,Chàm (viêm da dạng chàm),G_47990d336dfea41c,1,val,1
+1444216325514343990,0,Eczema,Chàm (viêm da dạng chàm),G_3975f40b1c6da099,1,train,3
+1505125040846659152,0,Eczema,Chàm (viêm da dạng chàm),G_3fb972753fb2b498,1,test,1
+151752990746265297,0,Eczema,Chàm (viêm da dạng chàm),G_58614541e10c2474,1,test,3
+1590085795051217125,0,Eczema,Chàm (viêm da dạng chàm),G_021af2b56ba8f920,1,train,3
+1678281205783001740,0,Eczema,Chàm (viêm da dạng chàm),G_4f3890f7c3f9a750,1,train,1
+1779309246996751578,0,Eczema,Chàm (viêm da dạng chàm),G_0c39cca1ab36cff8,1,train,1
+1850198155303184343,0,Eczema,Chàm (viêm da dạng chàm),G_c7f9a2380ddc431a,1,test,3
+1907862242724374121,0,Eczema,Chàm (viêm da dạng chàm),G_cf5138c3cbb36506,1,val,1
+1969398346152019890,0,Eczema,Chàm (viêm da dạng chàm),G_6ebb9d818a59568c,1,val,3
+1970249032025055411,0,Eczema,Chàm (viêm da dạng chàm),G_3f3a2ef3a9590d2e,1,val,1
+2032126799370161520,0,Eczema,Chàm (viêm da dạng chàm),G_3fa56e5a056f5e5b,1,train,1
+2042799682642232358,0,Eczema,Chàm (viêm da dạng chàm),G_3c56a14d8ed59cab,1,test,3
+2093973831515705574,0,Eczema,Chàm (viêm da dạng chàm),G_9d44c50ef9570cf7,1,train,3
+227927129134706308,0,Eczema,Chàm (viêm da dạng chàm),G_2afdce45b1e57644,1,train,3
+2279889461199857040,0,Eczema,Chàm (viêm da dạng chàm),G_d0ec3c944c23288d,1,train,3
+2402315738072109658,0,Eczema,Chàm (viêm da dạng chàm),G_f98b3cb8ab3d8e7d,1,test,1
+2415409301696334628,0,Eczema,Chàm (viêm da dạng chàm),G_415ec63902dcca6e,1,val,2
+2426005272291842267,0,Eczema,Chàm (viêm da dạng chàm),G_52a509d0608d0457,1,train,1
+2562611754724897853,0,Eczema,Chàm (viêm da dạng chàm),G_3bf34440792c92f2,1,train,1
+2634903212622073763,0,Eczema,Chàm (viêm da dạng chàm),G_d5315d774c38cd0b,1,train,2
+2694548651684997841,0,Eczema,Chàm (viêm da dạng chàm),G_cbca81b22bd34aae,1,train,1
+2718854131676367612,0,Eczema,Chàm (viêm da dạng chàm),G_636455e21795a3e6,1,train,2
+2819561673735466170,0,Eczema,Chàm (viêm da dạng chàm),G_e5eddcfed54ca574,1,test,2
+2853336252422395826,0,Eczema,Chàm (viêm da dạng chàm),G_b903bece857bb45e,1,val,3
+2935100902537927469,0,Eczema,Chàm (viêm da dạng chàm),G_89e2c4fb18929943,1,train,3
+3048596608278672157,0,Eczema,Chàm (viêm da dạng chàm),G_9a5107f073b44a65,1,val,1
+3054184823275693364,0,Eczema,Chàm (viêm da dạng chàm),G_933abb0d98aec161,1,val,1
+3083550471820565612,0,Eczema,Chàm (viêm da dạng chàm),G_7826fd75084ade19,1,test,3
+3131320081296493845,0,Eczema,Chàm (viêm da dạng chàm),G_22ecd14006e404e9,1,test,2
+3168026545757928619,0,Eczema,Chàm (viêm da dạng chàm),G_da0aec31ef9a412d,1,train,1
+3215944651782994554,0,Eczema,Chàm (viêm da dạng chàm),G_777667cbdb1dde4b,1,train,1
+3318646782389326114,0,Eczema,Chàm (viêm da dạng chàm),G_ba266f352b42cd8d,1,train,1
+3338941119938065346,0,Eczema,Chàm (viêm da dạng chàm),G_3e4f42a4bb20a946,1,train,3
+334358841782839450,0,Eczema,Chàm (viêm da dạng chàm),G_97679d49dc856686,1,train,1
+335846587626430311,0,Eczema,Chàm (viêm da dạng chàm),G_25bfb0c4405f957d,1,train,2
+3370360084614360577,0,Eczema,Chàm (viêm da dạng chàm),G_5156da3f1b264552,1,train,3
+3377584127732041409,0,Eczema,Chàm (viêm da dạng chàm),G_873f04f848102b39,1,test,2
+3397875770673970206,0,Eczema,Chàm (viêm da dạng chàm),G_657b967a809160e4,1,train,3
+3456891911232930877,0,Eczema,Chàm (viêm da dạng chàm),G_8f060f8fba3bbe20,1,test,1
+3489401261164777258,0,Eczema,Chàm (viêm da dạng chàm),G_cf17f359ae734e57,1,train,1
+3508096970709139981,0,Eczema,Chàm (viêm da dạng chàm),G_80cc9f153724e0a0,1,train,3
+3592193595988016117,0,Eczema,Chàm (viêm da dạng chàm),G_e22591158a8d8093,1,train,3
+3593913499071005849,0,Eczema,Chàm (viêm da dạng chàm),G_f236599362f80bcd,1,train,2
+3625927970563316170,0,Eczema,Chàm (viêm da dạng chàm),G_fc6aede8f78a9c01,1,val,3
+3640029505808518192,0,Eczema,Chàm (viêm da dạng chàm),G_c8e56099f0bc7f12,1,train,3
+3664056088050397807,0,Eczema,Chàm (viêm da dạng chàm),G_fb23e2b6fee5b3f4,1,train,1
+3672035037804163918,0,Eczema,Chàm (viêm da dạng chàm),G_83525f3b7bab7b73,1,test,1
+3751140674205808783,0,Eczema,Chàm (viêm da dạng chàm),G_bd6753c7c21e4ccf,1,train,3
+3846988567346853286,0,Eczema,Chàm (viêm da dạng chàm),G_dd8d4cb011f280bb,1,train,1
+3854838007785418240,0,Eczema,Chàm (viêm da dạng chàm),G_a4ffd875be05c9c5,1,train,3
+3871578790621255671,0,Eczema,Chàm (viêm da dạng chàm),G_5e5858c9ff197300,1,train,3
+388953548978652366,0,Eczema,Chàm (viêm da dạng chàm),G_b902e1af2476c106,1,val,3
+3899516695780399983,0,Eczema,Chàm (viêm da dạng chàm),G_462048d0900ef564,1,train,3
+3914126473410086984,0,Eczema,Chàm (viêm da dạng chàm),G_5191c20b8f299bb8,1,train,1
+3927167794563159897,0,Eczema,Chàm (viêm da dạng chàm),G_259049ccd97759c9,1,test,1
+393661975178714315,0,Eczema,Chàm (viêm da dạng chàm),G_b7b998029b884327,1,train,3
+3950839687124807995,0,Eczema,Chàm (viêm da dạng chàm),G_2bb0ca455a76906d,1,train,3
+395621552216449334,0,Eczema,Chàm (viêm da dạng chàm),G_42ce7eaac09391b8,1,train,3
+3998476769988018648,0,Eczema,Chàm (viêm da dạng chàm),G_ff5a533a2c0883c3,1,train,2
+4025578086861637599,0,Eczema,Chàm (viêm da dạng chàm),G_8e44351d2b722750,1,test,2
+4045630925436019833,0,Eczema,Chàm (viêm da dạng chàm),G_182ba68db0cbb13c,1,val,3
+4133668967666016070,0,Eczema,Chàm (viêm da dạng chàm),G_5fcc50a9466ed625,1,train,3
+4148131065686866883,0,Eczema,Chàm (viêm da dạng chàm),G_2192d1b498c6fcc8,1,train,2
+4150814201378985637,0,Eczema,Chàm (viêm da dạng chàm),G_fd779e2da116bd1e,1,train,3
+4163743239541170511,0,Eczema,Chàm (viêm da dạng chàm),G_8163a2b961b3b6fc,1,train,3
+4189491602742739164,0,Eczema,Chàm (viêm da dạng chàm),G_7ac1cda4f16b96d1,1,train,1
+4211680797398835347,0,Eczema,Chàm (viêm da dạng chàm),G_daa9a860d5642d2b,1,train,2
+4270831411478633884,0,Eczema,Chàm (viêm da dạng chàm),G_b52550d06c066672,1,train,2
+4296604084486352915,0,Eczema,Chàm (viêm da dạng chàm),G_e47b7ecaf599d32a,1,train,1
+4308656549168040797,0,Eczema,Chàm (viêm da dạng chàm),G_a35db35607855a9f,1,train,3
+4328837998610979078,0,Eczema,Chàm (viêm da dạng chàm),G_9a7fbce69f1c09ca,1,train,3
+436139237363385762,0,Eczema,Chàm (viêm da dạng chàm),G_bf1151eff0ad1ddd,1,test,1
+4401153446611786293,0,Eczema,Chàm (viêm da dạng chàm),G_41c9fee257cf3a77,1,train,3
+4415183841130068283,0,Eczema,Chàm (viêm da dạng chàm),G_31e313a8287baedc,1,train,2
+4494188320061426697,0,Eczema,Chàm (viêm da dạng chàm),G_89daac5b6fb9c035,1,train,1
+4617799262476322488,0,Eczema,Chàm (viêm da dạng chàm),G_a49a25a5c217ed0f,1,train,3
+4639578100401351922,0,Eczema,Chàm (viêm da dạng chàm),G_ad0a5b31564da561,1,val,3
+466560589572785229,0,Eczema,Chàm (viêm da dạng chàm),G_c52503dc038c9281,1,train,2
+4847767520813607841,0,Eczema,Chàm (viêm da dạng chàm),G_3b0877df82446bf6,1,train,3
+4851798629512515375,0,Eczema,Chàm (viêm da dạng chàm),G_836896ac2c35b5ef,1,train,3
+4860454162307932240,0,Eczema,Chàm (viêm da dạng chàm),G_c303964e3d3bfb08,1,train,3
+5069127474605540768,0,Eczema,Chàm (viêm da dạng chàm),G_bfcb92376df6ac6e,1,train,1
+5086266645616326579,0,Eczema,Chàm (viêm da dạng chàm),G_33df8f9902aa9741,1,train,3
+5097931092695947304,0,Eczema,Chàm (viêm da dạng chàm),G_4404bce2b92bdc8e,1,train,1
+5100815424449862591,0,Eczema,Chàm (viêm da dạng chàm),G_3741cfe55e8286c1,1,val,3
+5134227833320335008,0,Eczema,Chàm (viêm da dạng chàm),G_c70169ee6a5a6d29,1,train,3
+5275181661240813075,0,Eczema,Chàm (viêm da dạng chàm),G_06fcc468a537a452,1,train,3
+5307689170346550364,0,Eczema,Chàm (viêm da dạng chàm),G_b71881700b859e27,1,train,3
+5336018037169319124,0,Eczema,Chàm (viêm da dạng chàm),G_1c2a17c316f979c7,1,train,1
+5429197013372191565,0,Eczema,Chàm (viêm da dạng chàm),G_bb8520c17f286054,1,val,3
+5475014386524307360,0,Eczema,Chàm (viêm da dạng chàm),G_e455fe1bcc976676,1,val,1
+5530574831873823780,0,Eczema,Chàm (viêm da dạng chàm),G_21c5620994ff706b,1,test,3
+5590334184534809504,0,Eczema,Chàm (viêm da dạng chàm),G_5593ef3ccf6c39a4,1,train,1
+5604714673774290686,0,Eczema,Chàm (viêm da dạng chàm),G_a70d156e01451547,1,val,1
+5608217381673437767,0,Eczema,Chàm (viêm da dạng chàm),G_64402b52e73d956f,1,train,1
+5632157492123174629,0,Eczema,Chàm (viêm da dạng chàm),G_b5881d53b8b912f1,1,train,3
+5638485555901716918,0,Eczema,Chàm (viêm da dạng chàm),G_4b64f4306d3442c6,1,train,2
+5644095110238638291,0,Eczema,Chàm (viêm da dạng chàm),G_b2dbde43bb41955d,1,train,3
+5655540960364786102,0,Eczema,Chàm (viêm da dạng chàm),G_52247fc45f489da8,1,train,2
+5666232087679610822,0,Eczema,Chàm (viêm da dạng chàm),G_cffa04f68c15effa,1,train,3
+5816442523665549473,0,Eczema,Chàm (viêm da dạng chàm),G_a6739a8fe505b560,1,train,3
+5871690704476569950,0,Eczema,Chàm (viêm da dạng chàm),G_c8b4b1713a76bb69,1,train,3
+6049746348803202577,0,Eczema,Chàm (viêm da dạng chàm),G_def70626e7f674ef,1,val,2
+6090377301690995036,0,Eczema,Chàm (viêm da dạng chàm),G_c621f1ae939ca1f0,1,train,3
+6148765009257671062,0,Eczema,Chàm (viêm da dạng chàm),G_067145903513c409,1,val,2
+6171313367386993843,0,Eczema,Chàm (viêm da dạng chàm),G_93c0434e35bea2fe,1,train,1
+638722916707851230,0,Eczema,Chàm (viêm da dạng chàm),G_2da77d02d5b9c1fb,1,train,3
+6411099091037930319,0,Eczema,Chàm (viêm da dạng chàm),G_d804c54a04da4273,1,train,1
+6455730641986061089,0,Eczema,Chàm (viêm da dạng chàm),G_e0099942acc72268,1,train,3
+6477963367939070379,0,Eczema,Chàm (viêm da dạng chàm),G_4df247d2625c7ebb,1,train,1
+6495810299188613611,0,Eczema,Chàm (viêm da dạng chàm),G_8f972ad518be9fd4,1,test,3
+6497616863106691573,0,Eczema,Chàm (viêm da dạng chàm),G_84a144ae3479daf4,1,train,2
+6628616317931292707,0,Eczema,Chàm (viêm da dạng chàm),G_ac129657be0cd6ff,1,train,3
+6657145439277621297,0,Eczema,Chàm (viêm da dạng chàm),G_e1e9422eced52b28,1,train,2
+6659219792759639831,0,Eczema,Chàm (viêm da dạng chàm),G_8ba2b134375899b2,1,train,3
+6675143408858735444,0,Eczema,Chàm (viêm da dạng chàm),G_2d56cf715e9f7bb1,1,test,2
+6811082803205502222,0,Eczema,Chàm (viêm da dạng chàm),G_08b8df996e19ae0b,1,val,3
+6868042259667551510,0,Eczema,Chàm (viêm da dạng chàm),G_ef69e77d5afca346,1,train,2
+6940377893753972358,0,Eczema,Chàm (viêm da dạng chàm),G_697ca383ef7b5014,1,train,3
+7002508655843923344,0,Eczema,Chàm (viêm da dạng chàm),G_297513b7f3be1214,1,val,1
+7016150648147062029,0,Eczema,Chàm (viêm da dạng chàm),G_33877250fbd89f78,1,train,3
+70450900473269645,0,Eczema,Chàm (viêm da dạng chàm),G_94462673ff935ee0,1,test,3
+7109119023737070922,0,Eczema,Chàm (viêm da dạng chàm),G_b63f05fed4ab15f2,1,train,1
+7120026547390926334,0,Eczema,Chàm (viêm da dạng chàm),G_e5b22e687efb9286,1,train,3
+7168721207638666394,0,Eczema,Chàm (viêm da dạng chàm),G_ab7a4ce07dfbfba9,1,train,1
+7176461562946921192,0,Eczema,Chàm (viêm da dạng chàm),G_5ea30b13f01d0e22,1,train,3
+7346307195670230922,0,Eczema,Chàm (viêm da dạng chàm),G_194a69f45aa3658e,1,train,3
+7470478986187106035,0,Eczema,Chàm (viêm da dạng chàm),G_85a7ee42039034ba,1,train,3
+7510144370582011689,0,Eczema,Chàm (viêm da dạng chàm),G_cc5a50d998ebec2f,1,train,3
+7530181678510252673,0,Eczema,Chàm (viêm da dạng chàm),G_f4040915a6a92166,1,val,3
+7696895576315201202,0,Eczema,Chàm (viêm da dạng chàm),G_a5ebc55633f0e783,1,train,1
+7701107720886548973,0,Eczema,Chàm (viêm da dạng chàm),G_e3a3742446613cfe,1,train,3
+7722204000693864047,0,Eczema,Chàm (viêm da dạng chàm),G_b426d24c07778548,1,train,3
+7777133227591406533,0,Eczema,Chàm (viêm da dạng chàm),G_4be33a7515d9000f,1,val,2
+7839050789133028498,0,Eczema,Chàm (viêm da dạng chàm),G_bedc3a19dbd497b3,1,train,1
+7852465164599698161,0,Eczema,Chàm (viêm da dạng chàm),G_b0e86c4f22c59fcc,1,test,1
+7869205072791433100,0,Eczema,Chàm (viêm da dạng chàm),G_83f1147cbf80bd8b,1,train,3
+7870109801780410868,0,Eczema,Chàm (viêm da dạng chàm),G_53a37b4545bad373,1,train,1
+7900792660563069769,0,Eczema,Chàm (viêm da dạng chàm),G_25629a62fc8f40fe,1,train,3
+7925347571055295954,0,Eczema,Chàm (viêm da dạng chàm),G_1bf2f13bdb1aa505,1,test,1
+8013060069192910653,0,Eczema,Chàm (viêm da dạng chàm),G_844b17b60fcfb521,1,train,3
+8020891537658973646,0,Eczema,Chàm (viêm da dạng chàm),G_805d53450d937d9d,1,val,2
+8055771025691084393,0,Eczema,Chàm (viêm da dạng chàm),G_6cd4d15913cfff8a,1,train,3
+8071773760767575918,0,Eczema,Chàm (viêm da dạng chàm),G_5fdc12bab4fb1a21,1,train,3
+8112259532965094414,0,Eczema,Chàm (viêm da dạng chàm),G_27c98f16cf40ca42,1,train,3
+8112286852583517886,0,Eczema,Chàm (viêm da dạng chàm),G_e41b88398f9c5588,1,test,3
+8136796216840452126,0,Eczema,Chàm (viêm da dạng chàm),G_66c643054cc13b9d,1,test,2
+8187090160093201589,0,Eczema,Chàm (viêm da dạng chàm),G_f6238cb5c8773232,1,train,1
+8190999976849585619,0,Eczema,Chàm (viêm da dạng chàm),G_53ae1ebbb396ace5,1,train,2
+8247963897596952626,0,Eczema,Chàm (viêm da dạng chàm),G_7805b9146a6de6dc,1,val,1
+8334000853689515147,0,Eczema,Chàm (viêm da dạng chàm),G_f4e3c7bb77bd54d2,1,train,1
+8366685296281366557,0,Eczema,Chàm (viêm da dạng chàm),G_7d2525b3db50365d,1,train,3
+8456900441247810900,0,Eczema,Chàm (viêm da dạng chàm),G_0ab28d6e6394e567,1,train,3
+8514226637880851044,0,Eczema,Chàm (viêm da dạng chàm),G_adda7efd3f0a0706,1,train,2
+8534614443021283236,0,Eczema,Chàm (viêm da dạng chàm),G_4dcb9434c47380c4,1,train,3
+8754620610807755838,0,Eczema,Chàm (viêm da dạng chàm),G_145f2fdeffc12d9f,1,train,2
+8787441570285298487,0,Eczema,Chàm (viêm da dạng chàm),G_9595314621b5cdd4,1,train,1
+8791668255122016953,0,Eczema,Chàm (viêm da dạng chàm),G_37493de66e515639,1,train,3
+8798291220737138704,0,Eczema,Chàm (viêm da dạng chàm),G_1730706fb804a517,1,train,1
+8875069263151459186,0,Eczema,Chàm (viêm da dạng chàm),G_a5fc3eadd4f89937,1,train,2
+890140358870966492,0,Eczema,Chàm (viêm da dạng chàm),G_d788833652f721dc,1,test,3
+8996459521035623846,0,Eczema,Chàm (viêm da dạng chàm),G_ab0e9d160f63c95c,1,train,1
+9047654489067734884,0,Eczema,Chàm (viêm da dạng chàm),G_4137aadef335b8fd,1,train,2
+9055010458301656007,0,Eczema,Chàm (viêm da dạng chàm),G_c102e14b4f87e894,1,test,3
+9079077127826406933,0,Eczema,Chàm (viêm da dạng chàm),G_3d3a9201b64c5d1f,1,train,3
+9102222709706846440,0,Eczema,Chàm (viêm da dạng chàm),G_be181a98c3f664fd,1,train,3
+9105346707210308949,0,Eczema,Chàm (viêm da dạng chàm),G_989bb4afc327dae7,1,train,3
+9138173567729098672,0,Eczema,Chàm (viêm da dạng chàm),G_9b05599ed9f2b549,1,val,3
+9154597863499272620,0,Eczema,Chàm (viêm da dạng chàm),G_4cafdc5e8d9b651c,1,train,1
+95226461955873076,0,Eczema,Chàm (viêm da dạng chàm),G_f60798ac0c42b554,1,train,3
+-1410373638686722492,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ae37bd62e6526a58,1,train,2
+-1493032202640361702,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a4288cecbc73ac09,1,train,2
+-1588895591454796436,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4190af97df564b1d,1,test,3
+-1607687872846341789,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4d541af5281319b7,1,train,3
+-1694584375310842794,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a7f230675b471720,1,train,1
+-1739997494738345481,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b0237aa96fafe9bb,1,train,3
+-1796547571098049782,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7c0dfef440e7305d,1,train,3
+-1817070931922324358,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_08498e890d5f36c7,1,train,3
+-1868963273118308625,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_3f6d9af68ae75094,1,test,3
+-2407319126554877039,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_e6d5f372283f8642,1,val,3
+-2420670963295906064,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_302ba8ee01671e44,1,train,3
+-2483075134447987416,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_498ddcd9351d69be,1,train,3
+-2518265086444700975,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_277b2ce4582fa021,1,train,3
+-2658422521628561596,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7e5d1afc50cb602a,1,train,1
+-2973283610329180012,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b0f35f498176194e,1,train,3
+-2986702064294375651,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_eeb4401163845a52,1,train,3
+-300631213208811602,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_34e48ce112f7dcc2,1,train,3
+-3055300247709269077,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_8b14db1857e87aca,1,train,1
+-3370840101593153446,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7daabb010d774d82,1,train,3
+-3406507834674402591,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_be6ac4af2a70123d,1,train,3
+-341609823223596940,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f0f3d9709117f9e3,1,train,2
+-3465753245040059951,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_bb32680ab315eb88,1,train,1
+-3470196516751945643,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2a63d79baeacf2c6,1,train,1
+-3497222674396757813,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b4dd64bb67ad8990,1,val,1
+-3510347072927539298,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f6cfab5b2841a621,1,test,1
+-3518002750956766874,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_438292d99d14f2ce,1,train,3
+-3850165856889995124,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_aa92568fdf5d2b81,1,val,3
+-4032921157387474723,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_60d5287ad97b833e,1,train,1
+-408534567856996060,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_03d85a4937d0c777,1,train,2
+-4100557201656682452,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c65b10b16c8dc12e,1,val,1
+-4154592516831070190,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_572b7f4022694215,1,train,3
+-4164508719774231343,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6a35027f4578d3c4,1,test,1
+-4188278916483896062,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4814bbb74afb56e7,1,train,3
+-4189733889619361017,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_eecffe2edf7ac66f,1,test,3
+-4398363943957964326,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b85743d3e7e0ac1c,1,train,1
+-4550841138827406706,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_96e4ed9a579dfa67,1,val,2
+-4591973246540178243,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7ed484c5b81ceb0a,1,train,1
+-4593099640126869162,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_80489e6666447127,1,val,1
+-4605740019003216427,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d5e7231e005db372,1,test,1
+-4822715071143691421,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f115da18acd8fc03,1,train,3
+-4919518317184666095,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6dfa3667536ae71f,1,train,1
+-5105487467995336377,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_41c0d67379f86bef,1,train,1
+-5200291437205241079,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_058bdd9cfb3399d8,1,train,2
+-5243473738898827493,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_204556b74c73ef4d,1,train,3
+-525038500404864710,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_e2f96d3d4e4adf81,1,train,3
+-5304767659040347157,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_54825d96aa9ad031,1,train,3
+-5325265352903772815,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_30ea1136e5d49a87,1,test,2
+-5445635512043056192,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c4fb0229641092f8,1,test,1
+-5460662618660534242,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4c529b85a865017b,1,train,2
+-5575666451048067614,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_41878d861520b2b2,1,train,3
+-568039900165942102,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_96a2ab1008733f82,1,test,2
+-5781127683500413767,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ab3bd4df2f950b02,1,train,2
+-5830755717212226400,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_491062e6ffce23e3,1,train,2
+-5863256407851897110,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_bd6f0cc7a511feca,1,val,3
+-5946926520681878281,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_46784cb4b9434ea3,1,train,2
+-6049050576669625141,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ea14a9249725b9ce,1,train,3
+-6056787988290380741,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_20c2e5633c49491c,1,train,3
+-6082920407891630286,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4c081071d9687bd8,1,train,2
+-6127435219858267063,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d031293097b56f1d,1,train,3
+-6198797786287096681,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_fb1515c8e2785b9e,1,train,2
+-6257535915413713019,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_66e262948b00c57c,1,train,2
+-6273240864397629725,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ef7b3c5737014c45,1,test,3
+-629575726793199555,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_39ce2068693ce71a,1,train,1
+-6305829044964986215,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9e30425f4276d2da,1,train,2
+-6410481587765281395,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d0cc9ad3d6a1cd75,1,train,3
+-6455453998349289750,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_fe2a344d824976ef,1,val,2
+-6553358159136250290,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_1cc3a80f66fd622c,1,train,2
+-6559249874452629338,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0e8606d8bf7d1166,1,train,1
+-6776518044035331491,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9557d1d3f34c002e,1,train,3
+-6781948527342850071,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f3daf003b495a28a,1,val,3
+-6922602187232971164,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9b14829f0d2f0a52,1,test,3
+-7125505155253781707,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_49e7d0f77849c0dd,1,test,1
+-7180509182743730295,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_06f6292190dfec7b,1,train,3
+-7205392373917251403,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_5679422d578f626c,1,test,2
+-7483012146271487970,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7e0c040b78541e60,1,val,2
+-7530226152929619791,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_218d052146e8702d,1,val,3
+-76040793421888546,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c64d752cb4f39854,1,train,2
+-7756770492493474322,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4b8f70893e98415d,1,train,3
+-7845597106701115003,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b87fdf619dbdc704,1,train,3
+-7917987345757592250,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_05ec4b3821c2dbff,1,train,3
+-7923370243531317753,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_1ce6b61313d95cff,1,train,1
+-7924409046716568581,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_88b45c40a9c2f432,1,test,3
+-8020632095997463578,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_af4a0fd694977516,1,train,1
+-814440459687669003,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b060ea817cde6c52,1,test,1
+-8194628008104852814,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f991afcd1db34380,1,train,3
+-8269030899358756664,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_e2e4a5813046259a,1,train,1
+-8276283188378106232,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_704a03bec294e6ba,1,train,1
+-8315035996808813985,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d4920ecfa9ecf963,1,train,1
+-8315449379611711348,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_adc273a0686b3074,1,train,1
+-8365407831387854327,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d81b1bde200f8946,1,train,1
+-8608474514653714844,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7d7101058b8009d6,1,train,1
+-8684573061351687299,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6a37b0ed74708e44,1,val,1
+-8689166439132544050,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7e03cb4cd50c1c11,1,train,1
+-8783738659160519249,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a3ae1ec2debdea5f,1,val,1
+-9110612497360538721,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_89587a403f9e8798,1,train,1
+1048536121876638454,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d9db09366c1c4b72,1,test,1
+1198052867941196873,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_3345812e5d654277,1,train,1
+1341491376911672914,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9559a3140e58bc3f,1,train,1
+1441821773832610687,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0cc1b01ac574264d,1,train,1
+1685418811189718839,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_e62ebdfacd193790,1,train,3
+1754947382186897051,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b2781290678c8805,2,train,2
+2018015928333128817,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_8db49e0d05c1c55d,1,test,2
+2044165162007909273,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_5283c6af30de89d7,1,train,1
+2070462134100885879,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7ead5fc68d1110fe,1,val,1
+2216178882041769983,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_22b93deb07124a1e,1,val,2
+2389185407987087869,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_87e8a5168f1f07d8,1,train,1
+255207051194135479,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4d856b9b72466d9d,1,test,1
+2562205029494622807,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_df749a210ca1c5ef,1,train,2
+2589196630648590712,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0597a9455dc97135,1,train,3
+259823481436186851,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2092e2eb4bf3a1e4,1,train,3
+2600794538114860588,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2e787afe72e36162,1,train,3
+2745593098746371055,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6cdc2cee68491138,1,train,3
+3199519649405390852,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2089deccc1b65b49,1,train,1
+3218551981175044835,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_1b50f2e90203484d,1,train,3
+3231607339220548802,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_305e499b32c285aa,1,val,3
+3252058551465992298,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7dfeafd47c34f51c,1,test,2
+331186914439624061,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0a9e57d5baa9c5de,1,test,3
+3357713686961187228,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0e6bcb240b10daae,1,train,2
+3497614718050260012,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f9fb5538db701f3f,1,val,3
+3607019658166796007,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9d4e22cbc3588402,1,val,1
+3641213346667363410,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_acbd1cfcb0562223,1,train,3
+4004541750295193825,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2052f8a92b8688bc,1,train,1
+4038745673767474517,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2c7586da6cd24d47,1,train,3
+4039144254966056317,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6be4cbec7467c2f0,1,train,3
+4051122012442956545,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_cd08eb2e85736f4d,1,train,1
+4175580618962077841,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6612703f8070e56d,1,train,2
+4248417801020332046,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c70f76a758e901f2,1,train,3
+4391464833076536522,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_02011cc2ad480707,1,train,3
+439315396122354873,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0cd6ecebffdf409d,1,test,1
+4412120753157054552,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_39187ff6be309d12,1,train,2
+449092057976075201,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_61396a74e94d331b,1,train,3
+4534906370701159713,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_18a6229eb83a8025,1,train,2
+4554657738494117603,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f2daedc59425be11,1,train,1
+4686243363648561486,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9cbfa2c109ed0ae7,1,train,3
+4716235809681478742,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f08113e244290354,1,val,1
+4798324026738244907,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c7ed141ba1c15795,1,train,3
+4806337231044817573,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6a5ac1e244635cd8,1,test,3
+5080913691893238848,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_807dd901124b8cd7,1,train,1
+5215259434558337668,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9716e40f5e7f6146,1,val,1
+5264767833936062007,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_9785544140df4b15,1,train,3
+5351869948896770913,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_51494a552112309a,1,train,3
+5384538852737447685,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_aa47dbb34370f4c0,1,train,1
+5454196086035642390,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7a5ac642add105f7,1,train,1
+5642859456660035960,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4035071633985e6d,1,val,2
+5707702831794028166,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_98effe39958549b4,1,train,3
+5728037008848615215,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_769215b3ba391010,1,train,3
+5735444028555177462,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c78f8e6b3e87b9e4,1,train,1
+5771554111956214513,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7e9e049fec8af6ff,1,val,2
+5785188303126045505,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d4420a61d8f2b8be,1,val,2
+5805001344477274084,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_4620cec03404d652,1,test,1
+5820803283917487342,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_debb85b51d6fcf87,1,val,2
+5858206430170814591,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_8038cc2b33b02287,1,val,1
+5936306006842485858,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c71fb61c6a1fcd5e,1,train,1
+6084095101367283122,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6dca9bdc9e7dcbf3,1,train,3
+6167025301817280836,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a1dc1e448f52b107,1,train,3
+6317542003263234425,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_2b9f6ce2ee9bc544,1,train,3
+6359749307485054893,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_82163f43bf98316d,1,train,3
+64157285952102857,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_8d13df5f1f85e8c6,1,val,1
+6527306476712657067,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_49d5681c1e11828a,1,train,3
+6633711489961225934,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_da78105ce4e6c0d6,1,val,3
+6691291750986670327,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_1f11b8201c87da58,1,test,1
+6734639099366451232,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b7dd83dab4779a80,1,test,3
+6771200592302422228,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ee7f056ed801924a,1,train,3
+6843477794768982741,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6fe81692401ac607,1,train,1
+6978248153770900528,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_acb824591cf1fefe,1,train,3
+7014664504365367579,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_d120d29493e383e9,1,train,3
+7074318464321054653,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_081c8f87555ab44f,1,train,3
+7144842245725764407,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a64b79b8a2925d40,1,test,1
+7151606719275056352,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_b2781290678c8805,2,train,2
+7270064598218888944,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_987735ecd8fe62d1,1,train,3
+7327821802957291496,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_bdf181d885afe90b,1,val,2
+7384973860134767193,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6c8b2f5cf021ce05,1,train,3
+7481898033541383122,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c6cea67c4ea3f739,1,train,2
+773968196160186704,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_31fbf5f03f26d5e0,1,train,3
+7800807228755624583,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_c52b48c283676a3d,1,train,2
+7847072988135265602,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_aa57d522b6ad5fae,1,val,1
+792402490224297680,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_7a380806c6d14d27,1,train,2
+7999126737267845902,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_beb899777f1e3bc5,1,train,3
+8042347174036829785,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_8b106fcd143af8e0,1,train,1
+8050515733006147917,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_48960c28d9fd4e55,1,train,3
+8121408208937913379,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_605bdb076fac3f1d,1,test,1
+8262555795614056137,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_584f0c20a80600ce,1,train,3
+8343712868619008858,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_a9797922717f938b,1,train,1
+8575692896316024881,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_e54ccf253bd5beb6,1,train,1
+8587124681363373372,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_78a6a2bf251acc9b,1,train,3
+8598795546166978679,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_108115df8584ae0b,1,train,3
+860087713358687580,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_df24f092c0a7b16d,1,test,1
+8718834558652706682,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_148bd8d0f7c25413,1,train,2
+8733225459543319051,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_ab0cd49b13d9196b,1,train,3
+8858580079281238438,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_0f0d6858138cb6a7,1,train,3
+9019249080445767492,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_5f7ce55f91168957,1,train,1
+9076222836036925266,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_aff7411b3405bd80,1,val,3
+9096517364733500072,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_f72714e9a76de00e,1,train,3
+9100469124329671676,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_40cede771621f5f4,1,test,3
+9149077865725302027,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_6b37beb118fcc5fd,1,train,2
+973759811984683137,1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,G_019dd80ad0b01afb,1,train,2
+-1010778459521153386,2,Urticaria,Mề đay,G_7dc0ebec517c0dcb,1,val,3
+-1033431645373513522,2,Urticaria,Mề đay,G_eaed061f9a908ef5,1,train,3
+-106405243948208551,2,Urticaria,Mề đay,G_e32bceb9940bb3a8,1,val,1
+-1073544188024944010,2,Urticaria,Mề đay,G_14f7afa6b1d17747,1,train,3
+-113091225230567987,2,Urticaria,Mề đay,G_a76fcbfdd59c3127,1,val,3
+-1137468110374856758,2,Urticaria,Mề đay,G_637e51bc0faa2105,1,val,3
+-1306019410543480387,2,Urticaria,Mề đay,G_0c1c05b37c389832,1,val,3
+-1421944459823256225,2,Urticaria,Mề đay,G_013b7d8f6ab72f07,1,train,3
+-1571750243156555704,2,Urticaria,Mề đay,G_536b408b7ad32c65,1,train,3
+-158089738637053724,2,Urticaria,Mề đay,G_56b787a969b939f3,1,test,1
+-1659559780402537085,2,Urticaria,Mề đay,G_42e6f8eb316286fb,1,val,2
+-1704513895095613963,2,Urticaria,Mề đay,G_68ffd1c6a58bf62d,1,train,2
+-1800345024210002541,2,Urticaria,Mề đay,G_8dc1d01c172c689c,1,train,3
+-1822381819381484229,2,Urticaria,Mề đay,G_ed3ee54e24d1d369,1,val,3
+-1829868329489860851,2,Urticaria,Mề đay,G_3f7914f9dd316797,1,train,2
+-2385705523120200972,2,Urticaria,Mề đay,G_68340eb8489d4600,1,train,1
+-250190786256081369,2,Urticaria,Mề đay,G_91173b8d11030a1c,1,test,1
+-2642926552616181779,2,Urticaria,Mề đay,G_a7f12f5a5cfc4a73,1,val,2
+-2656805594284374401,2,Urticaria,Mề đay,G_b05dc1e7553980f0,1,test,2
+-2890762660858104434,2,Urticaria,Mề đay,G_4f58f6e44f6315eb,1,train,1
+-3051547885479914363,2,Urticaria,Mề đay,G_12c223aae6ffbe89,1,test,3
+-3118973063707390397,2,Urticaria,Mề đay,G_e825693582fdd303,1,train,1
+-3239313504364543357,2,Urticaria,Mề đay,G_b8319fde9709478b,1,train,1
+-3258250159325961476,2,Urticaria,Mề đay,G_5cf5bf440aabb86c,1,val,1
+-3321349411813362669,2,Urticaria,Mề đay,G_521b36b3978ec7aa,1,test,3
+-3534410300979499809,2,Urticaria,Mề đay,G_b46dd10f0e6533db,1,train,1
+-3643248167198411501,2,Urticaria,Mề đay,G_994f6708b3cefe51,1,train,1
+-3674218230973070176,2,Urticaria,Mề đay,G_f94c035742521de3,1,test,1
+-3768594983498155183,2,Urticaria,Mề đay,G_b13b22ee0201da52,1,train,1
+-3837747594652952379,2,Urticaria,Mề đay,G_15c2da6d165136a2,1,train,3
+-388844336225584167,2,Urticaria,Mề đay,G_5279ceeb39cf32a7,1,train,1
+-3942913842354643977,2,Urticaria,Mề đay,G_2673f1da1f4fe53c,1,train,1
+-3944824307861448611,2,Urticaria,Mề đay,G_760d8ff2192d146a,1,train,1
+-4397657140639303942,2,Urticaria,Mề đay,G_3965c30cfd471d9d,1,train,1
+-4429934516902201548,2,Urticaria,Mề đay,G_3eab7867062b7f25,1,train,3
+-4468098387570779759,2,Urticaria,Mề đay,G_6c836563ef8d0666,1,train,3
+-4584149572849454443,2,Urticaria,Mề đay,G_e77f95bdb83d2095,1,train,3
+-4653273001465848884,2,Urticaria,Mề đay,G_06ebbd2691e39d36,1,test,1
+-4657487335623445205,2,Urticaria,Mề đay,G_0bb6050a88174133,1,train,2
+-4816190827733499113,2,Urticaria,Mề đay,G_14652bff81b2189f,1,train,3
+-4871463085330828436,2,Urticaria,Mề đay,G_ec74d7d45f553946,1,train,2
+-4887066468139767481,2,Urticaria,Mề đay,G_eb89f97bb47cf2ce,1,train,2
+-4961646511590674396,2,Urticaria,Mề đay,G_d740100259ea1ab4,1,train,1
+-5242570046602320422,2,Urticaria,Mề đay,G_d0db7f749d8cd208,1,train,1
+-5299077080131243213,2,Urticaria,Mề đay,G_92ec66efbe506f2f,1,train,2
+-5424985950276316702,2,Urticaria,Mề đay,G_1b750a6105ef0626,1,train,1
+-5715460582418154283,2,Urticaria,Mề đay,G_d42fcdf7efceacd7,1,train,2
+-577186913707847828,2,Urticaria,Mề đay,G_d9104280e98f320d,1,train,3
+-6039007012923042838,2,Urticaria,Mề đay,G_602124e0ca824442,1,train,1
+-6124289799481016838,2,Urticaria,Mề đay,G_b96db60eb5427baa,1,train,1
+-6137211126845994304,2,Urticaria,Mề đay,G_e02610b115284ce3,1,train,3
+-6400490417142716553,2,Urticaria,Mề đay,G_d0e08397b902dc4c,1,train,3
+-642335626870393371,2,Urticaria,Mề đay,G_522a18f2b5972c97,1,train,1
+-6459276838597422812,2,Urticaria,Mề đay,G_4030d0c0a26a3f86,1,train,1
+-6526281835697499699,2,Urticaria,Mề đay,G_0946ea8b73c2bc2f,1,train,2
+-6531452483260873921,2,Urticaria,Mề đay,G_b25d3183c3c67c34,1,test,3
+-6652789889835035446,2,Urticaria,Mề đay,G_fd76b170d3ccd0fd,1,train,1
+-6730981266210803106,2,Urticaria,Mề đay,G_75f98f7be8d62db3,1,train,3
+-6772369724422737325,2,Urticaria,Mề đay,G_bcf5a8e3a85e778b,1,train,3
+-6903160896710638127,2,Urticaria,Mề đay,G_a3e9a0e6561588c0,1,train,1
+-6925740096732923435,2,Urticaria,Mề đay,G_0637749dd6dcdccd,1,test,1
+-6942748361873582458,2,Urticaria,Mề đay,G_d8533f69c6159496,1,train,3
+-7219610623311492560,2,Urticaria,Mề đay,G_0ebf0f33ddab127a,1,train,1
+-7288421822363632426,2,Urticaria,Mề đay,G_edbf31ba4f27754a,1,test,1
+-7319242888548872358,2,Urticaria,Mề đay,G_44903eb498acdde4,1,test,1
+-7350637768936675559,2,Urticaria,Mề đay,G_4cd4e0d26700ce15,1,train,1
+-7437139104859070712,2,Urticaria,Mề đay,G_d209ecb2cb79bb86,1,val,3
+-7467584756618193499,2,Urticaria,Mề đay,G_90145a8a22bf032d,1,train,2
+-756566842397164193,2,Urticaria,Mề đay,G_afde79486c8fa150,1,train,3
+-7620086397502131808,2,Urticaria,Mề đay,G_7e6978a930477f27,1,train,3
+-7674316249478774899,2,Urticaria,Mề đay,G_959c5f9beb5985f6,1,train,3
+-7737567151272326815,2,Urticaria,Mề đay,G_7cea1bca3f8a0488,1,val,3
+-7820093713010813140,2,Urticaria,Mề đay,G_d9ebb5742097833e,1,train,3
+-7901710788064822966,2,Urticaria,Mề đay,G_39baf68227747f9b,1,train,3
+-7916510062591897740,2,Urticaria,Mề đay,G_b57624ded375eedf,1,train,3
+-7986800110786369520,2,Urticaria,Mề đay,G_c9540d304730a3cb,1,val,2
+-8031615515835519136,2,Urticaria,Mề đay,G_5cea29014503c340,1,train,3
+-8348443567838198812,2,Urticaria,Mề đay,G_e2b11fae683e22b2,1,val,1
+-8352699628138095738,2,Urticaria,Mề đay,G_2a6769db41174217,1,train,1
+-8365497190205778707,2,Urticaria,Mề đay,G_54977a5d94297c2f,1,train,3
+-8425235422393845300,2,Urticaria,Mề đay,G_7f2c97a2484e23a9,1,train,1
+-8463684650171812258,2,Urticaria,Mề đay,G_0fade0f4fb520ecd,1,train,1
+-8542064986886426986,2,Urticaria,Mề đay,G_7c19eef79562525c,1,train,3
+-8754678083190860015,2,Urticaria,Mề đay,G_259f16f9a84164e8,1,train,1
+-8774665929092136158,2,Urticaria,Mề đay,G_ea43fa18ef39713e,1,test,3
+-880000110212563398,2,Urticaria,Mề đay,G_fd0a5ead742e4c9b,1,train,1
+-8859705766164733610,2,Urticaria,Mề đay,G_af2e6e9a384c17f9,1,train,1
+-9042316179618444656,2,Urticaria,Mề đay,G_1cf145e49d9aed0c,1,test,1
+-925898841639418610,2,Urticaria,Mề đay,G_9c305dde23392b83,1,val,1
+1030761287403909506,2,Urticaria,Mề đay,G_b460df12fa0be0ea,1,train,1
+1227727128416036901,2,Urticaria,Mề đay,G_85dcaea7680e628a,1,test,2
+1245550758851447503,2,Urticaria,Mề đay,G_665718fceeb3dddd,1,val,1
+1488233836128692676,2,Urticaria,Mề đay,G_228cb3379ea44e2f,1,test,2
+1564407101673129162,2,Urticaria,Mề đay,G_2dae34984171ebcd,1,val,3
+1610643527361135382,2,Urticaria,Mề đay,G_6460aea248a66c93,1,val,3
+1723536832227989598,2,Urticaria,Mề đay,G_0b74c30e1d0c2ae1,1,train,3
+1839729635120428582,2,Urticaria,Mề đay,G_b4e779bb4098f3b3,1,test,3
+1842495742184033095,2,Urticaria,Mề đay,G_117204185ca11f35,1,train,3
+1974095114082906999,2,Urticaria,Mề đay,G_56ffa3072e0a8fa1,1,test,1
+2375536941875381470,2,Urticaria,Mề đay,G_bb24435dcfc7b7b8,1,train,2
+2503643940677084425,2,Urticaria,Mề đay,G_55709fbf03d752a3,1,train,1
+2541250792157192084,2,Urticaria,Mề đay,G_98297526d05df361,1,train,2
+2620539304203771862,2,Urticaria,Mề đay,G_d23fb08c94743cbb,1,train,3
+2716171289212218373,2,Urticaria,Mề đay,G_d4584fc8252ce0dd,1,train,1
+2846873546429109410,2,Urticaria,Mề đay,G_7c67b79ee5e08f72,1,test,3
+2867448971802595955,2,Urticaria,Mề đay,G_2d194fd9e6c95659,1,train,3
+2880881602259274107,2,Urticaria,Mề đay,G_5a601aa96b8fcfd7,1,val,2
+3001411411444146079,2,Urticaria,Mề đay,G_84b805df1d79c84f,1,train,3
+3151112408724701096,2,Urticaria,Mề đay,G_d39cd82e8b307bcd,1,train,2
+3590305844647871469,2,Urticaria,Mề đay,G_95abae73bb7f25be,1,train,2
+4012985561197329565,2,Urticaria,Mề đay,G_d72403eb09fa25b2,1,train,1
+4118932128019747471,2,Urticaria,Mề đay,G_5a0ef835f0e12c52,1,train,3
+4165954497042374324,2,Urticaria,Mề đay,G_2d2a076906e1d8d4,1,train,1
+4612431587689030172,2,Urticaria,Mề đay,G_7cecc4cbfeafe1b7,1,train,3
+4651590682609025062,2,Urticaria,Mề đay,G_ca67565ab872ee6f,1,train,3
+4794328114598571570,2,Urticaria,Mề đay,G_ccc154913005758e,1,train,1
+4981924219389224217,2,Urticaria,Mề đay,G_af2c7d8bfffb06d7,1,train,3
+4991921582782573817,2,Urticaria,Mề đay,G_be312a23c68f48eb,1,train,3
+5066409661869400714,2,Urticaria,Mề đay,G_5825e2ce77c668e7,1,train,1
+5189441889815675325,2,Urticaria,Mề đay,G_f800546118e110d3,1,train,3
+5218632832342500942,2,Urticaria,Mề đay,G_470619ab806d9356,1,train,1
+5345993529885915940,2,Urticaria,Mề đay,G_daa09749680cfacf,1,val,3
+5354931340488676696,2,Urticaria,Mề đay,G_ea260207d0524c2c,1,train,3
+5648339779171772545,2,Urticaria,Mề đay,G_5e35c1fc486ee699,1,train,1
+588393340755112696,2,Urticaria,Mề đay,G_cdd9510670e78ff0,1,val,3
+6030765418480115554,2,Urticaria,Mề đay,G_0b7b18836d2b58e7,1,train,3
+6156934481809923013,2,Urticaria,Mề đay,G_831b5603bb2c17e6,1,train,3
+6273424339491271562,2,Urticaria,Mề đay,G_d0725b6ee22cb8d1,1,train,1
+6298538191125085562,2,Urticaria,Mề đay,G_e4a335a10508aa7a,1,train,3
+631699876057844098,2,Urticaria,Mề đay,G_63b43f3f2a496f75,1,train,3
+6343427293036790927,2,Urticaria,Mề đay,G_bb1d16c81e8234a3,1,train,3
+6451418131792518135,2,Urticaria,Mề đay,G_ec0f5efe518f3afc,1,train,1
+646799631681990962,2,Urticaria,Mề đay,G_7c4956661ac4969e,1,train,1
+6481223007263450857,2,Urticaria,Mề đay,G_0e13db97435a8837,1,test,3
+6493256759329924144,2,Urticaria,Mề đay,G_a3be6d2f030d5f3d,1,test,3
+6555279555410165741,2,Urticaria,Mề đay,G_3f57bf080f1b9ed7,1,train,1
+6776202438792784405,2,Urticaria,Mề đay,G_f5cc1084220f8616,1,train,1
+6816620786682316431,2,Urticaria,Mề đay,G_efda0a6636a8212a,1,train,2
+6965753912815389556,2,Urticaria,Mề đay,G_c0371e57eadc5c1d,1,train,1
+717659986857882997,2,Urticaria,Mề đay,G_2c66826e44c7e055,1,train,1
+728144289746942042,2,Urticaria,Mề đay,G_8a47bda144e50057,1,train,3
+7518955504313873550,2,Urticaria,Mề đay,G_defff9b21e6caa57,1,train,3
+7555277930479653112,2,Urticaria,Mề đay,G_d4ca4dc3ca4cc04e,1,test,3
+756421321362558186,2,Urticaria,Mề đay,G_c57749a026898e47,1,val,3
+7589120847935248859,2,Urticaria,Mề đay,G_cb11e4e06fd48fcd,1,train,3
+7595933408474634117,2,Urticaria,Mề đay,G_2f637fc0df2ee47c,1,train,2
+7607709554728180063,2,Urticaria,Mề đay,G_666cdf3de263b3d0,1,train,1
+7750207607646915521,2,Urticaria,Mề đay,G_3f6e7e8ed4c62990,1,val,1
+782573551119636259,2,Urticaria,Mề đay,G_2193c04ee2a15fae,1,val,2
+7830533563007888663,2,Urticaria,Mề đay,G_22b318695301ba15,1,test,1
+8044743903952045480,2,Urticaria,Mề đay,G_c98f95c253bd3f9b,1,val,1
+8097381513172060282,2,Urticaria,Mề đay,G_b9a502488aea3871,1,train,2
+8118177910878609557,2,Urticaria,Mề đay,G_980412a1fb43f461,1,train,3
+8128164574096404797,2,Urticaria,Mề đay,G_9fce5c530e49c322,1,test,1
+8182366432507098658,2,Urticaria,Mề đay,G_c24f623ba0283f8d,1,train,1
+8253745265933414534,2,Urticaria,Mề đay,G_3808dd8c8e106b32,1,train,1
+8435198682736521622,2,Urticaria,Mề đay,G_32a8e7b9f851c468,1,test,1
+8456203113692217308,2,Urticaria,Mề đay,G_c0d89877f361e12d,1,train,1
+8516158991056796103,2,Urticaria,Mề đay,G_9a99f901ba474ef4,1,train,3
+8876878857268678510,2,Urticaria,Mề đay,G_a27f04ea2f2cf21b,1,val,3
+8921106678900434918,2,Urticaria,Mề đay,G_3d3e90137b3a7b89,1,train,1
+8941724831820638000,2,Urticaria,Mề đay,G_eb5544029bbbb8f3,1,train,3
+9097048639908724577,2,Urticaria,Mề đay,G_6918a8426501a9b7,1,test,1
+920332081415138775,2,Urticaria,Mề đay,G_9279b6eacf08ab80,1,train,3
+9204674379234810196,2,Urticaria,Mề đay,G_c80ca4e8b05ab7a3,1,train,2
+-1670149440760145403,3,Insect Bite,Vết côn trùng cắn,G_8eaf2132ca5afbe1,1,train,1
+-1710683267759148357,3,Insect Bite,Vết côn trùng cắn,G_0eeaa99d3e995ac4,1,train,3
+-1884386860080869294,3,Insect Bite,Vết côn trùng cắn,G_17b35585db4dbcb5,1,train,3
+-1887628934277529772,3,Insect Bite,Vết côn trùng cắn,G_8a1df672fe50a424,1,val,2
+-2025662459941441200,3,Insect Bite,Vết côn trùng cắn,G_73b290ef8956c16b,1,train,1
+-2211519867318737234,3,Insect Bite,Vết côn trùng cắn,G_35d8aa0d681eed9c,1,test,1
+-2509245394548202787,3,Insect Bite,Vết côn trùng cắn,G_ba064a33ee130eed,1,test,2
+-256867940930929101,3,Insect Bite,Vết côn trùng cắn,G_6f92d22075cd04a2,1,train,2
+-2618609792423828453,3,Insect Bite,Vết côn trùng cắn,G_ad9f7d865f0fcf76,1,test,1
+-2657626181402158336,3,Insect Bite,Vết côn trùng cắn,G_3a35cf696ce2632f,1,train,3
+-2720118774298247704,3,Insect Bite,Vết côn trùng cắn,G_4ccf8e8af929de80,1,val,3
+-272905418481506543,3,Insect Bite,Vết côn trùng cắn,G_8067a1004fa7a7c0,1,train,3
+-2904615533087099857,3,Insect Bite,Vết côn trùng cắn,G_f310205b3c37204e,1,train,2
+-3046320679056492616,3,Insect Bite,Vết côn trùng cắn,G_efc68d02120eace7,1,train,1
+-3245549247380873817,3,Insect Bite,Vết côn trùng cắn,G_0f1a7079122c5569,1,val,1
+-330431243853295711,3,Insect Bite,Vết côn trùng cắn,G_4708a90cdf479752,1,test,1
+-3500001267820823094,3,Insect Bite,Vết côn trùng cắn,G_1ca341e8f3ab1815,1,train,3
+-3753220776898215006,3,Insect Bite,Vết côn trùng cắn,G_57f40eb73f6dbff1,1,train,1
+-4128905480190900218,3,Insect Bite,Vết côn trùng cắn,G_e15c46d312d2231e,1,val,3
+-4300304561697884144,3,Insect Bite,Vết côn trùng cắn,G_b453c15c5ce263f3,1,train,1
+-4328173409605473786,3,Insect Bite,Vết côn trùng cắn,G_012f874706b8911a,1,train,3
+-4407187478309840300,3,Insect Bite,Vết côn trùng cắn,G_ea9b524310972aed,1,val,3
+-4495950094362909099,3,Insect Bite,Vết côn trùng cắn,G_5f5c62f0b00f5021,1,train,1
+-4516438110978983282,3,Insect Bite,Vết côn trùng cắn,G_a07684887f93b5a4,1,train,3
+-4606009793409551660,3,Insect Bite,Vết côn trùng cắn,G_5c78971dd5d4eb5e,1,train,1
+-4868118836887989734,3,Insect Bite,Vết côn trùng cắn,G_e53501940055b32e,1,train,1
+-4909724744026259530,3,Insect Bite,Vết côn trùng cắn,G_1be30ca6314596df,1,train,1
+-5048121674534375075,3,Insect Bite,Vết côn trùng cắn,G_7b60b17e94c7a877,1,train,2
+-5359781567713640480,3,Insect Bite,Vết côn trùng cắn,G_58f4901c2a9e3a33,1,train,3
+-5360965906725457268,3,Insect Bite,Vết côn trùng cắn,G_814c94852cc5f3c7,1,train,1
+-5390603471066349972,3,Insect Bite,Vết côn trùng cắn,G_4fc2ae57d94d74a0,1,val,1
+-545007797193276281,3,Insect Bite,Vết côn trùng cắn,G_1ad0c49a3bbe8b64,1,train,2
+-551419803257921553,3,Insect Bite,Vết côn trùng cắn,G_fe6a897804055604,1,train,3
+-587345641307337751,3,Insect Bite,Vết côn trùng cắn,G_17b867da20a0eabf,1,train,3
+-5983320270847607538,3,Insect Bite,Vết côn trùng cắn,G_13a180a84d7079f2,1,test,3
+-6159081838523346961,3,Insect Bite,Vết côn trùng cắn,G_d01a04a1316192de,1,test,3
+-6229433733209363727,3,Insect Bite,Vết côn trùng cắn,G_c769c335c7cdb221,1,test,3
+-6326437324680204662,3,Insect Bite,Vết côn trùng cắn,G_e27b4a89b8c4bc9d,1,test,1
+-6387360070446965833,3,Insect Bite,Vết côn trùng cắn,G_bb0d5a6d145ae400,1,train,2
+-6459652285388489464,3,Insect Bite,Vết côn trùng cắn,G_62a871813545644d,1,val,1
+-6503880945510334355,3,Insect Bite,Vết côn trùng cắn,G_8eb0b28f46c4ae85,1,test,3
+-6755421689279015845,3,Insect Bite,Vết côn trùng cắn,G_7335cd1845e67db6,1,train,1
+-7030360920237166714,3,Insect Bite,Vết côn trùng cắn,G_b4795faa013fe1e5,1,train,3
+-7140014089720664807,3,Insect Bite,Vết côn trùng cắn,G_aa9d7544621b0c7c,1,train,3
+-7386226650508301592,3,Insect Bite,Vết côn trùng cắn,G_4461b381542df719,1,test,3
+-7711091231416269014,3,Insect Bite,Vết côn trùng cắn,G_9e78ba73842ccbb7,1,train,3
+-7783236188066925348,3,Insect Bite,Vết côn trùng cắn,G_99b9b2c3c7b3990a,1,val,3
+-7950694854411322847,3,Insect Bite,Vết côn trùng cắn,G_b1b776fe42f5df50,1,val,3
+-7999991740162950505,3,Insect Bite,Vết côn trùng cắn,G_f0a347328e623a86,1,train,3
+-8132780960290832555,3,Insect Bite,Vết côn trùng cắn,G_6d2dfc7c500e5e6f,1,val,3
+-8280175619096064565,3,Insect Bite,Vết côn trùng cắn,G_1ff68129da9d0820,1,val,2
+-8465535858543016384,3,Insect Bite,Vết côn trùng cắn,G_3e1445454af9a037,1,train,2
+-8510849479250796759,3,Insect Bite,Vết côn trùng cắn,G_b0573c14d4c9e96e,1,train,1
+-8546076378699329380,3,Insect Bite,Vết côn trùng cắn,G_e17ad5ff83995b86,1,train,3
+-871000789648050928,3,Insect Bite,Vết côn trùng cắn,G_4eda2211cfc90ab2,1,train,3
+-8714014630063136316,3,Insect Bite,Vết côn trùng cắn,G_49132b4af5ab381d,1,val,1
+-8717214960305771044,3,Insect Bite,Vết côn trùng cắn,G_f9c41c9bd1384f11,1,train,1
+-8883951360558368,3,Insect Bite,Vết côn trùng cắn,G_1695de00396b3388,1,train,3
+-9102773862540131603,3,Insect Bite,Vết côn trùng cắn,G_3c125c5d99ca6e9e,1,train,3
+1416449344928685496,3,Insect Bite,Vết côn trùng cắn,G_0dce72da90b20ee5,1,train,3
+1535583074068286237,3,Insect Bite,Vết côn trùng cắn,G_551a4cdd494d9822,1,train,2
+1678750316975404495,3,Insect Bite,Vết côn trùng cắn,G_bf42994bf282cfc5,1,train,1
+1830225513860057803,3,Insect Bite,Vết côn trùng cắn,G_77639252ef4c2e0c,1,val,3
+1861601422455627001,3,Insect Bite,Vết côn trùng cắn,G_ba08cddfd4efd3d0,1,test,3
+2126547957554095009,3,Insect Bite,Vết côn trùng cắn,G_7617e8322afde2d3,1,train,3
+2287632164695684571,3,Insect Bite,Vết côn trùng cắn,G_89f1d3efbdcdc157,1,train,1
+2424509211956256280,3,Insect Bite,Vết côn trùng cắn,G_7ec8908e2799ed11,1,train,3
+2428548180168795187,3,Insect Bite,Vết côn trùng cắn,G_7fbe725cc3865eb1,1,train,3
+2461094725105627345,3,Insect Bite,Vết côn trùng cắn,G_3c5ff93a6d81792a,1,test,3
+2883286840345609843,3,Insect Bite,Vết côn trùng cắn,G_72b4636f817cc14d,1,val,1
+2895479525999005295,3,Insect Bite,Vết côn trùng cắn,G_85c88d39d812b01d,1,train,3
+3016253320150390940,3,Insect Bite,Vết côn trùng cắn,G_9e58429c032eb609,1,train,3
+318786810547984125,3,Insect Bite,Vết côn trùng cắn,G_4a2bf94c83eb46df,1,val,3
+325284060839949957,3,Insect Bite,Vết côn trùng cắn,G_91ca088ed5a5158c,1,val,1
+328125063193095041,3,Insect Bite,Vết côn trùng cắn,G_b44bd8aaecdc361e,1,train,1
+3283837635863557272,3,Insect Bite,Vết côn trùng cắn,G_fd6eca06ad0b7269,1,train,3
+3308130032040975373,3,Insect Bite,Vết côn trùng cắn,G_68041d02838d03e4,1,val,3
+3561189005885836895,3,Insect Bite,Vết côn trùng cắn,G_0e7e0597d1426ab0,1,train,3
+3639675940546127537,3,Insect Bite,Vết côn trùng cắn,G_726438292540b497,1,train,1
+3917475636034669186,3,Insect Bite,Vết côn trùng cắn,G_21c2665aeb56ddd1,1,train,2
+3958546394143844695,3,Insect Bite,Vết côn trùng cắn,G_9aed335cab3a19e8,1,test,1
+4028764341103818445,3,Insect Bite,Vết côn trùng cắn,G_2dd478510293f8ce,1,train,3
+4037098025477611591,3,Insect Bite,Vết côn trùng cắn,G_4133292f1125c62d,1,train,3
+4088138694893149839,3,Insect Bite,Vết côn trùng cắn,G_6545a2f224c7a415,1,val,3
+4213732975123525246,3,Insect Bite,Vết côn trùng cắn,G_b74abd6c79a42d4f,1,test,3
+4336240504062881387,3,Insect Bite,Vết côn trùng cắn,G_fd5c65c11314008d,1,train,2
+4492254294040064312,3,Insect Bite,Vết côn trùng cắn,G_97962dd2e07af852,1,train,3
+4653155751315316339,3,Insect Bite,Vết côn trùng cắn,G_f62aa040aa55367c,1,train,2
+4735748123656222129,3,Insect Bite,Vết côn trùng cắn,G_7da774f55165bb37,1,train,1
+5206521494202002386,3,Insect Bite,Vết côn trùng cắn,G_cbb37c5f7bb83349,1,train,3
+522956498629505863,3,Insect Bite,Vết côn trùng cắn,G_ebfa10d4fc93dfd3,1,train,3
+5237006312106515211,3,Insect Bite,Vết côn trùng cắn,G_4ece881dfc7447e3,1,train,1
+5461287862238262172,3,Insect Bite,Vết côn trùng cắn,G_7cc63543720708ff,1,train,1
+5474620883199342408,3,Insect Bite,Vết côn trùng cắn,G_24807826f54953b8,1,train,1
+5607945186462654031,3,Insect Bite,Vết côn trùng cắn,G_a3e4fd72c9beea68,1,test,3
+6060334855367071181,3,Insect Bite,Vết côn trùng cắn,G_bb6bde3997dae8ae,1,train,1
+6809243309702270506,3,Insect Bite,Vết côn trùng cắn,G_48bd5a8ab5a4532b,1,train,3
+6927146015218290329,3,Insect Bite,Vết côn trùng cắn,G_161cb6b992610aef,1,train,3
+7184684249603937869,3,Insect Bite,Vết côn trùng cắn,G_6acccccf7d7c0334,1,train,2
+7373184619514624022,3,Insect Bite,Vết côn trùng cắn,G_860b5a3f3d13d16b,1,train,1
+7484797722894632539,3,Insect Bite,Vết côn trùng cắn,G_7428393b98027a11,1,train,3
+748522260497776973,3,Insect Bite,Vết côn trùng cắn,G_bacf07c2ae5ea666,1,train,3
+7874847100107059813,3,Insect Bite,Vết côn trùng cắn,G_4bd3ae002e9a2bab,1,test,1
+790360683690520778,3,Insect Bite,Vết côn trùng cắn,G_81b71d3b7363d01f,1,train,3
+7917317025299323107,3,Insect Bite,Vết côn trùng cắn,G_ae5414ffaa19c3eb,1,train,3
+7936037408192475668,3,Insect Bite,Vết côn trùng cắn,G_3841e7191d36ae23,1,train,3
+7960457666530672586,3,Insect Bite,Vết côn trùng cắn,G_aa40abe3f1992d56,1,train,1
+7992099817197638769,3,Insect Bite,Vết côn trùng cắn,G_c42eaeda63f4bfac,1,test,3
+8067582930685511187,3,Insect Bite,Vết côn trùng cắn,G_b30197c93bf33726,1,train,1
+811261008550941466,3,Insect Bite,Vết côn trùng cắn,G_dc572d600c2955a6,1,train,3
+833670545830613221,3,Insect Bite,Vết côn trùng cắn,G_e4a5a23d4e12bafe,1,train,3
+8404646019363232153,3,Insect Bite,Vết côn trùng cắn,G_713767e8e54bed3f,1,train,3
+8425990143655823139,3,Insect Bite,Vết côn trùng cắn,G_b03e36e8196fe63e,1,train,3
+864969376606488572,3,Insect Bite,Vết côn trùng cắn,G_02f5f2100cbc5032,1,train,3
+8751100562164689123,3,Insect Bite,Vết côn trùng cắn,G_16a5e6020d7f70cd,1,test,1
+8950060607485828180,3,Insect Bite,Vết côn trùng cắn,G_d6526a645f53f8db,1,train,2
+9093968729047273447,3,Insect Bite,Vết côn trùng cắn,G_f9b5e2c6bf738932,1,train,1
+9099364489634021883,3,Insect Bite,Vết côn trùng cắn,G_323b97745e4a1a73,1,train,2
+912700613781949239,3,Insect Bite,Vết côn trùng cắn,G_0d3cb27f3d088c48,1,train,1
+963694477603925530,3,Insect Bite,Vết côn trùng cắn,G_d20cbe03bd5c9f2a,1,train,1
+-114959561601268372,4,Folliculitis,Viêm nang lông,G_4345a5c32a3d193f,1,test,3
+-1937936622693861461,4,Folliculitis,Viêm nang lông,G_8b76a16b81cf46a1,1,train,1
+-2051363250643774652,4,Folliculitis,Viêm nang lông,G_003f673f7b16e3c3,2,train,2
+-2056172001267710981,4,Folliculitis,Viêm nang lông,G_2cdde5bf78305aed,1,train,3
+-2110024220741452514,4,Folliculitis,Viêm nang lông,G_a5be958992116c55,1,train,3
+-2281932453725824253,4,Folliculitis,Viêm nang lông,G_aabdae584e373bfa,1,train,2
+-2451133106015456592,4,Folliculitis,Viêm nang lông,G_4e9d4f599edb6f9b,1,train,1
+-2758674668179597959,4,Folliculitis,Viêm nang lông,G_24f6414196d0e3d4,1,test,3
+-3247544067658330427,4,Folliculitis,Viêm nang lông,G_499d7307160343d6,1,train,1
+-3313654553366162946,4,Folliculitis,Viêm nang lông,G_c68438cdfa4be5f5,1,train,1
+-334225504013808742,4,Folliculitis,Viêm nang lông,G_690fa0646098b2ab,1,train,1
+-3453153335285314118,4,Folliculitis,Viêm nang lông,G_b7a8f4eb9d716ffb,1,train,3
+-3740291905094527133,4,Folliculitis,Viêm nang lông,G_3e542794013adabb,1,train,3
+-4232149005208991014,4,Folliculitis,Viêm nang lông,G_19897134a661fa62,1,train,1
+-4535125822193885469,4,Folliculitis,Viêm nang lông,G_6b216308f04e2df6,1,val,2
+-4681186898904271014,4,Folliculitis,Viêm nang lông,G_03e9051212ece9ed,1,test,1
+-4695767486983535562,4,Folliculitis,Viêm nang lông,G_926ae6a3fd241f13,1,train,3
+-4744299817383430367,4,Folliculitis,Viêm nang lông,G_f58436ab05cb9cd7,1,train,2
+-4880307647101444385,4,Folliculitis,Viêm nang lông,G_884a19722074e1f6,1,test,3
+-5071157440606890983,4,Folliculitis,Viêm nang lông,G_732b712555e14a24,1,train,3
+-5106794152421526192,4,Folliculitis,Viêm nang lông,G_a3c0279a7e64ef42,1,train,1
+-5436299448948641231,4,Folliculitis,Viêm nang lông,G_cc15f7845a544ae6,1,train,1
+-5524949942134680196,4,Folliculitis,Viêm nang lông,G_ee982b2dee965647,1,train,1
+-5675058813348276029,4,Folliculitis,Viêm nang lông,G_25fd4e203ebbc85e,1,val,3
+-5913922383533072974,4,Folliculitis,Viêm nang lông,G_003f673f7b16e3c3,2,train,2
+-6387971651752188617,4,Folliculitis,Viêm nang lông,G_0cdaf1d0a30627a5,1,train,3
+-6389849460848982301,4,Folliculitis,Viêm nang lông,G_a9308c41e4b80775,1,train,3
+-6426560753902598659,4,Folliculitis,Viêm nang lông,G_fa1c9bc76878f93d,1,test,3
+-7127148813102728120,4,Folliculitis,Viêm nang lông,G_78f2224157153c7e,1,train,1
+-7129421309469296721,4,Folliculitis,Viêm nang lông,G_c0c1ab1382d637d5,1,val,3
+-7130314863872132543,4,Folliculitis,Viêm nang lông,G_730dfbf1a3ec0b36,1,train,3
+-7140426751919971254,4,Folliculitis,Viêm nang lông,G_6296bc9bcfda5dd2,1,train,3
+-7432151961683759568,4,Folliculitis,Viêm nang lông,G_2a3b466d5b189c12,1,train,3
+-7526888085066357479,4,Folliculitis,Viêm nang lông,G_d4cc6954592ddc06,1,train,1
+-8077935876609010934,4,Folliculitis,Viêm nang lông,G_34a3926d513916fe,1,train,2
+-809338751368705429,4,Folliculitis,Viêm nang lông,G_ad52484f53d29317,1,val,3
+-962251279953702051,4,Folliculitis,Viêm nang lông,G_275b24aa678e8b01,1,train,3
+1129555082201687214,4,Folliculitis,Viêm nang lông,G_56ce64165d4a6a77,1,val,2
+1132534065916942783,4,Folliculitis,Viêm nang lông,G_f98456c7e88d5b20,1,train,1
+1139038550659600500,4,Folliculitis,Viêm nang lông,G_8889136f630fc13e,1,train,1
+1146535083037482712,4,Folliculitis,Viêm nang lông,G_c4f37fe4ba4eacd2,1,train,3
+1217802956545325355,4,Folliculitis,Viêm nang lông,G_8ca25a9d68aec6bc,1,test,1
+1749920588224459605,4,Folliculitis,Viêm nang lông,G_97afee339f7f4b2d,1,train,1
+2084168231290015263,4,Folliculitis,Viêm nang lông,G_a72cede6f65e6b66,1,test,3
+2321167317546489395,4,Folliculitis,Viêm nang lông,G_11eefd699b3b0df9,1,train,1
+2346463657328001892,4,Folliculitis,Viêm nang lông,G_97a9cae9f84b6368,1,val,1
+2370389030234448496,4,Folliculitis,Viêm nang lông,G_c6e5515635225510,1,train,1
+2383547606705121100,4,Folliculitis,Viêm nang lông,G_1c9ed7cb1e08240b,1,train,3
+2544728617164619888,4,Folliculitis,Viêm nang lông,G_b09253707ed67a6e,1,train,2
+2555493844930773537,4,Folliculitis,Viêm nang lông,G_10a956a7307bcebe,1,test,3
+3650551953111278702,4,Folliculitis,Viêm nang lông,G_e2159aa886b0ad2b,1,train,1
+3689862615752795245,4,Folliculitis,Viêm nang lông,G_9a7eb2154d3e97a7,1,train,2
+3703025959306724787,4,Folliculitis,Viêm nang lông,G_ec1d1d8f2e81a948,1,train,1
+37685811519680675,4,Folliculitis,Viêm nang lông,G_4eec13b028c46a71,1,train,2
+3905100936130110268,4,Folliculitis,Viêm nang lông,G_7ff4859d657a9af9,1,val,3
+390750603571715651,4,Folliculitis,Viêm nang lông,G_9270e759a1f5b3ee,1,train,3
+3907804873656496630,4,Folliculitis,Viêm nang lông,G_66c990d47f9a71fb,1,train,1
+3910036176802997486,4,Folliculitis,Viêm nang lông,G_233a655ee8a16c43,1,test,1
+4140410826185492876,4,Folliculitis,Viêm nang lông,G_14dc8b3d2587c636,1,val,2
+4568350329811966647,4,Folliculitis,Viêm nang lông,G_1b60336c0c4b82ef,1,train,1
+507936192112363600,4,Folliculitis,Viêm nang lông,G_753836169d165958,1,train,3
+5380577617354461227,4,Folliculitis,Viêm nang lông,G_dc620f0706ebb9f6,1,val,3
+5483324975095927683,4,Folliculitis,Viêm nang lông,G_e41060febeeaf43b,1,test,3
+5567081113382937200,4,Folliculitis,Viêm nang lông,G_56f11077f6e72d9c,1,train,3
+5889346702438178384,4,Folliculitis,Viêm nang lông,G_76b1880eff36f0aa,1,val,3
+5909966583908308949,4,Folliculitis,Viêm nang lông,G_74511940ca23b6a0,1,train,1
+597372832999055528,4,Folliculitis,Viêm nang lông,G_c3422c36ffb62f9d,1,train,1
+5994980676917963050,4,Folliculitis,Viêm nang lông,G_922135dd8863249b,1,train,1
+6325516616043844557,4,Folliculitis,Viêm nang lông,G_e319f24a290faf68,1,train,3
+6331537126892600822,4,Folliculitis,Viêm nang lông,G_09514865315b000f,1,train,2
+6435209656777242644,4,Folliculitis,Viêm nang lông,G_6163f119e43359e9,1,test,3
+6564125194979270985,4,Folliculitis,Viêm nang lông,G_f4f602478beb4c7f,1,test,3
+6628525833933575267,4,Folliculitis,Viêm nang lông,G_5fdeb8a3b0a6af0f,1,train,3
+6712413870544266528,4,Folliculitis,Viêm nang lông,G_a292db377c1a7c5b,1,train,3
+6893125526720205465,4,Folliculitis,Viêm nang lông,G_e39e7f10b930bf2b,1,train,3
+7525581487594756530,4,Folliculitis,Viêm nang lông,G_d292e1bce80e7a99,1,test,3
+7531598251843189572,4,Folliculitis,Viêm nang lông,G_f7228d1f4adf312e,1,train,3
+7582112913523360713,4,Folliculitis,Viêm nang lông,G_e683f21fa508b814,1,train,3
+7823386482115222997,4,Folliculitis,Viêm nang lông,G_08a369ddf9303606,1,val,3
+7891416131138101639,4,Folliculitis,Viêm nang lông,G_2c2327a03990a9f7,1,train,3
+7980346475722528081,4,Folliculitis,Viêm nang lông,G_33902f7caf7d791b,1,val,3
+8051408007892164031,4,Folliculitis,Viêm nang lông,G_ce4031f616bb29e6,1,train,3
+8657244537639924785,4,Folliculitis,Viêm nang lông,G_7e96150c30271676,1,train,1
+8857428277161028454,4,Folliculitis,Viêm nang lông,G_bb0e46e0edb136fc,1,val,3
+998890198757718998,4,Folliculitis,Viêm nang lông,G_2680f0ddea7f35b2,1,train,1
+-1214152415217842430,5,Psoriasis,Vảy nến,G_1533c7ffa8baa4cb,1,train,1
+-1642983824354302525,5,Psoriasis,Vảy nến,G_fffd9ac41e38a151,1,train,1
+-1964801097019886136,5,Psoriasis,Vảy nến,G_72964001eb5e8230,1,train,3
+-2049849437326613803,5,Psoriasis,Vảy nến,G_fe045fbdc0057650,1,train,2
+-260055633387024300,5,Psoriasis,Vảy nến,G_9438e42f07c637cf,1,train,2
+-290702021969414444,5,Psoriasis,Vảy nến,G_9acde35a2449dbf1,1,train,1
+-3061907967183722226,5,Psoriasis,Vảy nến,G_4b0f9d83056f2659,1,train,2
+-3280224626565056516,5,Psoriasis,Vảy nến,G_f5bbde2dc182daf8,1,train,2
+-3285402640896594530,5,Psoriasis,Vảy nến,G_a9c9aef035b7a83a,1,test,1
+-3578376751237941734,5,Psoriasis,Vảy nến,G_c6bd075837168fcc,1,train,3
+-3737463860398593041,5,Psoriasis,Vảy nến,G_04cb4a8ea1a8452c,1,test,3
+-3932945708986814119,5,Psoriasis,Vảy nến,G_359703a8ce470e2a,1,train,3
+-4291551911510839745,5,Psoriasis,Vảy nến,G_362d362eba206644,1,train,2
+-452822633947944015,5,Psoriasis,Vảy nến,G_181b29f9e3ee0081,1,train,1
+-4696067359335613302,5,Psoriasis,Vảy nến,G_095c7eb73f340e31,1,val,3
+-500789885194928068,5,Psoriasis,Vảy nến,G_200c48d2b252dc61,1,train,1
+-5257206505787653259,5,Psoriasis,Vảy nến,G_49915af43dd9f99f,1,train,3
+-568386322973258434,5,Psoriasis,Vảy nến,G_753e890fd2ff6117,1,train,3
+-5870484252477872901,5,Psoriasis,Vảy nến,G_c5c3ba36e49a5765,1,val,2
+-6142155352076831737,5,Psoriasis,Vảy nến,G_552eb0faa4e5fe91,1,train,1
+-6190200459445824751,5,Psoriasis,Vảy nến,G_99eb8575820d67d9,1,val,1
+-665925579901995648,5,Psoriasis,Vảy nến,G_82333a127b03aa89,1,train,1
+-7014916626922853190,5,Psoriasis,Vảy nến,G_a4e854781c9ea46f,1,train,1
+-7480157272533549591,5,Psoriasis,Vảy nến,G_c6c12cb9babf5cf0,1,train,3
+-8257739059543715530,5,Psoriasis,Vảy nến,G_1dd04d8f89e73452,1,train,3
+-8360085615277782265,5,Psoriasis,Vảy nến,G_0c78b37c76cafef3,1,test,1
+-8967762494989283219,5,Psoriasis,Vảy nến,G_a793a697dc11322b,1,test,1
+-9081999645065295765,5,Psoriasis,Vảy nến,G_8486477e6c218f30,1,train,1
+-952723022706816568,5,Psoriasis,Vảy nến,G_e6c260492cbb89e8,1,val,1
+159823969875349519,5,Psoriasis,Vảy nến,G_29b00f555993a007,1,test,3
+1713680792880426853,5,Psoriasis,Vảy nến,G_2acc6501687ae03e,1,val,3
+1782066446270109098,5,Psoriasis,Vảy nến,G_c36ec6c29d5c8579,1,train,3
+1984523699625180217,5,Psoriasis,Vảy nến,G_f3ce17ce460b91a9,1,train,3
+2458798159426055234,5,Psoriasis,Vảy nến,G_e5aa0aa948d7c0c8,1,train,2
+2606087520572543875,5,Psoriasis,Vảy nến,G_7c679fe580fbda49,1,test,2
+2667111593988346734,5,Psoriasis,Vảy nến,G_9195ed0848df44d4,1,train,1
+2698648866798676998,5,Psoriasis,Vảy nến,G_3acb45fa244be408,1,train,3
+2911542453433068160,5,Psoriasis,Vảy nến,G_5eb82e518c8a9b6a,1,train,3
+2976050634898768726,5,Psoriasis,Vảy nến,G_40bb9c366a304c41,1,val,2
+2999814188741662326,5,Psoriasis,Vảy nến,G_e746cadf92270ee1,1,test,3
+3301384018375137286,5,Psoriasis,Vảy nến,G_2fec37df1b375759,1,train,1
+3596099349781140328,5,Psoriasis,Vảy nến,G_f405ad6b0cc16b87,1,train,1
+3926727397210732880,5,Psoriasis,Vảy nến,G_e0a7af441fbc8d20,1,val,3
+5077948372406945999,5,Psoriasis,Vảy nến,G_ad69d35a7dcdf501,1,train,3
+5304169411078336610,5,Psoriasis,Vảy nến,G_51479620dc4b3ac3,1,train,1
+5616547460191346376,5,Psoriasis,Vảy nến,G_259381e468e257f0,1,test,1
+573388956415217169,5,Psoriasis,Vảy nến,G_35ecdb67af6f58a7,1,train,3
+5752777419426160078,5,Psoriasis,Vảy nến,G_f8cd1ca164ba83c9,1,train,3
+5759072824389330562,5,Psoriasis,Vảy nến,G_f6bb2e4cb15883e3,1,train,1
+6122442396049697329,5,Psoriasis,Vảy nến,G_7f71489fac63572e,1,val,1
+6267432979357389491,5,Psoriasis,Vảy nến,G_20ba71a593b4ee16,1,train,3
+6592267744694757863,5,Psoriasis,Vảy nến,G_ea610008ca412de8,1,train,1
+6920768133327802456,5,Psoriasis,Vảy nến,G_deb2705bb65a3de3,1,train,1
+8379699954361855633,5,Psoriasis,Vảy nến,G_e5cdc25868048048,1,train,3
+935346003160692168,5,Psoriasis,Vảy nến,G_0ce125c30adf6230,1,train,1
+-1204349630028029673,6,Tinea,Nhiễm nấm da,G_53f9d115657d67cd,1,train,1
+-1492320040193351416,6,Tinea,Nhiễm nấm da,G_07d9b992c77a700e,1,train,3
+-1834609919572055750,6,Tinea,Nhiễm nấm da,G_15a520c6bc643250,1,train,2
+-2041150285640312578,6,Tinea,Nhiễm nấm da,G_304f35b4e0a032f9,1,train,2
+-2278432090169603776,6,Tinea,Nhiễm nấm da,G_dd9a21cdc6b63907,1,train,2
+-22984583040455183,6,Tinea,Nhiễm nấm da,G_1900890329ba4b91,1,val,3
+-236025651594313549,6,Tinea,Nhiễm nấm da,G_7211d0352572c9c8,1,test,1
+-3072430585312749422,6,Tinea,Nhiễm nấm da,G_6551a4e45d74fdec,1,train,3
+-3328747717411237446,6,Tinea,Nhiễm nấm da,G_a61dc097a04bbb15,1,train,1
+-3345002177565292187,6,Tinea,Nhiễm nấm da,G_61173d9b452555c3,1,train,3
+-4343637859112366862,6,Tinea,Nhiễm nấm da,G_c953cf1509671c52,1,train,1
+-4436190302260486173,6,Tinea,Nhiễm nấm da,G_55701aae7118f39f,1,train,3
+-521328877742525221,6,Tinea,Nhiễm nấm da,G_803c0a40caaff99e,1,test,3
+-6198311735040338064,6,Tinea,Nhiễm nấm da,G_7c64de4219dbf6fa,1,train,2
+-6560973568191373819,6,Tinea,Nhiễm nấm da,G_4779589961720d25,1,train,1
+-6771108735700949863,6,Tinea,Nhiễm nấm da,G_e5a93de3ace4b079,1,test,1
+-694718296081673949,6,Tinea,Nhiễm nấm da,G_0b657b7756955397,1,train,3
+-7165184304522588996,6,Tinea,Nhiễm nấm da,G_2b5760ca3c568cc6,1,test,3
+-7186854589364950928,6,Tinea,Nhiễm nấm da,G_f18d70115417496b,1,train,3
+-7274634757796753734,6,Tinea,Nhiễm nấm da,G_f21a0e5b0f72371d,1,test,3
+-7420846802637722396,6,Tinea,Nhiễm nấm da,G_6dcc47582931dd5b,1,train,2
+-7589195234367125654,6,Tinea,Nhiễm nấm da,G_29b84dd7c61f632b,1,train,3
+-8041117472456032841,6,Tinea,Nhiễm nấm da,G_1383265bb15fc657,1,train,1
+-8164731093846720780,6,Tinea,Nhiễm nấm da,G_70aa228d3a8814ff,1,test,1
+-8365666356999870062,6,Tinea,Nhiễm nấm da,G_7c526853994ffd45,1,test,2
+-8696629320841596066,6,Tinea,Nhiễm nấm da,G_885deb8d3e911523,1,val,1
+-8773804408232537379,6,Tinea,Nhiễm nấm da,G_3352179f18031a5c,1,train,3
+-8796348535040696426,6,Tinea,Nhiễm nấm da,G_c344dc79aa9f9399,1,train,1
+-989098544351209988,6,Tinea,Nhiễm nấm da,G_5eab2e8f5f573d1f,1,train,2
+12608478152982826,6,Tinea,Nhiễm nấm da,G_4089f0ec7e3e447c,1,val,3
+1553153717098052127,6,Tinea,Nhiễm nấm da,G_b71192038c022bdc,1,test,3
+1713789049192481311,6,Tinea,Nhiễm nấm da,G_36f8bf0649c961f9,1,train,3
+1732708987196330335,6,Tinea,Nhiễm nấm da,G_b211d2b0bec18870,1,train,3
+1986695337180741344,6,Tinea,Nhiễm nấm da,G_9850540ae23ba9ff,1,train,1
+2399958022456496252,6,Tinea,Nhiễm nấm da,G_8fbf3780d04cddcb,1,train,3
+2758250702794991987,6,Tinea,Nhiễm nấm da,G_69476be92547f5d9,1,train,3
+2862514195730627482,6,Tinea,Nhiễm nấm da,G_99ce89ba44e01c5e,1,val,1
+2958782824593955943,6,Tinea,Nhiễm nấm da,G_93388fca43d17082,1,train,2
+3027955585096410174,6,Tinea,Nhiễm nấm da,G_32ac413cafc81ddd,1,train,2
+3096461005902655042,6,Tinea,Nhiễm nấm da,G_3fe1adc51b24e8c7,1,train,3
+3774255705985758198,6,Tinea,Nhiễm nấm da,G_e5010cee74b2ab3b,1,train,3
+3974393705105729638,6,Tinea,Nhiễm nấm da,G_6d050665c4ced859,1,train,3
+406519606411366771,6,Tinea,Nhiễm nấm da,G_ec0b6d028adbc3f5,1,train,1
+5470034056557080362,6,Tinea,Nhiễm nấm da,G_8ffcf0da9104d837,1,train,3
+5874158619662441175,6,Tinea,Nhiễm nấm da,G_8663455e2e9a9501,1,val,3
+640979684609472844,6,Tinea,Nhiễm nấm da,G_87d19a89623da132,1,train,3
+6652301535878952942,6,Tinea,Nhiễm nấm da,G_7fdd4239c7b341f8,1,train,3
+7477906497801637159,6,Tinea,Nhiễm nấm da,G_d1247d1a133d562f,1,val,3
+7636687047776991161,6,Tinea,Nhiễm nấm da,G_a177b29e7c501e7d,1,train,1
+8260232556102858546,6,Tinea,Nhiễm nấm da,G_4bff0649be3b0dcd,1,train,1
+8296549785436989539,6,Tinea,Nhiễm nấm da,G_b19df5f579a690b7,1,train,3
+8345569212824249387,6,Tinea,Nhiễm nấm da,G_d0141c36263c9c01,1,val,3
+8730804164258534802,6,Tinea,Nhiễm nấm da,G_6f4048c2a8a369c2,1,val,1
+8763223239443174400,6,Tinea,Nhiễm nấm da,G_f0465e9f8200007a,1,train,2
+8936435227237247498,6,Tinea,Nhiễm nấm da,G_6476a9174e1badc2,1,train,1
+-1235573782679771458,7,Herpes Simplex,Herpes simplex (mụn rộp),G_ca581867a7e02fee,1,test,3
+-1369732580479712253,7,Herpes Simplex,Herpes simplex (mụn rộp),G_f9188fbb71312623,1,val,2
+-162327857281578644,7,Herpes Simplex,Herpes simplex (mụn rộp),G_512952701dc1d7b3,1,val,1
+-1688996550472163044,7,Herpes Simplex,Herpes simplex (mụn rộp),G_d6cc4be94b66fedf,1,train,1
+-1994784874419458634,7,Herpes Simplex,Herpes simplex (mụn rộp),G_3322f0eab94ec189,1,val,2
+-2298741642819106068,7,Herpes Simplex,Herpes simplex (mụn rộp),G_e661a2aa8f1d9ebe,1,test,3
+-2604354007631102660,7,Herpes Simplex,Herpes simplex (mụn rộp),G_efc82b5a7f7d752c,1,train,1
+-2994712363562385732,7,Herpes Simplex,Herpes simplex (mụn rộp),G_019b0a4facbf6f23,1,test,3
+-3953587143997695093,7,Herpes Simplex,Herpes simplex (mụn rộp),G_6b3a58e1494b75cb,1,val,1
+-4149065585657858240,7,Herpes Simplex,Herpes simplex (mụn rộp),G_c4d9816fdd3a45f7,2,train,3
+-6320794871398137141,7,Herpes Simplex,Herpes simplex (mụn rộp),G_fd6c325c2aeb4046,1,train,3
+-6759195629084095044,7,Herpes Simplex,Herpes simplex (mụn rộp),G_867f75e8ada1ab4b,1,test,1
+-7295998636663856875,7,Herpes Simplex,Herpes simplex (mụn rộp),G_20245f9e6ab22078,1,val,2
+-7555656749777206555,7,Herpes Simplex,Herpes simplex (mụn rộp),G_b2fdf361657c3eea,1,train,2
+-7637240478939124697,7,Herpes Simplex,Herpes simplex (mụn rộp),G_5bf6d382db1cfec5,1,train,1
+-7961058950525057564,7,Herpes Simplex,Herpes simplex (mụn rộp),G_dc66795f6d654cc6,1,train,1
+-8373370638802672214,7,Herpes Simplex,Herpes simplex (mụn rộp),G_c4d9816fdd3a45f7,2,train,3
+1606523083856481740,7,Herpes Simplex,Herpes simplex (mụn rộp),G_2e3f22e3e6066625,1,val,1
+2084479032845321772,7,Herpes Simplex,Herpes simplex (mụn rộp),G_39e782d70e573da1,1,train,3
+2290342379867388048,7,Herpes Simplex,Herpes simplex (mụn rộp),G_6f2f23c819abb2da,1,train,1
+2321704667922481215,7,Herpes Simplex,Herpes simplex (mụn rộp),G_ac30efb69c081571,1,train,3
+2794438463747787756,7,Herpes Simplex,Herpes simplex (mụn rộp),G_911917233d697798,1,train,1
+3370992293844034718,7,Herpes Simplex,Herpes simplex (mụn rộp),G_637cbcd0700cd963,1,train,1
+3440433832353798400,7,Herpes Simplex,Herpes simplex (mụn rộp),G_ae7479e38b19bbbf,1,train,1
+3635622745075258323,7,Herpes Simplex,Herpes simplex (mụn rộp),G_b6615fedd2d77101,1,train,1
+369899559078437059,7,Herpes Simplex,Herpes simplex (mụn rộp),G_f1d3231f1b31babf,1,test,3
+4286344291006467189,7,Herpes Simplex,Herpes simplex (mụn rộp),G_037cbc170de8843f,1,train,1
+4378591578924398273,7,Herpes Simplex,Herpes simplex (mụn rộp),G_39bc93c63f4d9a33,1,train,3
+5164167076991662974,7,Herpes Simplex,Herpes simplex (mụn rộp),G_6d69b736e3a7ed07,1,train,1
+5227299278338452921,7,Herpes Simplex,Herpes simplex (mụn rộp),G_3f24d27c924d12e8,1,train,1
+5395886735511287776,7,Herpes Simplex,Herpes simplex (mụn rộp),G_3e33320361b13aad,1,train,3
+562561751881066366,7,Herpes Simplex,Herpes simplex (mụn rộp),G_87e6f4f5c3b75d5d,1,train,1
+5684127628939156640,7,Herpes Simplex,Herpes simplex (mụn rộp),G_9074a299b54bbff2,1,train,2
+6239403484086737017,7,Herpes Simplex,Herpes simplex (mụn rộp),G_b044193beec09632,1,train,3
+6383063947856657975,7,Herpes Simplex,Herpes simplex (mụn rộp),G_c74abdde33084b0e,1,train,1
+6499319596721550753,7,Herpes Simplex,Herpes simplex (mụn rộp),G_bf6524a50c50324e,1,val,3
+6938731351808612684,7,Herpes Simplex,Herpes simplex (mụn rộp),G_4ad8d159d6114078,1,train,1
+7055510379477961161,7,Herpes Simplex,Herpes simplex (mụn rộp),G_59329145b64faafd,1,train,1
+7202299462338645173,7,Herpes Simplex,Herpes simplex (mụn rộp),G_f838444db9ce12f4,1,train,2
+7607772708674093457,7,Herpes Simplex,Herpes simplex (mụn rộp),G_f91f1a44a73bb4d2,1,train,3
+7852655105845680010,7,Herpes Simplex,Herpes simplex (mụn rộp),G_0b04d637f9d61bba,1,val,1
+7876965016173365298,7,Herpes Simplex,Herpes simplex (mụn rộp),G_590d81ee0f088140,1,train,1
+7992843040462873166,7,Herpes Simplex,Herpes simplex (mụn rộp),G_dcbfae3bb1abb72e,1,train,1
+8116783593040892836,7,Herpes Simplex,Herpes simplex (mụn rộp),G_ea9b0f890de2bf2d,1,train,2
+8242900516684026470,7,Herpes Simplex,Herpes simplex (mụn rộp),G_47eb8eaeddc7e9b6,1,train,3
+8290822761716679927,7,Herpes Simplex,Herpes simplex (mụn rộp),G_416477de9b2e1d54,1,test,3
+8376081099122980433,7,Herpes Simplex,Herpes simplex (mụn rộp),G_a159a0b35b7f759c,1,train,3
+8601439174617804297,7,Herpes Simplex,Herpes simplex (mụn rộp),G_c05afbf197d63ed7,1,train,3
+868379715655855009,7,Herpes Simplex,Herpes simplex (mụn rộp),G_a050942d5ae1001f,1,train,3
+8880285596507415327,7,Herpes Simplex,Herpes simplex (mụn rộp),G_c174fd9a1fbadb8c,1,train,2
+9008681283053360434,7,Herpes Simplex,Herpes simplex (mụn rộp),G_2b5601c50ce6de57,1,test,3

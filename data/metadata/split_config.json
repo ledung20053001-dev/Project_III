@@ -1,0 +1,100 @@
+{
+  "random_seed": 42,
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "method": "deterministic per-class grouped allocation by case count",
+  "group_rule": "connected components of case_id linked by identical content_sha256",
+  "manifest_path": "data/metadata/dataset_images.csv",
+  "manifest_sha256": "b9d2f7b3aca02e6e4e38f1304721d993430b56c248832d47cd4aa5e48493f223",
+  "mapping_path": "data/metadata/class_mapping.json",
+  "mapping_sha256": "1776c8a23236c5747b64eb0bb8ad7b69aefa42b50bb6e58cdfb805d59106aa42",
+  "python_version": "3.11.9",
+  "library": "Python standard library; no sklearn",
+  "targets_by_class": {
+    "0": {
+      "train": 223,
+      "val": 48,
+      "test": 48
+    },
+    "1": {
+      "train": 137,
+      "val": 30,
+      "test": 29
+    },
+    "2": {
+      "train": 115,
+      "val": 25,
+      "test": 25
+    },
+    "3": {
+      "train": 84,
+      "val": 18,
+      "test": 18
+    },
+    "4": {
+      "train": 59,
+      "val": 13,
+      "test": 13
+    },
+    "5": {
+      "train": 39,
+      "val": 8,
+      "test": 8
+    },
+    "6": {
+      "train": 39,
+      "val": 8,
+      "test": 8
+    },
+    "7": {
+      "train": 36,
+      "val": 8,
+      "test": 7
+    }
+  },
+  "actual_cases_by_class": {
+    "0": {
+      "train": 223,
+      "val": 48,
+      "test": 48
+    },
+    "1": {
+      "train": 137,
+      "val": 30,
+      "test": 29
+    },
+    "2": {
+      "train": 115,
+      "val": 25,
+      "test": 25
+    },
+    "3": {
+      "train": 84,
+      "val": 18,
+      "test": 18
+    },
+    "4": {
+      "train": 59,
+      "val": 13,
+      "test": 13
+    },
+    "5": {
+      "train": 39,
+      "val": 8,
+      "test": 8
+    },
+    "6": {
+      "train": 39,
+      "val": 8,
+      "test": 8
+    },
+    "7": {
+      "train": 36,
+      "val": 8,
+      "test": 7
+    }
+  }
+}

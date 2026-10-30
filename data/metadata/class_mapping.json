@@ -1,0 +1,34 @@
+{
+  "0": {
+    "label_en": "Eczema",
+    "label_vi": "Chàm (viêm da dạng chàm)"
+  },
+  "1": {
+    "label_en": "Allergic Contact Dermatitis",
+    "label_vi": "Viêm da tiếp xúc dị ứng"
+  },
+  "2": {
+    "label_en": "Urticaria",
+    "label_vi": "Mề đay"
+  },
+  "3": {
+    "label_en": "Insect Bite",
+    "label_vi": "Vết côn trùng cắn"
+  },
+  "4": {
+    "label_en": "Folliculitis",
+    "label_vi": "Viêm nang lông"
+  },
+  "5": {
+    "label_en": "Psoriasis",
+    "label_vi": "Vảy nến"
+  },
+  "6": {
+    "label_en": "Tinea",
+    "label_vi": "Nhiễm nấm da"
+  },
+  "7": {
+    "label_en": "Herpes Simplex",
+    "label_vi": "Herpes simplex (mụn rộp)"
+  }
+}

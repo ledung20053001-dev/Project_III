@@ -1,0 +1,30 @@
+seed: 42
+image_size: 224
+batch_size: 16
+num_workers: 0
+pin_memory: auto
+drop_last_train: false
+
+paths:
+  project_root: .
+  mapping: data/metadata/class_mapping.json
+  train: data/metadata/train.csv
+  val: data/metadata/val.csv
+  test: data/metadata/test.csv
+
+normalization:
+  name: imagenet
+  mean: [0.485, 0.456, 0.406]
+  std: [0.229, 0.224, 0.225]
+
+augmentation:
+  strategy: preserve_full_image_with_padding
+  padding_fill_rgb: [128, 128, 128]
+  horizontal_flip_probability: 0.5
+  rotation_degrees: 8.0
+  color_jitter:
+    brightness: 0.1
+    contrast: 0.1
+    saturation: 0.08
+    hue: 0.02
+

@@ -1,0 +1,9 @@
+﻿class_id,label_en,label_vi,total_cases,total_images,referenced_images,missing_images,image_count_type,case_percentage,image_percentage,avg_images_per_case,estimated_train_cases,estimated_val_cases,estimated_test_cases
+0,Eczema,Chàm (viêm da dạng chàm),319,695,695,0,local_exists_not_content_validated,30.4971,31.4907,2.1787,223,48,48
+1,Allergic Contact Dermatitis,Viêm da tiếp xúc dị ứng,196,410,410,0,local_exists_not_content_validated,18.738,18.5773,2.0918,137,29,30
+2,Urticaria,Mề đay,165,332,332,0,local_exists_not_content_validated,15.7744,15.043,2.0121,115,25,25
+3,Insect Bite,Vết côn trùng cắn,120,262,262,0,local_exists_not_content_validated,11.4723,11.8713,2.1833,84,18,18
+4,Folliculitis,Viêm nang lông,85,183,183,0,local_exists_not_content_validated,8.1262,8.2918,2.1529,59,13,13
+5,Psoriasis,Vảy nến,55,108,108,0,local_exists_not_content_validated,5.2581,4.8935,1.9636,38,8,9
+6,Tinea,Nhiễm nấm da,55,121,122,1,local_exists_not_content_validated,5.2581,5.4826,2.2182,38,8,9
+7,Herpes Simplex,Herpes simplex (mụn rộp),51,96,96,0,local_exists_not_content_validated,4.8757,4.3498,1.8824,36,8,7

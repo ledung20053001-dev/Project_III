@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "config": "configs/data.yaml",
+  "seed": 42,
+  "batch_size": 16,
+  "num_workers": 0,
+  "pin_memory": false,
+  "drop_last_train": false,
+  "checks": {
+    "train": {
+      "images": 1551,
+      "batches": 97,
+      "last_batch_size": 15,
+      "classes_seen": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "image_shape": [
+        3,
+        224,
+        224
+      ],
+      "image_dtype": "torch.float32",
+      "label_dtype": "torch.int64",
+      "finite": true
+    },
+    "val": {
+      "images": 333,
+      "batches": 21,
+      "last_batch_size": 13,
+      "classes_seen": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "image_shape": [
+        3,
+        224,
+        224
+      ],
+      "image_dtype": "torch.float32",
+      "label_dtype": "torch.int64",
+      "finite": true
+    },
+    "test": {
+      "images": 330,
+      "batches": 21,
+      "last_batch_size": 10,
+      "classes_seen": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "image_shape": [
+        3,
+        224,
+        224
+      ],
+      "image_dtype": "torch.float32",
+      "label_dtype": "torch.int64",
+      "finite": true
+    },
+    "transform_behavior": {
+      "train_augmentation_observed": true,
+      "validation_deterministic": true,
+      "test_deterministic": true
+    }
+  },
+  "preview": "results/data_analysis/task5_train_transform_preview.png",
+  "torch_version": "2.15.0+cpu"
+}

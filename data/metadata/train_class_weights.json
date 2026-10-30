@@ -1,0 +1,58 @@
+{
+  "formula": "N / (K * n_c)",
+  "source_split": "train",
+  "train_total_images": 1551,
+  "num_classes": 8,
+  "weights_in_class_id_order": [
+    0.39647239,
+    0.64410299,
+    0.84293478,
+    1.05942623,
+    1.64300847,
+    2.51785714,
+    2.25436047,
+    2.89365672
+  ],
+  "by_class_id": {
+    "0": {
+      "label_en": "Eczema",
+      "train_images": 489,
+      "class_weight": 0.39647239
+    },
+    "1": {
+      "label_en": "Allergic Contact Dermatitis",
+      "train_images": 301,
+      "class_weight": 0.64410299
+    },
+    "2": {
+      "label_en": "Urticaria",
+      "train_images": 230,
+      "class_weight": 0.84293478
+    },
+    "3": {
+      "label_en": "Insect Bite",
+      "train_images": 183,
+      "class_weight": 1.05942623
+    },
+    "4": {
+      "label_en": "Folliculitis",
+      "train_images": 118,
+      "class_weight": 1.64300847
+    },
+    "5": {
+      "label_en": "Psoriasis",
+      "train_images": 77,
+      "class_weight": 2.51785714
+    },
+    "6": {
+      "label_en": "Tinea",
+      "train_images": 86,
+      "class_weight": 2.25436047
+    },
+    "7": {
+      "label_en": "Herpes Simplex",
+      "train_images": 67,
+      "class_weight": 2.89365672
+    }
+  }
+}

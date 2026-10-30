@@ -133,9 +133,13 @@ Tên bệnh bằng tiếng Việt được quản lý tập trung, không thay �
 
 - [x] Xác định chủ đề, nguồn dữ liệu SCIN và định hướng phân loại ảnh.
 - [x] Tải dữ liệu ảnh về máy local.
-- [ ] Kiểm tra ảnh, thống kê số ca và phân bố các nhãn đã chọn.
-- [ ] Chuẩn hóa từ điển nhãn tiếng Việt và chốt danh sách lớp.
-- [ ] Tạo tập train/validation/test theo `case_id`.
+- [x] Thống kê số ca, số ảnh tham chiếu và ảnh local tồn tại cho các nhãn.
+- [x] Chuẩn hóa từ điển nhãn tiếng Việt và chốt 8 lớp ban đầu.
+- [x] Mở, giải mã, chuyển RGB và lập manifest cho các ảnh hợp lệ.
+- [x] Phát hiện ảnh trùng nội dung và lưu nhóm ca cần giữ cùng bộ chia.
+- [x] Phân tích mất cân bằng theo số ca và số ảnh trên toàn bộ manifest.
+- [x] Tạo tập train/validation/test theo nhóm ca và ngăn rò rỉ ảnh trùng.
+- [x] Xây dựng Dataset, transform và DataLoader; kiểm tra toàn bộ ba split.
 - [ ] Xây dựng mô hình baseline.
 - [ ] Thử nghiệm transfer learning và tối ưu siêu tham số.
 - [ ] Đánh giá trên tập test độc lập.
